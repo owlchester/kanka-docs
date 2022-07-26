@@ -12,10 +12,18 @@ Check out the [getting started](getting-started) section for further information
 ---
 maxdepth: 1
 hidden:
-caption: About Kanka docs
+caption: Getting started
+---
+getting-started
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Features
 ---
 
-getting-started
 features/characters
 features/permissions
 features/search
@@ -23,12 +31,36 @@ features/mentions
 features/quick-creator
 features/attributes
 features/marketplace
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Guides
+---
 guides/dashboard
 guides/templates
 guides/testing-permissions
 guides/todo-tag
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Advanced Features
+---
 advanced/sidebar
 advanced/keyboard-shortcuts
 advanced/disabling-modules
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Misc
+---
 helping-out
 ```
