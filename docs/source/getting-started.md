@@ -1,17 +1,12 @@
-Getting Started
-=====
+# Getting Started
 
-.. _account:
-
-Account
-------------
+## Account
 
 To use Kanka, you first need to register an account. You can either use an email and password combination, or use a third-party service like Facebook, Twitter, or Google.
 
 Creating your account automatically logs you in and creates your first campaign for you.
 
-Basic terminology
-----------------
+## Basic terminology
 
 Kanka uses the word **campaign** to organise your content. Think of it as your *world*, or your *project*. Most of the time in Kanka will be spent looking at contents of a single campaign.
 
