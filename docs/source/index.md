@@ -4,9 +4,9 @@
 
 Check out the [getting started](getting-started) section for further information.
 
-!!! note
-
-   This documentation is under active development.
+```{admonition} Note
+This documentation is under active development.
+```
 
 ```{toctree}
 ---

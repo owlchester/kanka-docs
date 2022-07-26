@@ -22,6 +22,6 @@ We recommend that you start off by using tools like [Hoppscotch](https://hoppsco
 
 Wanting to interact with the API using python or another popular programming language? Someone might have already written a wrapper for that. Have a look on the [kanka topic on Github](https://github.com/topics/kanka) to see what others are building!
 
-!!! Need help
-
-    If you're struggling with the API, head over to our [Discord](https://kanka.io/go/discord) and ask for help in the `#development-talk` channel.
+```{admonition} Need help?
+If you're struggling with the API, head over to our [Discord](https://kanka.io/go/discord) and ask for help in the `#development-talk` channel.
+``` 
