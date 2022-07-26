@@ -9,6 +9,12 @@ Check out the [getting started](getting-started) section for further information
    This documentation is under active development.
 
 ```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: About Kanka docs
+---
+
 getting-started
 features/characters
 features/permissions
