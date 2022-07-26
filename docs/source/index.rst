@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to Kanka's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Kanka** (/ˈkɐŋkɐ/) is an online note-taking tool for authors, worldbuilders, and role playing gamers.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`getting-started` section for further information.
 
 .. note::
 
@@ -18,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   getting-started
+
