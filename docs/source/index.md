@@ -6,7 +6,7 @@ Check out the [getting started](getting-started) section for further information
 
 !!! note
 
-   This project is under active development.
+   This documentation is under active development.
 
 ## Contents
 
@@ -20,11 +20,14 @@ Check out the [getting started](getting-started) section for further information
   * [Mentions](features/mentions)
   * [Quick Creator](features/quick-creator)
   * [Attributes](features/attributes)
+  * [Marketplace](features/marketplace)
 * Guides
   * [Dashboard setup](guides/dashboard) 
   * [Templates](guides/templates) 
   * [Testing permissions](guides/testing-permissions) 
+  * [Todo Tag](guides/todo-tag) 
 * Advanced Features
   * [Sidebar setup](advanced/sidebar)
   * [Keyboard Shortcuts](advanced/keyboard-shortcuts)
   * [Disabling Modules](advanced/disabling-modules)
+* [Helping out](helping-out)
