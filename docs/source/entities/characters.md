@@ -1,5 +1,10 @@
 # Characters
 
+Characters are the most used entity type in Kanka, and for good reason. A world needs things in it to feel alive! Characters represent the people living in your world, basically anything with a consciousness than can have agency.
+
+We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type.
+
+## Building a character
 
 Let's focus on creating a character, but keep in mind that most of the steps here apply for all other entity types as well.
 
@@ -7,16 +12,16 @@ From your campaign's sidebar, click on **Characters**, this brings you to the li
 
 Characters come with a bunch of pre-defined fields. Only the name is mandatory, but we'll quickly go other the various fields.
 
-## Tabs
+### Tabs
 
 To keep the forms from being overwhelming, they are split up into several tabs.
 
-### Entry tab
+#### Entry tab
 
 The entry tab contains the description of the character.
 
 * **Name**: the name of your character. This will be used for search and mentioning entities. If a character with a similar name already exists, a warning will appear below the name field.
-    
+
 * **Type**: this text field can contain anything you want to help you distinguish between various characters. A common example is writing a character's occupation.
 
 * **Title**: a character's title is displayed on the character's page. This text field can be an honorific title.
@@ -42,7 +47,7 @@ Next up, the character's image. You can either select an image from your device,
 And lastly, for members of the campaign's admin role, the Privacy field. Is selected, this character won't be visible to members of the campaign outside of its admin role.
 
 
-### Traits
+#### Traits
 
 In this interface, you can add descriptions to the character's physically appearance and personality traits. You have the option of pinning either all appearances or personality traits, making them visible on the character's overview page.
 
@@ -51,13 +56,13 @@ Organisations
 
 If this is your first character, you might not yet have organisations. You can create one on the fly, or come back to this interface later. This allows you to make this character a member of one or several organisations of your world.
 
-### Organisations
+#### Organisations
 
 This tab allows to control in which organisations the character is a member of.
 
-### Boosts
+#### Boosts
 
-This tab is only available to [Boosted Campaigns](https://kanka.io/en-US/boosters).
+This tab is only available to [boosted Campaigns](https://kanka.io/en-US/boosters).
 
 These fields include
 
@@ -65,10 +70,10 @@ These fields include
 * **Header image**: A header image is an image displayed behind the character's image, name, and info like tags and title displayed at the top of the character's page.
 * **Gallery image**: Instead of uploading an image to the character, select an image from the gallery.
 
-### Attributes
+#### Attributes
 
-Attributes are values attached to your character. Think HP, level, and more. Learn more on Attributes.
+Attributes are values attached to your character. Think HP, level, and more. Learn more about [attributes](features/attributes).
 
-### Permissions
+#### Permissions
 
-The last tab is about permissions. We go over this in more detail on our [Permissions](features/permissions) page
+The last tab is about permissions. We go over this in more detail on our [permissions](features/permissions) page

@@ -20,7 +20,7 @@ The default page that loads up when calling Kanka is your campaign dashboard. By
 
 ## Next up
 
-[Creating a character](features/characters)
+[Overview](entities/overview)
 
 
 ## Needs filling out

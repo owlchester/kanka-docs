@@ -17,6 +17,9 @@ To create a new character based on the template, navigate to the characters page
 
 This brings up the new character page, will values from the template filled out. The name is always empty, to help you avoid forgetting the name.
 
+
+![Defining an entity as a template](img/templates.png)
+
 In the form's copy options tab, you can control which related elements are to be copied over. All of these options are enabled by default.
 
 

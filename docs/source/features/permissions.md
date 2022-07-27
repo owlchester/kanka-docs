@@ -72,6 +72,6 @@ Here is a quick run down of what each of the permissions do.
 * **All**: This element is visible to all. 
 
 
-## Next up
+## Related
 
 > [Testing permissions](../guides/testing-permissions)
