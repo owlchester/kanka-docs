@@ -21,6 +21,11 @@ The advanced mention can also specify the HTML anchor the link should point to u
 
 You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some options are type, location, race, gender, pronouns, title.
 
+
+```{admonition} Limitation
+While you can render a target's entry with `[entity:123|field:entry]`, the target's entry won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. 
+```
+
 Parameters can also be passed along to the entity link. For example, specify which year and month get shown on a calendar with `[calendar:100|params:year=2022&month=07]`. The same can be done with ordering sublists. For example, order family subfamilies by location name with `[family:100|page:families|params:k=location.name&o=asc]`.
 
 ## Attributes
