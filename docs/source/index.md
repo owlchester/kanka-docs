@@ -54,6 +54,7 @@ hidden:
 caption: Features
 ---
 
+features/posts
 features/permissions
 features/search
 features/mentions
