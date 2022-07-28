@@ -47,6 +47,15 @@ Always visible on the default dashboard of a campaign, this widget can be added 
 
 ![Campaign dashboard widget](img/dashboard-campaign.png)
 
+### Widget Filters
+
+You can filter entities displayed on the recently modified and random widget by providing a list of fields of the entity and values. For example, you can use `is_dead=1&type=NPC` to filter on dead characters of the NPC type.
+
+To make your life easier, when viewing a filtered list of entities, the filters will have a **copy to clipboard** button. For example, when viewing the characters of the campaign, filter on the kind of characters you want to display, click the button, and past the result in the widget's **filter** field.
+
+![Copy filters to the clipboard](img/dashboard-filters.png)
+
+
 
 ## Custom Dashboards
 
