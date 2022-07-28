@@ -43,7 +43,7 @@ The calendar's year can be -2'000'000'000 to 2'000'000'000. The same is true for
 
 ## Calendar widget
 
-A calendar can be displayed on the dashboard. [Find out more](guides/dashboard#calendar)
+A calendar can be displayed on the dashboard. [Find out more](guides/dashboard#calendar).
 
 
 ## Why doesn't the calendar support X, Y or Z feature?
