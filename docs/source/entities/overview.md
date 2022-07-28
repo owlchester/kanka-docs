@@ -10,5 +10,5 @@ Most entites have the same basic structure of a **name**, **type**, an **entry**
 
 ## Related
 
-[Transforming an entity](/guides/transform.md)
+[Transforming an entity](/guides/transform)
 

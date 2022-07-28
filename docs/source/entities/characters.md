@@ -88,4 +88,4 @@ This covers how to create a character. As you create other types of entities in 
 
 ## Deities?
 
-We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type.
+We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type, and combine them with a [quick link](/advanced/quick-link).
