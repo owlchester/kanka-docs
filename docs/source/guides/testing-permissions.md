@@ -2,6 +2,9 @@
 
 Part of setting up your Kanka campaign is setting up the correct Permissions. It is easily to check what your players can see without having to create a second account or asking for your players’ passwords.
 
+[![Testing permissions youtube video](https://img.youtube.com/vi/GgBmhL0vwig/0.jpg)](https://youtu.be/GgBmhL0vwig)
+
+
 ## Campaign Setup
 
 To check your campaign permissions, you’ll first need another member in your campaign that isn’t part of the campaign's admin role. As a campaign admin, you can view your campaign as one of your non-admin members.

@@ -19,8 +19,7 @@ Link to other entities by typing `[` and the first few characters of an entity t
 
 The advanced mention can also specify the HTML anchor the link should point to using `[entity:123|anchor:post-69]`.
 
-You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some options are type, location, race, gender, pronouns, title.
-
+You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some options are type, location, race, gender, pronouns, title. You can even inject the target's entry with `[entity:123|field:entry]`.
 
 ```{admonition} Limitation
 While you can render a target's entry with `[entity:123|field:entry]`, the target's entry won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. 

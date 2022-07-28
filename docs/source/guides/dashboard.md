@@ -39,6 +39,6 @@ Always visible on the default dashboard of a campaign, this widget can be added 
 
 ## Custom Dashboards
 
-(Boosted campaigns)[https://kanka.io/en-US/boosters] can have more than a single dashboard.
+[Boosted campaigns](https://kanka.io/en-US/boosters) can have more than a single dashboard.
 
 Non-default dashboards have their own simple permission engine linked to the campaign's roles. For example, a dashboard can be the default one for your players, with a focus on their current quest progress.
