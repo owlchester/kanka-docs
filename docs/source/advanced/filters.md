@@ -18,4 +18,4 @@ The filter doesn't evaluate attribute calculations. If an attribute has a value 
 
 ## Copy to clipboard
 
-When filters are active, the copy to clipboard button becomes active. This copies the filters to your clipboard, and you can use those for dashboard widget filters or for quick link filters.
+When filters are active, the copy to clipboard button becomes active. This copies the filters to your clipboard, and you can use those for dashboard [widget filters](guides/dashboard#widget-filters) or for [quick link](advanced/quick-links) filters.

@@ -102,6 +102,7 @@ hidden:
 caption: Advanced Features
 ---
 advanced/filters
+advanced/quick-links
 advanced/keyboard-shortcuts
 advanced/visibility
 advanced/html-formatting
