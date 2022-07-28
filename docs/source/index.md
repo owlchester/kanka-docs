@@ -74,6 +74,8 @@ features/campaigns/members
 features/campaigns/export
 features/campaigns/modules
 features/campaigns/recovery
+features/campaigns/sidebar
+features/campaigns/theming
 features/campaigns/leaving
 features/campaigns/deleting
 ```
@@ -88,6 +90,7 @@ guides/dashboard
 guides/templates
 guides/testing-permissions
 guides/todo-tag
+guides/transform
 ```
 
 ```{toctree}
@@ -96,9 +99,18 @@ maxdepth: 1
 hidden:
 caption: Advanced Features
 ---
-advanced/sidebar
+advanced/html-formatting
 advanced/keyboard-shortcuts
 advanced/visibility
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Profile Settings
+---
+profile/appearance
 ```
 
 ```{toctree}

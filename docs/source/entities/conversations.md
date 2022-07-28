@@ -1,8 +1,10 @@
 # Conversations
 
-A **deprecated** conversation is available in Kanka. By default, it is disabled in campaigns, and can be [enabled](features/campaigns/modules).
+```{admonition} Deprecated
+This module is deprecated, meaning it isn't getting any new updates and will eventually be removed from Kanka. This entity type can be [enabled](features/campaigns/modules) in your campaign settings.
+```
 
-Doing so enables the **conversations** module in the campaign, available in the [campaign sidebar](features/sidebar).
+The conversation entity type allows for fictional conversation between characters of the world, or between members of the campaign.
 
 ## Types of conversations
 
