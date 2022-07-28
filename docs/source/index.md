@@ -17,6 +17,7 @@ maxdepth: 1
 hidden:
 caption: Getting started
 ---
+overview
 getting-started
 ```
 
@@ -80,6 +81,7 @@ features/campaigns/sidebar
 features/campaigns/theming
 features/campaigns/leaving
 features/campaigns/deleting
+features/campaigns/public-campaigns
 ```
 
 ```{toctree}
