@@ -23,7 +23,15 @@ This *pins* an entity to the dashboard, showing its image and a preview of the e
 
 ### Calendar
 
-This widget displays one of your campaign's calendar on the dashboard, including 5 previous and upcoming events. Note that the list isn't always the most accurate, especially if the calendar has many reoccurring events.
+This widget displays one of your campaign's calendar on the dashboard, including 5 previous and upcoming events.
+
+![Calendar dashboard widget](img/dashboard-calendar.png)
+
+#### Known Limitations
+
+The more reoccurring reminders in a calendar, the less the previous/next list is accurate, by virtue of the code not being able to process thousands of reminders on each page load, each with custom reoccurring values and varying permissions.
+
+Reminders reoccurring on moon phases are also completely ignored from the calendar widget, as those are impossible to calculate without regenerating the whole calendar.
 
 ### Text Header
 
@@ -36,6 +44,9 @@ Similar to the entity preview, this however selects a random entity from the cam
 ### Campaign Header
 
 Always visible on the default dashboard of a campaign, this widget can be added to other dashboards and shows the campaign's name, short description, and dashboard image as a background.
+
+![Campaign dashboard widget](img/dashboard-campaign.png)
+
 
 ## Custom Dashboards
 

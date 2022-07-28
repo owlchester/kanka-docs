@@ -6,7 +6,7 @@ Locations are places something or someone can be in, be it a tavern, a city, a p
 
 Let's have a quick overview of fields that are unique to locations.
 
-* **Parent location**: This allows you to define the *parent* of the location you're creating. For example, if you're creating Paris, the parent location might be France.
+* **Parent location**: this [foreign field](entities/foreign-fields) allows you to define the [parent](features/nested) of the location you're creating. For example, if you're creating Paris, the parent location might be France.
 
 ## Profile section
 

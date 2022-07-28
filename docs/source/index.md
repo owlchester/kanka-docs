@@ -40,11 +40,11 @@ entities/journals
 entities/items
 entities/events
 entities/abilities
-entities/conversations
 entities/tags
-entities/dice-rolls
 entities/notes
 entities/attribute-templates
+entities/conversations
+entities/dice-rolls
 ```
 
 ```{toctree}
@@ -55,6 +55,7 @@ caption: Features
 ---
 
 features/posts
+features/nested
 features/permissions
 features/search
 features/mentions

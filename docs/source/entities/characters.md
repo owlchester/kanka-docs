@@ -2,13 +2,13 @@
 
 Characters are the most used entity type in Kanka, and for good reason. A world needs things in it to feel alive! Characters represent the people living in your world, basically anything with a consciousness than can have agency.
 
-> We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type.
-
 ## Building a character
 
 Let's focus on creating a character.
 
-From your campaign's sidebar, click on **Characters**, this brings you to the list of all characters of the campaign. On the top right, click on the **New** button. This will bring you to the character creation form.
+From your campaign's sidebar, click on **Characters**, this brings you to the list of all characters of the campaign. On the top right, click on the **+ Character** button. This will bring you to the character creation form.
+
+![Creating a character](img/characters-create.png)
 
 Characters come with a bunch of pre-defined fields. Only the name is mandatory, but we'll quickly go other the various fields.
 
@@ -27,6 +27,9 @@ Next up are [foreign fields](entities/foreign-fields). Foreign fields are other 
 * **Family**: the character's family. Note that only a single family can be selected.
 * **Location**: where the character is currently located. If filled in, this will show up in the location's characters subpage.
 * **Races**: the various races or kin of the character. A character can have multiple races.
+
+Let's continue with more fields available for characters.
+
 * **Entry**: this is where the character's description is written. Who are they, what are they doing, how do they fit inside the world you've created.
 * **Age**: this text field allows both numbers and text (like very old).
 * **Gender**: the character's gender. Note that this field will suggest the 10 most used genders of your campaign as your campaign becomes more populated and diverse.
@@ -78,5 +81,11 @@ With your first character ready, time to save it into Kanka. Clicking on the **s
 By default, Kanka shows you the list of your campaign's characters when creating a new one. You can change this in your [settings](profile/appearance).
 
 ```
+
 ## Known territory
 
+This covers how to create a character. As you create other types of entities in the campaign, you'll notice that the interface reuses the same concepts and fields throughout most of Kanka. This is by design to quickly get you familiar with Kanka's "logic". Kanka's goal is to get out of the way quickly and let you free to worldbuild and plan your players' doom.
+
+## Deities?
+
+We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type.
