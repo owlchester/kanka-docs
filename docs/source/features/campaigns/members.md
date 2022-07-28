@@ -17,4 +17,4 @@ Doing so will notify them in Kanka that they have been removed. None of the cont
 
 ## Related
 
-[Testing permissions](guides/testing-permissions)
+[Testing permissions](/guides/testing-permissions)

@@ -20,13 +20,13 @@ Note that if the entity can't be seen by a user, the link won't appear in the qu
 
 ### Entity list
 
-This quick link points to a list of entities, for example a list of characters. You can combine this with [filters](advanced/filters), to for example only show characters who are dead, or who have a specific tag.
+This quick link points to a list of entities, for example a list of characters. You can combine this with [filters](/advanced/filters), to for example only show characters who are dead, or who have a specific tag.
 
 The nested field controls if the link forces the page's nested more. This is only useful for entities which have a parent (ie locations).
 
 #### Deities
 
-For example, if you want to have a quick links going to your [characters](entities/characters) that are part of the campaign's **deity** race, follow these steps.
+For example, if you want to have a quick links going to your [characters](/entities/characters) that are part of the campaign's **deity** race, follow these steps.
 
 1. Go to your characters, and filter them to your deity race.
 2. On the characters list showing just your deities, expand the filters section and click the **copy to clipboard** button.
@@ -39,4 +39,4 @@ To replicate a wiki's random page link, use this option to open a random entity 
 
 ### Dashboard
 
-If the [campaign is boosted](https://kanka.io/en-US/boosters), you can point the quick link to a specific [dashboard](guides/campaigns) of the campaign.
+If the [campaign is boosted](https://kanka.io/en-US/boosters), you can point the quick link to a specific [dashboard](/guides/campaigns) of the campaign.

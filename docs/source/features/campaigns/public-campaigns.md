@@ -5,7 +5,7 @@ World builders and campaign managers might want their world to be freely visible
 **Featured campaigns** are those selected by the Kanka team to showcase amazing worlds, as well as those who have won previous [worldbuilding prompts](https://kanka.io/en-US/community-events).
 
 
-Below the featured campaigns are all public campaigns that have at least 5 entities visible to the public role. This condition is re-calculated every night at `05:00 UTC` for all public campaigns.
+Below the featured campaigns are all public campaigns that have at least 5 entities visible to the public role. This condition is re-calculated every night at `01:00 UTC` for all public campaigns.
 
 Campaigns can be filtered by **locale**, **system** (only the 20 most popular systems are shown here), by their **boosted** status, and by their **[open]**(features/campaigns/applications) status. By default, campaigns are ordered by the number of entities visible to the **public** role, but this can be changed to the number of followers.
 
@@ -32,6 +32,6 @@ If you go back to your logged in browser window and click on **World** again, yo
 
 ![Missing permissions for the campaign's public role](img/public-warning.png)
 
-Click on **Fix this issue** to go edit the campaign's public role's permissions. Here you can set the various blanket permissions you want to allow the public role to access on entity types. [Find out more about permissions here](features/permissions).
+Click on **Fix this issue** to go edit the campaign's public role's permissions. Here you can set the various blanket permissions you want to allow the public role to access on entity types. [Find out more about permissions here](/features/permissions).
 
 Save the permissions changes, and refresh your incognito window. You should now see content. If it's not working, come get help on our [Discord server](https://kanka.io/go/discord).

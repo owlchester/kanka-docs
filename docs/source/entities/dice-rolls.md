@@ -1,7 +1,7 @@
 # Dice Rolls
 
 ```{admonition} Deprecated
-This module is deprecated, meaning it isn't getting any new updates and will eventually be removed from Kanka. This entity type can be [enabled](features/campaigns/modules) in your campaign settings.
+This module is deprecated, meaning it isn't getting any new updates and will eventually be removed from Kanka. This entity type can be [enabled](/features/campaigns/modules) in your campaign settings.
 ```
 
 Dice rolls are a limited way to handle dice rolling for *play by post* games that don't require complicated dice rolls.

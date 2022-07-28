@@ -6,4 +6,4 @@ The list of allowed HTML tags and attributes can be seen on our [Github](https:/
 
 ## CSS Class and Styling
 
-Rather than writing classes and styling in the text editor, create [css styles in your campaign](features/campaigns/theming).
+Rather than writing classes and styling in the text editor, create [css styles in your campaign](/features/campaigns/theming).

@@ -1,7 +1,7 @@
 
 ## Transforming an entity's type
 
-Since entities all share a similar base, this means you can change an entity's type after you've created it. Say you create an [event](entities/events), fill it out, and later realise you want an [item](entities/items) instead. No worries, you can change the entity's type in its **actions**, accessed by clicking on the "cog" next to the entity's name.
+Since entities all share a similar base, this means you can change an entity's type after you've created it. Say you create an [event](/entities/events), fill it out, and later realise you want an [item](/entities/items) instead. No worries, you can change the entity's type in its **actions**, accessed by clicking on the "cog" next to the entity's name.
 
 ![Transforming an entity](img/transform.png)
 

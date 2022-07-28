@@ -4,4 +4,4 @@ A festival, a war, a natural disaster. Things that happened in the past and are 
 
 ## Combining with calendars
 
-Events live outside of [calendars](entities/calendars). To add an event to a calendar, do so on the calendar's view, or on the event's [reminders](features/reminders) subpage.
+Events live outside of [calendars](/entities/calendars). To add an event to a calendar, do so on the calendar's view, or on the event's [reminders](/features/reminders) subpage.

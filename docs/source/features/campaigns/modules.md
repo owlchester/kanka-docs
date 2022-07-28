@@ -8,4 +8,4 @@ Disabling an entity type doesn't delete the data from the campaign, it simply hi
 
 ## Modules enabled by default
 
-Campaigns have automatically all modules enabled, except for the deprecated [conversations](entities/conversations) and [dice rolls](entities/dice-rolls) modules.
+Campaigns have automatically all modules enabled, except for the deprecated [conversations](/entities/conversations) and [dice rolls](/entities/dice-rolls) modules.

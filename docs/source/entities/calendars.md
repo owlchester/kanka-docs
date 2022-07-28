@@ -23,7 +23,7 @@ If you want your calendar to increment by one day automatically every day, you c
 
 ## Parent Calendars
 
-A calendar can have a [parent](features/nested) calendar. This is practical if you are running several campaigns and want multiple "today"s.
+A calendar can have a [parent](/features/nested) calendar. This is practical if you are running several campaigns and want multiple "today"s.
 
 Once you have your base calendar, create a copy of it, to duplicate the config of days, weeks, months, moons, seasons, etc, and set the  template **parent calendar** field to the parent.
 
@@ -43,7 +43,7 @@ The calendar's year can be -2'000'000'000 to 2'000'000'000. The same is true for
 
 ## Calendar widget
 
-A calendar can be displayed on the dashboard. [Find out more](guides/dashboard#calendar).
+A calendar can be displayed on the dashboard. [Find out more](/guides/dashboard#calendar).
 
 
 ## Why doesn't the calendar support X, Y or Z feature?

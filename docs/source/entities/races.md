@@ -1,6 +1,6 @@
 # Races
 
-The races module is a way to represent sci-fi and fantasy races of the characters of your world. If your world just has cyborg-gnomes, you can [disable the module](features/campaigns/modules).
+The races module is a way to represent sci-fi and fantasy races of the characters of your world. If your world just has cyborg-gnomes, you can [disable the module](/features/campaigns/modules).
 
 ## Example
 

@@ -6,4 +6,4 @@ Each entity has a **reminders** subpage, which lists its various calendars.
 
 ## Special reminders
 
-Entities such as characters, locations, families, and organisations have a special [reminder type](advanced/age).
+Entities such as characters, locations, families, and organisations have a special [reminder type](/advanced/age).

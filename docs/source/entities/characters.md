@@ -22,7 +22,7 @@ The entry tab contains the description of the character.
 
 * **Title**: a character's title is displayed on the character's page. This text field can be an honorific title.
 
-Next up are [foreign fields](entities/foreign-fields). Foreign fields are other entities in the campaign, and a way to interconnect the character with your world.
+Next up are [foreign fields](/entities/foreign-fields). Foreign fields are other entities in the campaign, and a way to interconnect the character with your world.
 
 * **Family**: the character's family. Note that only a single family can be selected.
 * **Location**: where the character is currently located. If filled in, this will show up in the location's characters subpage.
@@ -50,9 +50,9 @@ Organisations
 
 ### Organisations
 
-This tab allows to control in which [organisations](entities/organisations) the character is a member of.
+This tab allows to control in which [organisations](/entities/organisations) the character is a member of.
 
-If this is your first character, you might not yet have organisations. You can [create one on the fly](features/quick-creator), or come back to this tab later. This allows you to make this character a member of one or several organisations of your world.
+If this is your first character, you might not yet have organisations. You can [create one on the fly](/features/quick-creator), or come back to this tab later. This allows you to make this character a member of one or several organisations of your world.
 
 ### Boosts
 
@@ -66,11 +66,11 @@ These fields include
 
 ### Attributes
 
-Attributes are values attached to your character, such as `HP`, `level`, and more. Learn more about [attributes](features/attributes).
+Attributes are values attached to your character, such as `HP`, `level`, and more. Learn more about [attributes](/features/attributes).
 
 ### Permissions
 
-The last tab is about permissions. We go over this in more detail on our [permissions](features/permissions) page
+The last tab is about permissions. We go over this in more detail on our [permissions](/features/permissions) page
 
 ## Saving
 
@@ -78,7 +78,7 @@ With your first character ready, time to save it into Kanka. Clicking on the **s
 
 
 ```{admonition} Workflow
-By default, Kanka shows you the list of your campaign's characters when creating a new one. You can change this in your [settings](profile/appearance).
+By default, Kanka shows you the list of your campaign's characters when creating a new one. You can change this in your [settings](/profile/appearance).
 
 ```
 

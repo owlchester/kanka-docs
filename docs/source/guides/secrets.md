@@ -18,10 +18,10 @@ This also works for elements that links entities together. For example, if a PC'
 
 Instead of keeping whole entities private, you can also have them know about a friendly merchant, but keep information about their past and motivations private by adding **posts** to them. Posts are texts that are displayed on the entity's overview page.
 
-Each post can be made visible simply with the [visibility](advanced/visibility) option, or with custom permissions on the post.
+Each post can be made visible simply with the [visibility](/advanced/visibility) option, or with custom permissions on the post.
 
-Find out more on the [posts](features/posts) document.
+Find out more on the [posts](/features/posts) document.
 
 ## Visibility
 
-Many elements that connect entities together, be it relations, inventory, reminders, timeline elements, etc have a [visibility](advanced/visibility) option, which can be used to make that connection secret to other members of the campaign.
+Many elements that connect entities together, be it relations, inventory, reminders, timeline elements, etc have a [visibility](/advanced/visibility) option, which can be used to make that connection secret to other members of the campaign.

@@ -12,11 +12,11 @@ The first option is to edit the properties of multiple entities at a time. Say y
 
 ## Change permissions
 
-This option allows you to remove, replace, or add [permissions](features/permissions) to multiple entities at a time. Useful when you finally decided to invite your players to the campaign, but realise they can now read all the terrible plot-hooks you've prepared.
+This option allows you to remove, replace, or add [permissions](/features/permissions) to multiple entities at a time. Useful when you finally decided to invite your players to the campaign, but realise they can now read all the terrible plot-hooks you've prepared.
 
 ## Apply attribute template
 
-Apply an [attribute template](entities/attribute-templates) to multiple entities at a time.
+Apply an [attribute template](/entities/attribute-templates) to multiple entities at a time.
 
 ## Transform
 
@@ -32,4 +32,4 @@ Going hiking with your players and want to play at night at a camp fire with no 
 
 ## Remove
 
-My favourite option. You've created this great story with a whole kingdom of humans, dwarves, hobbits and elves. You're rightfully proud of your work, well done champ! However, during session 1, your players killed the prince, eat all the king's food, and drew multiple phallus on the castle walls before setting it on fire. Such a shame, you had high hopes for this group. _Sigh_. Oh well, let's delete all of their characters from the campaign in a single swoop. No hard feelings, really. They had it coming. Don't forget to [kick them out of the campaign](features/campaigns/members) while you're at it. Purge the filth from these fertile lands.
+My favourite option. You've created this great story with a whole kingdom of humans, dwarves, hobbits and elves. You're rightfully proud of your work, well done champ! However, during session 1, your players killed the prince, eat all the king's food, and drew multiple phallus on the castle walls before setting it on fire. Such a shame, you had high hopes for this group. _Sigh_. Oh well, let's delete all of their characters from the campaign in a single swoop. No hard feelings, really. They had it coming. Don't forget to [kick them out of the campaign](/features/campaigns/members) while you're at it. Purge the filth from these fertile lands.

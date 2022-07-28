@@ -4,7 +4,7 @@ There are various ways you can customise the look and feel of your world.
 
 ## Deactivating features
 
-If your world doesn't need Quests or Calendars, you can [disable modules](advanced/disabling-modules).
+If your world doesn't need Quests or Calendars, you can [disable modules](/advanced/disabling-modules).
 
 ## Changing interface options
 

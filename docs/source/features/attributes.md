@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes are little bits of information attached to an entity. The most obvious example is a [character's](entities/characters) **HP**, or a [location's](entities/locations) **population**.
+Attributes are little bits of information attached to an entity. The most obvious example is a [character's](/entities/characters) **HP**, or a [location's](/entities/locations) **population**.
 
 ## Attribute types
 
@@ -13,7 +13,7 @@ The types and their usage are as follow:
 * **Multiline text**: For if you want to write about the entity's favourite recipe in attributes, you can.
 * **Numbers**: Limit the content of the attribute to a numerical value.
 * **Section**: After a while, an entity with lots of attributes can get visually messy. Use sections to split off attributes into their own "boxes".
-* **Random**: Only available in [attribute template](entities/attribute-templates).
+* **Random**: Only available in [attribute template](/entities/attribute-templates).
 
 ## Syntax
 
@@ -25,7 +25,7 @@ You can get creative with some basic math options. For example, an attribute wit
 
 Number attributes can be set up to only allow value between a range of numbers. For example, use `Level[range:1,10]` to limit the attribute between 1 and 10. The range values can also reference other attributes, for example with `HP[range:0,{MaxHP}]`. When saving an attribute, if the value is outside the range, it will automatically revert to the closest range value.
 
-When creating or editing an [attribute template](entities/attribute-templates), you can set random attributes. This can either be a random value between two numbers separated by -, or a random value from a list of values separated by `,`. The value for the attribute is determined when the template is applied to an entity, or when an entity is saved.
+When creating or editing an [attribute template](/entities/attribute-templates), you can set random attributes. This can either be a random value between two numbers separated by -, or a random value from a list of values separated by `,`. The value for the attribute is determined when the template is applied to an entity, or when an entity is saved.
 
 For example, if you want a number between 1 and 100, use `1-100`. If you want a value from a list of options, use `London, Berlin, Rome, Zürich`.
 
@@ -38,10 +38,10 @@ An attribute can be kept private from your players, for example the BBEG's weakn
 
 ## Pinned attributes
 
-Attributes can also be pinned to the [entity's profile sidebar](features/profile-sidebar) using the **star** icon.
+Attributes can also be pinned to the [entity's profile sidebar](/features/profile-sidebar) using the **star** icon.
 
 ## Attribute templates
 
-When creating or editing an entity, the top of the **attributes** tab contains an option to select an [attribute template](entities/attribute-templates). Doing so will add attributes from that template when the entity is being saved. If an attribute exists on the entity and the template, only the attribute from the entity is saved.
+When creating or editing an entity, the top of the **attributes** tab contains an option to select an [attribute template](/entities/attribute-templates). Doing so will add attributes from that template when the entity is being saved. If an attribute exists on the entity and the template, only the attribute from the entity is saved.
 
-If you want to apply a template to multiple entities at a time, look at the [bulk options](guides/bulk).
+If you want to apply a template to multiple entities at a time, look at the [bulk options](/guides/bulk).

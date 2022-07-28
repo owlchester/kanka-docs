@@ -23,4 +23,4 @@ Kanka has two text editors, but we highly discourage using the legacy one. Some 
 
 ## Advanced mentions
 
-If you wish to always use `[entity:123]` mentions, even when using `@`, activate this option. [More info here](features/mentions).
+If you wish to always use `[entity:123]` mentions, even when using `@`, activate this option. [More info here](/features/mentions).

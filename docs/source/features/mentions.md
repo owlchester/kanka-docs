@@ -12,6 +12,9 @@ Type `@Entity_Name` to find an entity with a space in the name.
 
 Type `@=Entityname` to find an entity that has exactly that name.
 
+## New Entity
+
+If you want to mention an entity that doesn't yet exist, you can type `@New_Entity_Name`. If Kanka finds no entity with that name, it will suggest creating a new entity with that name. This injects the `[new:entity_type|New Entity Name]` syntax. When saving, these mentions are parsed and transformed into new entities. 
 
 ## Advanced mentions
 

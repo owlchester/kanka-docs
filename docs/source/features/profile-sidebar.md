@@ -6,7 +6,7 @@ Throughout these docs and in Kanka, you'll see a mention of an entity's **profil
 
 ## Pins
 
-The first section contains **pinned** elements. These can be [attributes](features/attributes), [relations](features/relations), of the entity's [age](advanced/age).
+The first section contains **pinned** elements. These can be [attributes](/features/attributes), [relations](/features/relations), of the entity's [age](/advanced/age).
 
 Characters and organisations also display pinned organisation members in this section.
 

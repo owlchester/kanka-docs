@@ -6,7 +6,7 @@ If you find yourself copy-pasting boilerplate content from existing entities to 
 
 For example, we are going to create a character template for all of our NPCs.
 
-First off, create the [new character](entities/characters) and fill out the fields you want it to have. This new character might have some default tags like a To-Do tag, some text in the entry, some default traits you want to remember to fill out, or some attributes that are important for your game. You can also give it some default attributes, a "plot" [post](features/posts), abilities and more.
+First off, create the [new character](/entities/characters) and fill out the fields you want it to have. This new character might have some default tags like a To-Do tag, some text in the entry, some default traits you want to remember to fill out, or some attributes that are important for your game. You can also give it some default attributes, a "plot" [post](/features/posts), abilities and more.
 
 Once your character is created, view it and click on the cog icon in the top view after the character's name. This opens the character's **action menu**. From there, you should see the option labelled **set as template**.
 

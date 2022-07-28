@@ -4,4 +4,4 @@ The search field at the top of every page (accessible by clicking `Ctrl+K`) will
 
 ## Related
 
-[Filtering the search](features/mentions#filtering)
+[Filtering the search](/features/mentions#filtering)
