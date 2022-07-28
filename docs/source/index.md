@@ -60,6 +60,7 @@ features/permissions
 features/search
 features/mentions
 features/quick-creator
+features/profile-sidebar
 features/attributes
 features/campaign-switcher
 ```
@@ -100,9 +101,10 @@ maxdepth: 1
 hidden:
 caption: Advanced Features
 ---
-advanced/html-formatting
+advanced/filters
 advanced/keyboard-shortcuts
 advanced/visibility
+advanced/html-formatting
 ```
 
 ```{toctree}
