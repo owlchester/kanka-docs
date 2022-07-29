@@ -24,6 +24,13 @@ source_suffix = [
     ".md",
 ]
 
+# https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
+html_theme_options = {
+    'analytics_id': 'G-Q3YPF8N1J0',
+    'analytics_anonymize_ip': True
+}
+html_logo = 'img/kanka.png'
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
