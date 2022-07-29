@@ -15,10 +15,9 @@ Campaigns can be filtered by **locale**, **system** (only the 20 most popular sy
 
 ## Defining a campaign as public
 
-While the following Youtube video is outdated in its interface, the concepts still hold true.
+While the following Youtube video is outdated in its interface, the concepts covered still hold true.
 
 [![Public campaigns youtube video](https://img.youtube.com/vi/VpY_D2PAguM/0.jpg)](https://youtu.be/VpY_D2PAguM)
-
 
 To make your campaign public, click on **World** in the campaign sidebar, and on **Edit campaign**. This will bring up the campaign's form. The **Sharing** tab has all the information related to public campaigns.
 
@@ -33,5 +32,11 @@ If you go back to your logged in browser window and click on **World** again, yo
 ![Missing permissions for the campaign's public role](img/public-warning.png)
 
 Click on **Fix this issue** to go edit the campaign's public role's permissions. Here you can set the various blanket permissions you want to allow the public role to access on entity types. [Find out more about permissions here](/features/permissions).
+
+
+```{admonition} Info
+The **public role** only has read permissions, and is used by all users **not** part of the campaign.
+```
+
 
 Save the permissions changes, and refresh your incognito window. You should now see content. If it's not working, come get help on our [Discord server](https://kanka.io/go/discord).
