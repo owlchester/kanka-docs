@@ -29,7 +29,7 @@ html_theme_options = {
     'analytics_id': 'G-Q3YPF8N1J0',
     'analytics_anonymize_ip': True
 }
-html_logo = 'img/kanka.png'
+html_logo = 'img/kanka-white.png'
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
