@@ -64,6 +64,7 @@ features/quick-creator
 features/profile-sidebar
 features/attributes
 features/campaign-switcher
+features/reminders
 ```
 
 ```{toctree}
@@ -108,6 +109,9 @@ advanced/quick-links
 advanced/keyboard-shortcuts
 advanced/visibility
 advanced/html-formatting
+advanced/age
+advanced/toc
+advanced/api
 ```
 
 ```{toctree}
