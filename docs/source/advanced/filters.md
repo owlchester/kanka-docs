@@ -24,9 +24,13 @@ You can combine search options on text fields by writing `;`. For example `Alex;
 
 Filters and ordered columns set for an entity list are saved into your session, so as long as you stay connected you don't need to re-set them on every page.
 
-## Location name
+## Family, Location, Race, Organisation
 
-You can filter entities based on their location. The search field looks for entities that have a location with that exact name. You can use the selection box at the right of the field to select between 4 different behaviours for the filter, these are: include, which includes all entities in that location; exclude, which excludes all entities in that location; with children, which includes all entities in that location or any of all its children locations, and none, which shows all entities without a defined location.
+You can filter entities based on their family, location, race and organisation. These search fields look for entities that have an exact match with that name. You can use the selection box at the right of the field to select between 4 different behaviours for the filter, these are: 
+* **Include**: Includes all entities that are part of the entity choosen.
+* **Exclude**: Excludes all entities that are part of the entity choosen.
+* **With children**: Includes all entities that are part of the entity choosen and all of its children.
+* **None**: Shows all entities that aren't a member of any entity of the choosen type.
 
 ## Attribute name
 
