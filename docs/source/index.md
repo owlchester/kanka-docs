@@ -83,6 +83,8 @@ features/campaigns/theming
 features/campaigns/leaving
 features/campaigns/deleting
 features/campaigns/public-campaigns
+features/campaigns/achievements
+features/campaigns/default-thumbnails
 ```
 
 ```{toctree}
