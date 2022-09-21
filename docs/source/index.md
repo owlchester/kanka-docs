@@ -65,6 +65,7 @@ features/profile-sidebar
 features/attributes
 features/campaign-switcher
 features/reminders
+features/aliases
 ```
 
 ```{toctree}
@@ -123,6 +124,17 @@ hidden:
 caption: Profile Settings
 ---
 profile/appearance
+account/security/two-factor-authentication
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Articles
+---
+articles/ads
+articles/community-vote
 ```
 
 ```{toctree}
