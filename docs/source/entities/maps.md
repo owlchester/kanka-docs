@@ -3,6 +3,16 @@
 
 Who doesn't love a big map full or markers? This module is more useful for representing your world, rather than a battle map with live updates for your players to see.
 
+
+```{toctree}
+---
+maxdepth: 1
+---
+maps/layers
+maps/groups
+maps/markers
+```
+
 ## Map fields
 
 Let's have a look at fields that are unique to maps.
@@ -33,12 +43,3 @@ A map's **explore** page is the best way to consume its data. This shows the map
 ## Dashboard widget
 
 TBW
-
-```{toctree}
----
-maxdepth: 1
----
-maps/layers
-maps/groups
-maps/markers
-```
