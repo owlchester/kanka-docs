@@ -1,15 +1,3 @@
-```{toctree}
----
-maxdepth: 1
-hidden:
-caption: Maps
----
-maps
-maps/layers
-maps/groups
-maps/markers
-```
-
 
 # Maps
 
@@ -45,3 +33,12 @@ A map's **explore** page is the best way to consume its data. This shows the map
 ## Dashboard widget
 
 TBW
+
+```{toctree}
+---
+maxdepth: 1
+---
+maps/layers
+maps/groups
+maps/markers
+```
