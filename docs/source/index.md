@@ -31,6 +31,10 @@ caption: Entities
 entities/overview
 entities/characters
 entities/locations
+entities/maps
+entities/maps/layers
+entities/maps/groups
+entities/maps/markers
 entities/families
 entities/organisations
 entities/calendars

@@ -25,40 +25,6 @@ This fields control the zoom (aka when scrolling on a map) levels.
 
 By default, a map loads at coordinates 0,0. You can change this by providing new coordinates, or having your map center on a specific marker.
 
-### Layers
-
-When editing a map, you can add layers to it. These are images that are super-imposed on the map, and can be toggled on/off from anyone viewing the map. Useful to upload an image of a dungeon with the traps, only visible to the campaign's admins.
-
-### Groups
-
-When editing a map, you can add groups to this. This allows you to group markers together, and show/hide all markers of a group at the click of a button. For example all your settlements, rivers, or mountain markers.
-
-### Markers
-
-When editing a map, this is where you'll click to add markers to the map.
-
-These have a lot of fields.
-
-* **Name** vs **Entity**: At least one of these has to be filled out. If both are filled out, the **name** will be used when hovering/viewing the marker.
-
-#### Markers
-
-The basic marker on maps, think of it like a "pin" on a map.
-
-#### Label
-
-A block of text on the map. This can't be moved around easily, but offers a clear visual different from markers. For example a kingdom's name.
-
-#### Circle
-
-Draw a tiny or huge circle on the map. Go crazy!
-
-#### Polygon
-
-The most complicated marker, this option is to draw custom shapes on the map. For best results, create a polygon with `0,0 100,0 0,100` and save it. Once saved, edit the marker to enable clicking on the map to add coordinates. It's a messy process, but allows fully custom shapes.
-
-The stroke fields are to control the polygon's visuals (border, background color, opacity).
-
 ## Explore
 
 A map's **explore** page is the best way to consume its data. This shows the map, the layers, groups, and markers. Clicking on a marker will load its data in the sidebar. This is used from the marker's custom entry field, and from the marker's linked entity.
