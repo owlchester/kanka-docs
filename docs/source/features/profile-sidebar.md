@@ -16,7 +16,7 @@ By default, the section is always visible to a campaign's admin, even when empty
 ---
 maxdepth: 1
 ---
-profile-sidebar/pinning
+profile-sidebar/how-to-pin-elements
 ```
 
 ## Profile

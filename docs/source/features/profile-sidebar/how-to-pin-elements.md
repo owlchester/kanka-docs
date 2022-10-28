@@ -10,7 +10,7 @@ When creating or editing a relation, the `pinned` option can be activated.
 
 ## Pinning Attributes
 
-When editing all of the attributes of an entity (either in the entity's `attributes` tab or from the `manage` button in the `attributes subpage`), clicking on the `start` icon on the right will pin the attribute.
+When editing all of the attributes of an entity (either in the entity's `attributes` tab or from the `manage` button in the `attributes subpage`), clicking on the `star` icon on the right will pin the attribute.
 
 ![Pinning attributes](attributes.png)
 
