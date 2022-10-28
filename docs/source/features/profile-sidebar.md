@@ -12,6 +12,13 @@ Characters and organisations also display pinned organisation members in this se
 
 By default, the section is always visible to a campaign's admin, even when empty. The section is hidden to non-admins when there is nothing to display.
 
+```{toctree}
+---
+maxdepth: 1
+---
+profile-sidebar/pinning
+```
+
 ## Profile
 
 The profile section is filled out by various fields from the entity, including a character's [age](/advanced/age).
