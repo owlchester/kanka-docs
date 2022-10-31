@@ -36,6 +36,7 @@ entities/families
 entities/organisations
 entities/calendars
 entities/timelines
+entities/creatures
 entities/races
 entities/quests
 entities/journals
