@@ -20,7 +20,7 @@ Apply an [attribute template](/entities/attribute-templates) to multiple entitie
 
 ## Transform
 
-Just finished creating 20 events and only now realise they are supposed to be items? This option will save your life, and sanity.
+Just finished creating 20 events and only now realise they are supposed to be items? This option will save your life, and sanity. [Learn more about transforming entities](/guides/transform).
 
 ## Copy to campaign
 
