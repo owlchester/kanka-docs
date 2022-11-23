@@ -18,9 +18,9 @@ The basic marker on maps, think of it like a "pin" on a map.
 
 Boosted campaigns have access to **custom icons**, which can be icons from FontAwesome or RPGAwesome. 
 
-For FontAwesome, simply find a font that you like on it, and click on the code snipper (looks something like `<i class="fa-solid fa-user"></i>`), and paste it into the custom icon field. The Snippet will be automatically transformed into a format accepted by Kanka, in this case `fa-solid fa-user`.
+For FontAwesome, simply find a font that you like on it, and click on the code snippet (which should look something like `<i class="fa-solid fa-user"></i>`), and paste it into the custom icon field. The snippet will be automatically transformed into a format accepted by Kanka, in this case `fa-solid fa-user`.
 
-In the case of RPGAwesome, copy-paste the icon's name prefixed by `ra ` in the field. For example, for the aura icon, type "ra ra-aura".
+In the case of RPGAwesome, copy-paste the icon's name prefixed by `ra ` in the field. For example, for the aura icon, type `ra ra-aura`.
 
 This field also supports fully custom SVG icons. You can draw your icons in any vector drawing app and copy-paste the resulting SVG in this field. 
 
