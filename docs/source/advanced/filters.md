@@ -34,7 +34,7 @@ You can filter entities based on their family, location, race and organisation. 
 
 ## Attribute name
 
-You can filter entities based on their attributes. The search fields are exact matches for both the name and value. When the value field is left empty, it looks for entities that have an attribute with that exact name. You can type `!Level` to exclude entities with an attribute called Level.
+You can filter entities based on their attributes. The search fields are exact matches for both the name and value. You can also search for entities that have a specific attribute whose value is not empty by typing `!` on the value field. When the value field is left empty, it looks for entities that have an attribute with that exact name. You can type `!Level` to exclude entities with an attribute called Level.
 
 The filter doesn't evaluate attribute calculations. If an attribute has a value of `{HP} * {Level}`, searching for the result of that calculation isn't possible.
 
