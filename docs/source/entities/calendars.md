@@ -41,6 +41,10 @@ If you want to split your calendar into multiple eras, create multiple calendars
 
 The calendar's year can be -2'000'000'000 to 2'000'000'000. The same is true for reminders. This means you can have a calendar and reminders **before** your calendar's year zero.
 
+## Year Zero
+
+By default all calendars start on year zero, if you want, you can disable this when creating a new calendar, making it start on year 1.
+
 ## Calendar widget
 
 A calendar can be displayed on the dashboard. [Find out more](/guides/dashboard#calendar).
