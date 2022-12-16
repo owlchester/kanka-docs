@@ -4,6 +4,8 @@ A way to build the **powers** of your characters. Think of this module as a way 
 
 ## Fields
 
+Let's go over the fields that are unique to the abilities' module.
+
 ### Charges
 
 The **charges** field can be used to keep track of how many times an ability was used when it's attached to an entity. This field can contain a value, or references to named attributes of an entity.
@@ -15,7 +17,7 @@ When an ability with a charge is attached to an entity, it will display a number
 
 ## Entity Abilities
 
-Every other entity type has an **abilities** subpage, which is used for example to keep track of a character's magic, an organisation's special abilities, a locations's _lair actions_, a family's curse, etc.
+Every other entity type has an **Abilities** subpage, which is used for example to keep track of a character's magic, an organisation's special abilities, a locations' _lair actions_, a family's curse, etc.
 
 Each ability added to an entity is grouped by their **parent ability**, and abilities with no parent ability are displayed automatically.
 
@@ -39,7 +41,7 @@ Note that parent abilities are ordered alphabetically and can't be reordered.
 
 #### Add race abilities
 
-The **Add race abilities** will import abilities attached to the entity's [races](/entities/races].
+The **Add race abilities** will import abilities attached to the entity's [races](/entities/races).
 
 #### Reset charges
 
@@ -47,7 +49,7 @@ Clicking this button resets the charges used of each entity ability back to zero
 
 #### Reorder abilities
 
-This interface allows you to reorder the abilities inside parent abilities.
+This interface allows you to reorder the abilities inside their parent abilities.
 
 
 ### Fields
