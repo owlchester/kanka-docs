@@ -2,7 +2,7 @@
 
 The most complicated and complex feature of Kanka, calendars are a frequent source of headaches for the Kanka team.
 
-At a fundamental level, calendars are used to track day-by-day events of your world.
+At a fundamental level, calendars are used to track day-by-day events of your world. Calendars and entities are linked through [reminders](/features/reminders).
 
 ## Long-lasting reminders
 

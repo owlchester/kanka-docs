@@ -23,7 +23,7 @@ getting-started
 
 ```{toctree}
 ---
-maxdepth: 1
+maxdepth: 2
 hidden:
 caption: Entities
 ---
@@ -31,10 +31,12 @@ caption: Entities
 entities/overview
 entities/characters
 entities/locations
+entities/maps
 entities/families
 entities/organisations
 entities/calendars
 entities/timelines
+entities/creatures
 entities/races
 entities/quests
 entities/journals
@@ -64,6 +66,8 @@ features/quick-creator
 features/profile-sidebar
 features/attributes
 features/campaign-switcher
+features/reminders
+features/aliases
 ```
 
 ```{toctree}
@@ -82,6 +86,8 @@ features/campaigns/theming
 features/campaigns/leaving
 features/campaigns/deleting
 features/campaigns/public-campaigns
+features/campaigns/achievements
+features/campaigns/default-thumbnails
 ```
 
 ```{toctree}
@@ -108,6 +114,9 @@ advanced/quick-links
 advanced/keyboard-shortcuts
 advanced/visibility
 advanced/html-formatting
+advanced/age
+advanced/toc
+advanced/api
 ```
 
 ```{toctree}
@@ -117,6 +126,17 @@ hidden:
 caption: Profile Settings
 ---
 profile/appearance
+account/security/two-factor-authentication
+```
+
+```{toctree}
+---
+maxdepth: 1
+hidden:
+caption: Articles
+---
+articles/ads
+articles/community-vote
 ```
 
 ```{toctree}

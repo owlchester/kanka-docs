@@ -16,7 +16,7 @@ Characters come with a bunch of pre-defined fields. Only the name is mandatory, 
 
 The entry tab contains the description of the character.
 
-* **Name**: the name of your character. This will be used for search and mentioning entities. If a character with a similar name already exists, a warning will appear below the name field.
+* **Name**: the name of your character. This will be used for search and mentioning entities. If a character with a similar name already exists, a warning will appear below the name field. While there are no naming rules in Kanka, it is recommended to give entities names of at least 3 characters to work with [mentions](/features/mentions), and to avoid names that start with `@` and `!`, which are used for [filters](/advanced/filters).
 
 * **Type**: this text field can contain anything you want to help you distinguish between various characters. A common example is writing a character's occupation.
 

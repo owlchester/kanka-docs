@@ -21,7 +21,7 @@ You can reference entities in attributes using the advanced mention syntax `[ent
 
 ![Mentions in attribute values](img/attribute-mention.png)
 
-You can get creative with some basic math options. For example, an attribute with the value of `{Level}*{Con}` will multiple the `Level` and `Con` attributes of this entity. If you want to round up or down, you can use `floor({Level}/3)` or `ceil(({Con}*{Level})/2)` as well.
+You can get creative with some [basic math](https://github.com/chriskonnertz/string-calc) options. For example, an attribute with the value of `{Level}*{Con}` will multiple the `Level` and `Con` attributes of this entity. If you want to round up or down, you can use `floor({Level}/3)` or `ceil(({Con}*{Level})/2)` as well.
 
 Number attributes can be set up to only allow value between a range of numbers. For example, use `Level[range:1,10]` to limit the attribute between 1 and 10. The range values can also reference other attributes, for example with `HP[range:0,{MaxHP}]`. When saving an attribute, if the value is outside the range, it will automatically revert to the closest range value.
 

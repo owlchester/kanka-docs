@@ -24,7 +24,7 @@ This quick link points to a list of entities, for example a list of characters. 
 
 The nested field controls if the link forces the page's nested more. This is only useful for entities which have a parent (ie locations).
 
-#### Deities
+#### Example: A link to your world's deities
 
 For example, if you want to have a quick links going to your [characters](/entities/characters) that are part of the campaign's **deity** race, follow these steps.
 
@@ -40,3 +40,18 @@ To replicate a wiki's random page link, use this option to open a random entity 
 ### Dashboard
 
 If the [campaign is boosted](https://kanka.io/en-US/boosters), you can point the quick link to a specific [dashboard](/guides/campaigns) of the campaign.
+
+### Placing a quick link
+
+By default, quick links will appear in their order in the `Quick Links` section of the sidebar. However, boosted campaigns have access to a `Parent Element` option, which allows quick links to appear directly after another element of the sidebar. 
+
+![Quick links parent field](img/quick-links-parent.png)
+
+From our earlier example of your deities, setting the `Parent Element` to **Characters**, the quick link will appear below the **Characters** menu element.
+
+### Reordering quick links
+
+Quick links that are displayed in their quick links section of the sidebar can be reordered. When viewing the list of quick links of the campaign, the top-right contains a `Reorder` button.
+
+
+![Reordering quick links](img/quick-links-reorder.png)

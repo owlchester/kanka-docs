@@ -10,9 +10,9 @@ Anyone can create a plugin on the marketplace. Head over to the marketplace, and
 
 To create a new plugin, click on the Create a new plugin button on the top right. This brings up the new plugin interface, where you need to provide a name for your plugin, its plugin type, which allows the following:
 
-* **Theme**: Allows you to create a theme for Kanka based on CSS.
-* **Character sheet**: Allows you to create a list of attributes, and attach HTML and CSS to define how they are displayed. This means you can create custom character sheets in Kanka.
-* **Content pack**: Allows you to create multiple entities (characters, locations, etc), and allow others to import these entities into their campaigns.
+* **Theme**: allows you to create a theme for Kanka based on CSS.
+* **Character sheet**: allows you to create a list of attributes, and attach HTML and CSS to define how they are displayed. This means you can create custom character sheets in Kanka.
+* **Content pack**: allows you to create multiple entities (characters, locations, etc), and allow others to import these entities into their campaigns.
 
 And lastly an optional language field, to allow people filtering on plugins based on a specific language supported by Kanka. Once you are happy with your choices (note that you can go back and edit the name and language later), click on Prepare plugin. This redirects you to the plugin overview page.
 
@@ -30,7 +30,7 @@ To create your first or new version of a plugin, click on the Create a version b
 
 Every version will have the following fields, regardless of their plugin type.
 
-* **Version name**: We recommend starting with something like "1.0" as the version name, and slowly incrementing based on future updates to your plugin.
+* **Version name**: we recommend starting with something like "1.0" as the version name, and slowly incrementing based on future updates to your plugin.
 * **Version description**: a description displayed in the marketplace and in the campaign plugins page. This is a great way to detail the changes from previous versions of your plugin.
 
 ### Theme fields
@@ -41,9 +41,9 @@ A theme will simply have a field to write your theme's CSS. This field is powere
 
 Create character sheets for your favourite TTRPG!
 
-* **HTML content**: This is where you can write the HTML of your character sheet to fully cusomise the rendering of attributes, effectively allowing you to create character sheets. Some logical commands like if, else, for and more are available, and detailed here.
-* **CSS content**: This is where you can write the CSS that will be included in your character sheet. We recommend prefixing your CSS classes with a code related to your plugin's name. If, for example, you're creating a character sheet for the Thirsty Lesbian Swords TTRPG, try prefixing your class names with tls-*.
-* **Attributes**: This section will allow you to add attributes that get added to entities that apply this character sheet. Beware that there is a maximum of about 600 attributes per entity in the marketplace, and we won't be able to add more than supported.
+* **HTML content**: this is where you can write the HTML of your character sheet to fully customise the rendering of attributes, effectively allowing you to create character sheets. Some logical commands like _if_, else, for and more are available, and detailed here.
+* **CSS content**: this is where you can write the CSS that will be included in your character sheet. We recommend prefixing your CSS classes with a code related to your plugin's name. If, for example, you're creating a character sheet for the Thirsty Lesbian Swords TTRPG, try prefixing your class names with tls-*.
+* **Attributes**: this section will allow you to add attributes that get added to entities that apply this character sheet. Beware that there is a maximum of about 600 attributes per entity in the marketplace, and we won't be able to add more than supported.
 
 At the end of the page, a preview section allows you to somewhat preview how it will look, but in practice doesn't currently work very well, due to the if/else conditions not being evaluated. Future changes to the marketplace will fix this issue.
 
@@ -53,7 +53,7 @@ The most complicated plugin type. The version creation form doesn't have additio
 
 ## Publishing your plugin
 
-Once you've finished creating your plugin and are happy with it, you can send the version to review. This locks it and you won't be able to make any more changes to it. Approval of plugins can take up to a few days, depending on our availability and the complexity of the plugin, but is usually done in a few hours.
+Once you've finished creating your plugin and are happy with it, you can send the version to review. This locks it, and you won't be able to make any more changes to it. Approval of plugins can take up to a few days, depending on our availability and the complexity of the plugin, but is usually done in a few hours.
 
 In your plugin's overview page, the version will have a **Submit for review** button.
 
@@ -67,7 +67,7 @@ With your plugin released, you realised that something isn't quite right, a spel
 
 Installing a plugin to a boosted campaign can be confusing at times, so this should hopefully give you a good understanding of how it works.
 
-Once you've found a plugin on the marketplace that looks great, you need to click on the Install button on the top right of the page. This brings up an interface listing all your boosted and superboosted campaigns. Clicking on the campaign will install that plugin to your campaign.
+Once you've found a plugin on the marketplace that looks great, you need to click on the **Install** button on the top right of the page. This brings up an interface listing all your boosted and superboosted campaigns. Clicking on the campaign will install that plugin to your campaign.
 
 A confirmation message will appear:
 
@@ -75,9 +75,9 @@ A confirmation message will appear:
 
 You'll notice that the campaign name is a link. Clicking on it brings you to that campaign's plugins page, which will allow you to do the following things.
 
-* **Theme**: If the campaign is a theme, installing it won't enable it by default. You need to go to the campaign's plugins and activate the theme.
-* **Character sheet**: Adding a character sheet to the campaign will make it available in the various entities' Attributes tab in the edit page, where you can select the marketplace character sheets installed on the campaign.
-* **Content pack**: If the plugin is a content pack, installing it won't automatically import all of its entities. You need to go to the campaign's plugins and click on the Sync action.
+* **Theme**: if the campaign is a theme, installing it won't enable it by default. You need to go to the campaign's plugins and activate the theme.
+* **Character sheet**: adding a character sheet to the campaign will make it available in the various entities' Attributes tab in the edit page, where you can select the marketplace character sheets installed on the campaign.
+* **Content pack**: if the plugin is a content pack, installing it won't automatically import all of its entities. You need to go to the campaign's plugins and click on the Sync action.
 
 ## Removing / Disabling a plugin
 

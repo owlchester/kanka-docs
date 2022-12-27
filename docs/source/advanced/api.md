@@ -25,3 +25,10 @@ Wanting to interact with the API using python or another popular programming lan
 ```{admonition} Need help?
 If you're struggling with the API, head over to our [Discord](https://kanka.io/go/discord) and ask for help in the `#development-talk` channel.
 ``` 
+
+```{toctree}
+---
+maxdepth: 1
+---
+api/oauth
+```

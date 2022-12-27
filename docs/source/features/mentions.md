@@ -2,15 +2,14 @@
 
 [![Mentions](https://img.youtube.com/vi/GLVI3XV5PO0/0.jpg)](https://youtu.be/GLVI3XV5PO0)
 
-In the entry field of an entity or posts, you can type `@` followed by 3 characters to search for an entity of the world.
+In the entry field of an entity or posts, you can type `@` followed by 3 characters to search for an entity of the campaign. This searches on the `name` of entities. By default, recently modified entities appear at the top of the list.
 
 ## Filtering
 
-Filtering for the exact entity you are looking for is easy.
+If you have several entities with similar names, the following features can help find exactly what you want.
 
-Type `@Entity_Name` to find an entity with a space in the name.
-
-Type `@=Entityname` to find an entity that has exactly that name.
+* Replace each ` ` (space) with an `_` (underscore) to search for entities with spaces in their names. For example, `@Drizzt_Do'Urden_The_Wise`.
+* Type `@=Greg` to find an entity that has **exactly that name**. The `=` (equal) sign at the beginning gets removed from the search, so avoid using `=` as the first letter of your entity names.
 
 ## New Entity
 
@@ -22,7 +21,12 @@ Link to other entities by typing `[` and the first few characters of an entity t
 
 The advanced mention can also specify the HTML anchor the link should point to using `[entity:123|anchor:post-69]`.
 
-You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some available options are `type`, `location`, `race`, `gender`, `pronouns`, and `title`. You can even inject the target's entry with `[entity:123|field:entry]`.
+You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some available options are `type`, `location`, `gender`, `pronouns`, and `title`, as well as the parent field of [nested](features/nested) entities. For example to mention a family's parent family, use `[entity:123|field:family]`. It isn't possible to reference a character's families or races, as characters can have several of those.
+
+### Injecting an entity's entry as a mention
+
+You can also inject the target's entry with `[entity:123|field:entry]`. This currently doesn't parse mentions in the target's entry field, as to preserve server resources.
+
 
 ```{admonition} Limitation
 While you can render a target's entry with `[entity:123|field:entry]`, the target's entry won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. 
@@ -40,4 +44,8 @@ Referencing attributes of this entity is also possible. Simply type `{` and thre
 
 ## Calendar months
 
-Type `#` to get a list of months from your calendars.
+Type `#` in the text editor to get a list of months from your [calendars](/entities/calendars). This combines the months of all the campaign's calendars.
+
+## Search and replace
+
+There is no way to do a general *search and replace* of terms in your campaign to replace text into a mention. This was attempted in the past, but ended up in too many false positives, and more worryingly entities losing large chunks of their entries.
