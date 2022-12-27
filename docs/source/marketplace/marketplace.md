@@ -49,7 +49,7 @@ At the end of the page, a preview section allows you to somewhat preview how it 
 
 ### Content Pack fields
 
-The most complicated plugin type. The version creation doesn't have additional fields, but once it is created, in the overview page of your plugin, the version will have a new link labeled 0 entities (click to manage). Clicking this link brings up a new interface to add entities to your plugin.
+The most complicated plugin type. The version creation form doesn't have additional fields, but once created, in the overview page of your plugin, the version will have a new link labeled 0 entities (click to manage). Clicking this link brings up a new interface to add entities to your plugin.
 
 ## Publishing your plugin
 
