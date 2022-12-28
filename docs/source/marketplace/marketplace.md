@@ -35,7 +35,9 @@ Every version will have the following fields, regardless of their plugin type.
 
 ### Theme fields
 
-A theme will simply have a field to write your theme's CSS. This field is powered by CodeMirror for formatting.
+A theme will simply have two fields to write your theme's CSS. The first field is for the general CSS rules. The second one is for any optional font `@import` rules. Due to the way CSS font works, their import rules need to be included before any styling rules. When rendering a campaign, all the theme font rules are merged together before the various theme styles. 
+
+Both of these fields are powered by CodeMirror for formatting.
 
 ### Character sheet fields
 
@@ -44,8 +46,9 @@ Create character sheets for your favourite TTRPG!
 * **HTML content**: this is where you can write the HTML of your character sheet to fully customise the rendering of attributes, effectively allowing you to create character sheets. Some logical commands like _if_, else, for and more are available, and detailed here.
 * **CSS content**: this is where you can write the CSS that will be included in your character sheet. We recommend prefixing your CSS classes with a code related to your plugin's name. If, for example, you're creating a character sheet for the Thirsty Lesbian Swords TTRPG, try prefixing your class names with tls-*.
 * **Attributes**: this section will allow you to add attributes that get added to entities that apply this character sheet. Beware that there is a maximum of about 600 attributes per entity in the marketplace, and we won't be able to add more than supported.
+* **Translations**: this section will allow you to add translations string should the plugin be multilingual.
 
-At the end of the page, a preview section allows you to somewhat preview how it will look, but in practice doesn't currently work very well, due to the if/else conditions not being evaluated. Future changes to the marketplace will fix this issue.
+At the end of the page, a preview section allows you to somewhat preview how it will look, but in practice doesn't currently work very well, due to the if/else conditions not being evaluated. Future changes to the marketplace will probably fix this issue.
 
 ### Content Pack fields
 
@@ -63,11 +66,15 @@ Once a version is approved, the plugin becomes available in the marketplace, and
 
 With your plugin released, you realised that something isn't quite right, a spelling mistake in an entity, a wrong attribute calculation, or the CSS just isn't working as you intended. Don't worry, you don't need to start the whole process again. In the plugin's overview page, published versions will have a duplicate button, allowing you to create a new version based on the version you're duplicating. When you are happy with your changes, submit this new version for review again, and our team will review and hopefully approve it shortly thereafter.
 
-## Installing a plugin to a campaign
+## Managing campaign plugins
+
+### Installing a plugin to a campaign
 
 Installing a plugin to a boosted campaign can be confusing at times, so this should hopefully give you a good understanding of how it works.
 
-Once you've found a plugin on the marketplace that looks great, you need to click on the **Install** button on the top right of the page. This brings up an interface listing all your boosted and superboosted campaigns. Clicking on the campaign will install that plugin to your campaign.
+Once you've found a plugin on the marketplace that looks great, you need to click on the **Install** button on the top right of the page. 
+
+If you only have a single boosted campaign you are an admin of, the plugin will directly be installed on that campaign. If not, an interface listing all your boosted and superboosted campaigns will be displayed, asking you which campaign to install the plugin to. Clicking the **install** button will install that plugin to the selected campaign.
 
 A confirmation message will appear:
 
@@ -79,6 +86,10 @@ You'll notice that the campaign name is a link. Clicking on it brings you to tha
 * **Character sheet**: adding a character sheet to the campaign will make it available in the various entities' Attributes tab in the edit page, where you can select the marketplace character sheets installed on the campaign.
 * **Content pack**: if the plugin is a content pack, installing it won't automatically import all of its entities. You need to go to the campaign's plugins and click on the Sync action.
 
-## Removing / Disabling a plugin
+### Removing / Disabling a plugin
 
 In the campaign's plugins page (**World > Plugins**), you can disable or remove plugins from your campaign. In the case of content packs, removing the plugin won't automatically delete entities created by the plugin.
+
+## Limitations
+
+Currently, plugins cannot have multiple people working on them.
