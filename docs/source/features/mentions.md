@@ -17,7 +17,18 @@ If you want to mention an entity that doesn't yet exist, you can type `@New_Enti
 
 ## Advanced mentions
 
-Link to other entities by typing `[` and the first few characters of an entity to search for it. This will inject `[entity:123]` in the text editor. To customise the name of the entity displayed, you can type `[entity:123|Alex]`. To set the entity's subpage, use `[entity:123|page:inventory]`. Some options are `inventory`, `attributes`, `abilities`, `assets`, `relations`, and `profile`.
+Link to other entities by typing `[` and the first few characters of an entity to search for it. This will inject `[entity:123]` in the text editor. To customise the name of the entity displayed, you can type `[entity:123|Alex]`. Not that the `|` and `:` characters aren't allowed in custom names. 
+
+Instead of having the link fo to the entity's overview page, the advanced mention can be set to go to the entity's subpage. Use the `[entity:123|page:xxx]` syntax, replacing `xxx` with one of the following options:
+
+* `abilities`
+* `assets`
+* `attributes`
+* `inventory`
+* `relations`
+* `reminders`
+
+Some entities like quests have a `quest-elements` subpage as a valid option.
 
 The advanced mention can also specify the HTML anchor the link should point to using `[entity:123|anchor:post-69]`.
 
