@@ -8,4 +8,4 @@ Ads can be disabled by [subscribing to Kanka](https://kanka.io/en-US/pricing) on
 
 ## Boosted campaigns
 
-[Boosting a campaign](https://kanka.io/en-US/boosters) disables ads for any **logged in user** viewing the campaign. A user that is not logged in will still be shown ads when viewing a boosted campaign.
+[Boosting a campaign](https://kanka.io/en-US/boosters) disables ads for any user viewing the campaign. This also applies for unlogged users viewing a boosted campaign.
