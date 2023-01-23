@@ -9,17 +9,21 @@ Your profile settings can impact the visuals and workflows of your Kanka experie
 
 Changing your theme impacts how campaigns render in Kanka. Note that any campaign can override your settings.
 
-## Pagination
+## Results per page (pagination)
 
 If you want more than 15 characters shown in the characters list, you can change this value here. [Subscribers](https://kanka.io/en-US/pricing) get access to **100** entities per page.
 
-## New entity workflow
+## After creating a new entity
 
 When creating a new entity, Kanka redirects you to the list of entities of that type. You can change this to show the newly created entity instead.
 
-## Text editor
+## Text editor (legacy, unavailable for new users)
 
 Kanka has two text editors, but we highly discourage using the legacy one. Some features like advanced mentions and the [campaign gallery](campaigns/gallery) don't work in it. Its only advantage is that it has a more powerful table editor.
+
+Warning
+
+Switching to the old text editor is only available for users whos account were created before 2023.
 
 ## Advanced mentions
 
