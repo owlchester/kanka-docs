@@ -4,9 +4,9 @@ The first half of the following Youtube videos describes this article.
 
 [![Customising your Kanka campaign](https://img.youtube.com/vi/ynX5jimy8Lo/0.jpg)](https://youtu.be/ynX5jimy8Lo)
 
-[Boosted campaigns](https://kanka.io/en-US/boosters) can write custom CSS for their campaigns. This interface is access in **World** and **Theming**.
+Administrators of [boosted campaigns](https://kanka.io/en-US/boosters) can write custom CSS for their campaigns. This interface is accessed in **World** and **Theming**.
 
-To keep what little sanity you have left, it is recommended to split up your css into multiple themes.
+To keep what little sanity you have left, it is recommended to split up your CSS into multiple themes.
 
 ## Fonts
 
@@ -14,4 +14,4 @@ CSS fonts are only properly imported when they are at the beginning of the CSS f
 
 ### Marketplace
 
-Some older [marketplace](marketplace/marketplace) plugins will require you to add font rules to your Kanka campaign. Having a `_fonts` theme at the top makes this super easy. Since October 2022, marketplace themes no longer need this workaround.
+Some older [Marketplace](marketplace/marketplace) plugins will require you to add font rules to your Kanka campaign. Having a `_fonts` theme at the top makes this super easy. Since October 2022, Marketplace themes no longer need this workaround.
