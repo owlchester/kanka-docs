@@ -32,7 +32,7 @@ Bragi uses [OpenAI's GTP-3](https://beta.openai.com/docs/introduction) to genera
 
 ## Limitations
 
-We've built Bragi with the following limitations that we think you should be aware us.
+We've built Bragi with the following limitations that we think you should be aware of.
 
 ### Language
 
