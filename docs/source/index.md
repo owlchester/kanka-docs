@@ -78,6 +78,7 @@ hidden:
 caption: Campaign Features
 ---
 
+features/campaigns/campaign-settings
 features/campaigns/members
 features/campaigns/export
 features/campaigns/modules
