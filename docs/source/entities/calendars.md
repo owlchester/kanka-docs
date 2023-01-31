@@ -29,7 +29,7 @@ Once you have your base calendar, create a copy of it, to duplicate the config o
 
 When viewing the child calendar, it will show all of its reminders, **as well as the reminders from the parent**.
 
-```{info} Warning
+```{admonition} Warning
 Reminders form a parent calendar cannot be hidden or removed from a child. Doing so will delete the reminder from the parent, rather than hide it in the child. Reminders from the parent calendar aren't duplicated but simply shown.
 ```
 

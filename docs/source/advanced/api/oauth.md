@@ -3,7 +3,7 @@
 If you are building an app that interacts with the Kanka API for many users, it is simpler to generate an OAuth client within Kanka.
 
 
-```{info} Warning
+```{admonition} Warning
 Kanka's OAuth Clients are built with the [Laravel Passport](https://laravel.com/docs/9.x/passport) plugin. A lot more information and details can be gathered from the plugin's docs.
 ```
 

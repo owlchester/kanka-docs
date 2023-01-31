@@ -20,7 +20,7 @@ Clicking on the **View changes** link reveals the previous values.
 
 ![Full entity log details](img/history-entity-full.png)
 
-```{info} Warning
+```{admonition} Warning
 Note that the campaign **already needs to be superboosted** when making changes for the old values to be saved. Superboosting a campaign after an entity was changed won't give you access to the old values.
 ```
 
