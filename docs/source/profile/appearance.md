@@ -31,7 +31,7 @@ When creating a new entity, by default, Kanka redirects you to the list of entit
 Kanka has two text editors, but we highly discourage using the legacy one. Some features like advanced mentions and the [campaign gallery](campaigns/gallery) don't work in it. Its only advantage is that it has a more powerful table editor.
 
 ```{admonition} Limited availability
-Switching to the old text editor is only available for users whoes account were created earlier than January 2023.
+Switching to the old text editor is only available for users whoes account was created earlier than January 2023.
 ```
 
 ## Nested lists layout
