@@ -19,6 +19,8 @@ If you want to mention an entity that doesn't yet exist, you can type `@New_Enti
 
 Link to other entities by typing `[` and the first few characters of an entity to search for it. This will inject `[entity:123]` in the text editor. To customise the name of the entity displayed, you can type `[entity:123|Alex]`. Not that the `|` and `:` characters aren't allowed in custom names. 
 
+### Linking to a specific subpage
+
 Instead of having the link fo to the entity's overview page, the advanced mention can be set to go to the entity's subpage. Use the `[entity:123|page:xxx]` syntax, replacing `xxx` with one of the following options:
 
 * `abilities`
@@ -31,8 +33,34 @@ Instead of having the link fo to the entity's overview page, the advanced mentio
 Some entities like quests have a `quest-elements` subpage as a valid option.
 
 The advanced mention can also specify the HTML anchor the link should point to using `[entity:123|anchor:post-69]`.
+k
+### Displaying a field instead of the entity's name
 
-You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some available options are `type`, `location`, `gender`, `pronouns`, and `title`, as well as the parent field of [nested](features/nested) entities. For example to mention a family's parent family, use `[entity:123|field:family]`. It isn't possible to reference a character's families or races, as characters can have several of those.
+You can also display a field from the entity instead of its name in the link with `[entity:123|field:location]`. Some available options are `type`, `location`, `pronouns`, and `title`, as well as the parent field of [nested](features/nested) entities. For example to mention a family's parent family, use `[entity:123|field:family]`. It isn't possible to reference a character's families or races, as characters can have several of those.
+
+Here is a quick rundown of allowed fields for most entities.
+
+* name
+* type
+* location _(for entities that have a location)_
+* parent _(for entities that have a parent like creatures, maps, timelines)_
+* Fields available for **characters**
+  * title
+  * sex _(shows the gender)_
+  * age
+  * pronouns
+  * location
+* Fields available for **locations**
+  * parentLocation
+* Fields available for **journals** and **events**
+  * date
+* Fields available for **items**
+  * character
+  * price
+  * size
+  * weight
+* Fields available for **abilities**
+  * charges
 
 ### Injecting an entity's entry as a mention
 

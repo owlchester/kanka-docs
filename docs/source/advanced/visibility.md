@@ -2,6 +2,8 @@
 
 Many elements in Kanka have a visibility option, allowing for a control on who sees what without having to set up complex permissions.
 
+![Visibility dropdown field](img/visibility-dropdown.png)
+
 Here is a list of what each visibility does.
 
 * **All**: Everyone can see this element.

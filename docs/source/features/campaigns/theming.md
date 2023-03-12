@@ -10,7 +10,9 @@ To keep what little sanity you have left, it is recommended to split up your CSS
 
 ## Fonts
 
-CSS fonts are only properly imported when they are at the beginning of the CSS file. Since all the campaign's active themes are merged together in the order defined by the campaign's admins, it is recommended to have a `_fonts` theme in first position for all of your font import rules.
+CSS fonts are only properly imported when they are at the beginning of the CSS file. Since all the campaign's active themes are merged together in the order defined by the campaign's admins, it is recommended to have a `fonts` theme in first position for all of your font import rules.
+
+[![Adding custom fonts](https://img.youtube.com/vi/pzQN4sqDBMs/0.jpg)](https://youtu.be/pzQN4sqDBMs)
 
 ### Marketplace
 

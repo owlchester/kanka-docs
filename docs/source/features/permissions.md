@@ -60,17 +60,7 @@ If a campaign has too many members (10 or more), the permission tab on the creat
 
 ## Element permissions
 
-
-Elements attached to entities have another permission concept. Instead of a complex setup, they have a Visibility dropdown.
-
-Here is a quick run down of what each of the permissions do.
-
-* **Admin**: Only available to members of the campaign's admin role, this makes the element only visible to other admins.
-* **Self**: Only available when creating an element, this makes the element only available to you. This means you can hide information from admins. Elements with this visibility don't show up when impersonating a user.
-* **Self + Admin**: This element is only available to you and members of the campaign's admin role. For example, if you as a player want to share something with the admin, but not the other players.
-* **Members**: Comes into play if the campaign is public. This element will only be available to all members of your campaign, and not the public role.
-* **All**: This element is visible to all. 
-
+Elements attached to entities have another permission concept. Instead of a complex setup, they have a [Visibility dropdown](/advanced/visibility).
 
 ## Related
 
