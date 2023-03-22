@@ -61,17 +61,23 @@ Here is a quick rundown of allowed fields for most entities.
   * weight
 * Fields available for **abilities**
   * charges
+* Fields available for **tags**
+    * colour
 
-### Injecting an entity's entry as a mention
+### Transclusion - Injecting an entity's main entry as a mention
 
-You can also inject the target's entry with `[entity:123|field:entry]`. This currently doesn't parse mentions in the target's entry field, as to preserve server resources.
+You can also inject the target's entry with `[entity:123|field:entry]`. This only injects the entity's **entry** text, not the whole entity.
 
+![Mention transclusion](img/transclude.png)
 
 ```{admonition} Limitation
-While you can render a target's entry with `[entity:123|field:entry]`, the target's entry won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. 
+While you can render a target's entry with `[entity:123|field:entry]`, the target's entry won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. This also only works for the entity's entry, not for any of its posts.
 ```
 
 Parameters can also be passed along to the entity link. For example, specify which year and month get shown on a calendar with `[calendar:100|params:year=2022&month=07]`. The same can be done with ordering sublists. For example, order family subfamilies by location name with `[family:100|page:families|params:k=location.name&o=asc]`.
+
+
+These mentions can by styled with CSS and [campaign styling](/features/campaigns/theming).
 
 ## Private mentions
 
