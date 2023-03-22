@@ -8,5 +8,5 @@ Families are composed of characters, which make up their "members". A character 
 ---
 maxdepth: 1
 ---
-families/family-tree
+families/family-trees
 ```
