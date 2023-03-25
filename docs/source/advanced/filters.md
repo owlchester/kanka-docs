@@ -38,6 +38,15 @@ You can filter entities based on their attributes. The search fields are exact m
 
 The filter doesn't evaluate attribute calculations. If an attribute has a value of `{HP} * {Level}`, searching for the result of that calculation isn't possible.
 
+### Checkbox filters
+
+To filter on attributes which are of the **checkbox** type, use the following values:
+
+* **0** in the value field for unchecked attributes
+* **1** in the value field for checked attributes
+
+![Checked attributes filtering](img/filters-checkbox.png)
+
 ## Copy filters to clipboard
 
 After filling out the filters and clicking the **Filter** button, the list of entities will be updated. At this point, in the filters box, the **Copy filters to clipboard** button becomes active. Clicking it copies the filters to the clipboard, which can be pasted in the dashboard [widget filters](/guides/dashboard#widget-filters) and [quick link](/advanced/quick-links) **filters** fields.
