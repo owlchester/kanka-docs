@@ -1,7 +1,7 @@
 # Family Trees
 
-```{admonition} Unavailable
-This article is for a feature that isn't yet available.
+```{admonition} New feature
+This article is for a recently added feature to Kanka!
 ```
 
 [Families](/entities/families) can have their family trees created in Kanka. This feature is currently limited to superboosted campaigns. To start creating a family tree, go to a family and go to their *family tree* subpage.
@@ -38,3 +38,4 @@ As with every new feature, there are currently some limitations.
 * Children need exactly two parents.
 * Sometimes there is extra spacing between branches.
 * Family members are loaded to speed up setting a founder, but a character's relations aren't.
+* A user who can edit a family can edit its family tree. If there are character nodes that aren't visible to the user, those private nodes will be deleted when the user saves the tree.
