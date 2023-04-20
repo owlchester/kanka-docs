@@ -52,8 +52,10 @@ Here is a quick rundown of allowed fields for most entities.
   * location
 * Fields available for **locations**
   * parentLocation
-* Fields available for **journals** and **events**
+* Fields available for **journals**, **calendars** and **events**
   * date
+* Fields available for **quests** and **journals**
+  * calendar_date
 * Fields available for **items**
   * character
   * price
