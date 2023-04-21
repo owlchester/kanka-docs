@@ -16,7 +16,7 @@ If you can edit the map, a button at the bottom right will show up called **Edit
 ## Measurement tool
 You can enable the measurement tool in the map settings by filling Distance Unit label and Distance measurement.
 
-image.png
+![Measurement tool icon](img/map-measurement-tool.jpg)
 
 ## Dashboard widget
 
