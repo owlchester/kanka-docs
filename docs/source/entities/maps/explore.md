@@ -13,6 +13,11 @@ If you can edit the map, a button at the bottom right will show up called **Edit
 
 ![Enter edit mode button](img/map-edit-mode.png)
 
+## Measurement tool
+You can enable the measurement tool in the map settings by filling Distance Unit label and Distance measurement.
+
+![Measurement tool icon](img/map-measurement-tool.jpg)
+
 ## Dashboard widget
 
 A map can be pinned to a dashboard. To do so, add an **entity preview** widget linked to the map to the dashboard. Markers can be clicked on the dashboard, which will open the target entity.
