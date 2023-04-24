@@ -33,6 +33,10 @@ For example, if you want a number between 1 and 100, use `1-100`. If you want a 
 
 You can reference the entity's name in an attribute value with `{name}`. If an attribute exists with that name, the attribute will be used instead.
 
+Icons from FontAwesome and RPGAwesome can be rendered for example with the `[icon:fa-solid fa-user]` or `[icon:ra ra-aura]` syntax, both in the attribute name and attribute values. Note that if it's in the attribute name, referencing that attribute no longer works. 
+
+![Attribute icons](img/attributes-icon.png)
+
 ## Privacy
 
 An attribute can be kept private from your players, for example the BBEG's weakness to fire, by clicking on the **lock** icon. When enabled, only members of the campaign's admin role will see the attribute.
