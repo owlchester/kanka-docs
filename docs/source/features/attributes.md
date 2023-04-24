@@ -33,7 +33,7 @@ For example, if you want a number between 1 and 100, use `1-100`. If you want a 
 
 You can reference the entity's name in an attribute value with `{name}`. If an attribute exists with that name, the attribute will be used instead.
 
-Icons from FontAwesome and RPGAwesome can be rendered for example with the `[icon:fa-solid fa-user]` or `[icon:ra ra-aura]` syntax, both in the attribute name and attribute values. Note that if it's in the attribute name, referencing that attribute no longer works. 
+Icons from FontAwesome and RPGAwesome can be rendered for example with the `[icon:fa-solid fa-user]` or `[icon:ra ra-aura]` syntax, both in the attribute name and attribute values. Note that mentioning an attribute that contains an icon in its name doesn't always work and will randomly break. 
 
 ![Attribute icons](img/attributes-icon.png)
 
