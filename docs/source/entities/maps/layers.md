@@ -29,7 +29,7 @@ Layers have the standard [visibility](/advanced/visibility) permission system, m
 
 ## Limitations
 
-Standard campaigns can have a maximum of **one** (1) layer per map, while boosted campaigns can have up to **ten** (10).
+Standard campaigns can have a maximum of **one** (1) layer per map, while premium campaigns can have up to **ten** (10).
 
 There is currently no way to have more than ten layers per map.
 

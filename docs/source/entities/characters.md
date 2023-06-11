@@ -56,7 +56,7 @@ If this is your first character, you might not yet have organisations. You can [
 
 ### Boosts
 
-This tab is only available to [boosted campaigns](https://kanka.io/en-US/boosters).
+This tab is only available to [premium campaigns](https://kanka.io/en-US/premium).
 
 These fields include
 

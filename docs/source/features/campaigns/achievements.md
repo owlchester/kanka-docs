@@ -1,6 +1,6 @@
 # Achievements
 
-[Boosted campaigns](https://kanka.io/en-US/boosters) have a unique interface that tracks achievements of the campaign. This page is accessible in `World > Achivements`. 
+[Premium campaigns](https://kanka.io/en-US/premium) have a unique interface that tracks achievements of the campaign. This page is accessible in `World > Achivements`. 
 
 ## Levels
 

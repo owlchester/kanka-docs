@@ -1,6 +1,6 @@
 # Marketplace
 
-The [Kanka Marketplace](https://marketplace.kanka.io) allow users to create themes, character sheets and content packs for others to use in their campaigns. Anyone can create plugins on the marketplace, but plugins can only be used in [boosted campaigns](https://kanka.io/en-US/boosters).
+The [Kanka Marketplace](https://marketplace.kanka.io) allow users to create themes, character sheets and content packs for others to use in their campaigns. Anyone can create plugins on the marketplace, but plugins can only be used in [premium campaigns](https://kanka.io/en-US/premium).
 
 To see the plugins installed in your campaign, go to **WORLD** and to **Plugins**. From there you can enable, disable, update or remove plugins that are installed in the campaign.
 
@@ -60,7 +60,7 @@ Once you've finished creating your plugin and are happy with it, you can send th
 
 In your plugin's overview page, the version will have a **Submit for review** button.
 
-Once a version is approved, the plugin becomes available in the marketplace, and can be installed to boosted campaigns.
+Once a version is approved, the plugin becomes available in the marketplace, and can be installed to premium campaigns.
 
 ## Updating your plugin
 
@@ -70,11 +70,11 @@ With your plugin released, you realised that something isn't quite right, a spel
 
 ### Installing a plugin to a campaign
 
-Installing a plugin to a boosted campaign can be confusing at times, so this should hopefully give you a good understanding of how it works.
+Installing a plugin to a premium campaign can be confusing at times, so this should hopefully give you a good understanding of how it works.
 
 Once you've found a plugin on the marketplace that looks great, you need to click on the **Install** button on the top right of the page. 
 
-If you only have a single boosted campaign you are an admin of, the plugin will directly be installed on that campaign. If not, an interface listing all your boosted and superboosted campaigns will be displayed, asking you which campaign to install the plugin to. Clicking the **install** button will install that plugin to the selected campaign.
+If you only have a single premium campaign you are an admin of, the plugin will directly be installed on that campaign. If not, an interface listing all your boosted and superpremium campaigns will be displayed, asking you which campaign to install the plugin to. Clicking the **install** button will install that plugin to the selected campaign.
 
 A confirmation message will appear:
 

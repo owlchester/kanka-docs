@@ -2,7 +2,7 @@
 
 Campaigns can have quick links, which are basically favourite pages in the campaign.
 
-By default, campaigns are limited to **3** quick links, with [boosted campaigns](https://kanka.io/en-US/boosters) having unlimited quick links.
+By default, campaigns are limited to **3** quick links, with [premium campaigns](https://kanka.io/en-US/premium) having unlimited quick links.
 
 ## Creating a quick link
 
@@ -39,11 +39,11 @@ To replicate a wiki's random page link, use this option to open a random entity 
 
 ### Dashboard
 
-If the [campaign is boosted](https://kanka.io/en-US/boosters), you can point the quick link to a specific [dashboard](/guides/campaigns) of the campaign.
+If the [campaign is boosted](https://kanka.io/en-US/premium), you can point the quick link to a specific [dashboard](/guides/campaigns) of the campaign.
 
 ### Placing a quick link
 
-By default, quick links will appear in their order in the `Quick Links` section of the sidebar. However, boosted campaigns have access to a `Parent Element` option, which allows quick links to appear directly after another element of the sidebar. 
+By default, quick links will appear in their order in the `Quick Links` section of the sidebar. However, premium campaigns have access to a `Parent Element` option, which allows quick links to appear directly after another element of the sidebar. 
 
 ![Quick links parent field](img/quick-links-parent.png)
 

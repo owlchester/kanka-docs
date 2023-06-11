@@ -62,7 +62,7 @@ By default, tooltips that appear when hovering an entity link don't display that
 
 #### Default entity's connections interface 
 
-When clicking on an entity's **relations** subpage, select what displays. On boosted campaigns, the default is to show the **relation explorer**.
+When clicking on an entity's **relations** subpage, select what displays. On premium campaigns, the default is to show the **relation explorer**.
 
 #### Default relations explorer mode 
 

@@ -6,7 +6,7 @@ Markers can be added when editing a map on the **markers** tab, but you'll enjoy
 
 ## Types of markers
 
-There are currently four types of markers. Standard campaigns only have access to markers, while boosted campaigns have access to the later three.
+There are currently four types of markers. Standard campaigns only have access to markers, while premium campaigns have access to the later three.
 
 ![Map marker types](img/map-marker-types.png)
 
@@ -16,7 +16,7 @@ The basic marker on maps, think of it like a "pin" on a map.
 
 #### Custom Icon
 
-Boosted campaigns have access to **custom icons**, which can be icons from FontAwesome or RPGAwesome. 
+Premium campaigns have access to **custom icons**, which can be icons from FontAwesome or RPGAwesome. 
 
 For FontAwesome, simply find a font that you like on it, and click on the code snippet (which should look something like `<i class="fa-solid fa-user"></i>`), and paste it into the custom icon field. The snippet will be automatically transformed into a format accepted by Kanka, in this case `fa-solid fa-user`.
 

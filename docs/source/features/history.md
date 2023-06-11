@@ -14,7 +14,7 @@ This brings up a summary of changes recently done to the entity.
 
 ### Full save logs
 
-[Superboosted campaigns](https://kanka.io/en-US/boosters#superboosted) get access to the full changes made to an entity in this interface. When saving an entity, the previous values are saved in the log, and is available for 30 days.
+[Superpremium campaigns](https://kanka.io/en-US/premium#superboosted) get access to the full changes made to an entity in this interface. When saving an entity, the previous values are saved in the log, and is available for 30 days.
 
 Clicking on the **View changes** link reveals the previous values.
 
@@ -30,7 +30,7 @@ These logs don't track changes to sub-elements of an entity, for example attribu
 
 ## Unified interface
 
-Admins of a superboosted campaign get access to a **History** page, accessible towards the end of the sidebar. This displays the changes done on the whole campaign, with filters available for specific members or specific actions.
+Admins of a superpremium campaign get access to a **History** page, accessible towards the end of the sidebar. This displays the changes done on the whole campaign, with filters available for specific members or specific actions.
 
 The full entity changes are available on the **Changes** button.
 

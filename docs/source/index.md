@@ -85,6 +85,7 @@ features/campaigns/modules
 features/campaigns/recovery
 features/campaigns/sidebar
 features/campaigns/theming
+features/campaigns/theme-builder
 features/campaigns/leaving
 features/campaigns/deleting
 features/campaigns/public-campaigns

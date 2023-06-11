@@ -1,6 +1,6 @@
 # Default thumbnails
 
-[Boosted campaigns](https://kanka.io/en-US/boosters) have an interface to define default thumbnails for entities with no attached image. This interface is available in `World > Default Thumbnail`. 
+[Premium campaigns](https://kanka.io/en-US/premium) have an interface to define default thumbnails for entities with no attached image. This interface is available in `World > Default Thumbnail`. 
 
 ## Thumbnails
 

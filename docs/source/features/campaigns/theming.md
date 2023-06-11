@@ -4,9 +4,13 @@ The first half of the following Youtube videos describes this article.
 
 [![Customising your Kanka campaign](https://img.youtube.com/vi/ynX5jimy8Lo/0.jpg)](https://youtu.be/ynX5jimy8Lo)
 
-Administrators of [boosted campaigns](https://kanka.io/en-US/boosters) can write custom CSS for their campaigns. This interface is accessed in **World** and **Theming**.
+Administrators of [premium campaigns](https://kanka.io/en-US/premium) can write custom CSS for their campaigns. This interface is accessed in **World** and **Theming**.
 
 To keep what little sanity you have left, it is recommended to split up your CSS into multiple themes.
+
+## Theme builder
+
+When creating your first campaign style, you'll be asked if you want to use the [theme builder](/features/campaigns/theme-builder) instead. The theme builder is a great way of changing just the various colours of Kanka without having to learn CSS!
 
 ## Fonts
 

@@ -1,6 +1,6 @@
 # Aliases
 
-[Boosted campaigns](https://kanka.io/en-US/boosters) can set aliases on entities to help find them in the [search](/features/search) and in [mentions](/features/mentions).
+[Premium campaigns](https://kanka.io/en-US/premium) can set aliases on entities to help find them in the [search](/features/search) and in [mentions](/features/mentions).
 
 ## Defining an alias
 

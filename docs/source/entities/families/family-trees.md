@@ -4,7 +4,7 @@
 This article is for a recently added feature to Kanka!
 ```
 
-[Families](/entities/families) can have their family trees created in Kanka. This feature is currently limited to superboosted campaigns. To start creating a family tree, go to a family and go to their *family tree* subpage.
+[Families](/entities/families) can have their family trees created in Kanka. This feature is currently limited to superpremium campaigns. To start creating a family tree, go to a family and go to their *family tree* subpage.
 
 ![Kanka family tree](family-tree.png)
 

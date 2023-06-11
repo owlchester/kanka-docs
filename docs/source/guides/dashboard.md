@@ -59,6 +59,6 @@ To make your life easier, when viewing a filtered list of entities, the filters 
 
 ## Custom Dashboards
 
-[Boosted campaigns](https://kanka.io/en-US/boosters) can have more than a single dashboard.
+[Premium campaigns](https://kanka.io/en-US/premium) can have more than a single dashboard.
 
 Non-default dashboards have their own simple permission engine linked to the campaign's roles. For example, a dashboard can be the default one for your players, with a focus on their current quest progress.

@@ -6,6 +6,6 @@ For our Kobolds (free users), ads are displayed throughout the campaign pages in
 
 Ads can be disabled by [subscribing to Kanka](https://kanka.io/en-US/pricing) on any of the tiers. As long as your subscription is active, you won't see any ads while browsing Kanka.
 
-## Boosted campaigns
+## Premium campaigns
 
-[Boosting a campaign](https://kanka.io/en-US/boosters) disables ads for any user viewing the campaign. This also applies for unlogged users viewing a boosted campaign.
+[Boosting a campaign](https://kanka.io/en-US/premium) disables ads for any user viewing the campaign. This also applies for unlogged users viewing a premium campaign.
