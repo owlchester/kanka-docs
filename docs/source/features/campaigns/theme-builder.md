@@ -65,6 +65,11 @@ If you wish to fully customise the campaign theme manually, you can define the f
     /* Text colour for elements with the neutral colour background */
     --nc: 210 38% 95%;
 
+    /* Sidebar background, focus, and foreground colours */
+    --si: 0 0% 20%;
+    --sif: 0 0% 10%;
+    --sic: 0 0% 90%;
+
     /* Base background colours, used for boxes, panels, modals */
     --b1: 0 0% 100%;
     --b2: 0 0% 93%;
@@ -87,10 +92,6 @@ If you wish to fully customise the campaign theme manually, you can define the f
     /* Success messages background and foreground */
     --su: 158 64% 52%;
     --suc: 158 100% 10%;
-
-    /* Sidebar background and foreground */
-    --si: 0 0% 20%;
-    --sic: 0 0% 90%;
 
     /* Border radius for buttons */
     --rounded-btn: .25rem;
