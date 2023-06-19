@@ -25,4 +25,4 @@ The profile section is filled out by various fields from the entity, including a
 
 ## Links
 
-If the entity's assets include links, they are displayed in this section.
+If the [entity's assets](/features/assets) contain links, they are displayed in this section.

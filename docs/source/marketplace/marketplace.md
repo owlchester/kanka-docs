@@ -82,7 +82,7 @@ A confirmation message will appear:
 
 You'll notice that the campaign name is a link. Clicking on it brings you to that campaign's plugins page, which will allow you to do the following things.
 
-* **Theme**: if the campaign is a theme, installing it won't enable it by default. You need to go to the campaign's plugins and activate the theme.
+* **Theme**: if the plugin is a theme, it will automatically be enabled. Themes can be toggled on the campaign's plugins page.
 * **Character sheet**: adding a character sheet to the campaign will make it available in the various entities' Attributes tab in the edit page, where you can select the marketplace character sheets installed on the campaign.
 * **Content pack**: if the plugin is a content pack, installing it won't automatically import all of its entities. You need to go to the campaign's plugins and click on the Sync action.
 
