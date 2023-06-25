@@ -126,10 +126,11 @@ advanced/api
 ---
 maxdepth: 1
 hidden:
-caption: Profile Settings
+caption: Account Settings
 ---
-profile/appearance
+account/appearance
 account/security/two-factor-authentication
+account/delete-account
 ```
 
 ```{toctree}

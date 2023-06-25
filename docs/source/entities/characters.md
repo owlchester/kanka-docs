@@ -78,7 +78,7 @@ With your first character ready, time to save it into Kanka. Clicking on the **s
 
 
 ```{admonition} Workflow
-By default, Kanka shows you the list of your campaign's characters when creating a new one. You can change this in your [settings](/profile/appearance).
+By default, Kanka shows you the list of your campaign's characters when creating a new one. You can change this in your [settings](/account/appearance).
 
 ```
 
