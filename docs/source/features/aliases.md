@@ -17,6 +17,6 @@ Each alias has a [visibility](/advanced/visibility) option to control who in the
 
 When adding a [mention](/features/mentions) to an entity through the alias, the alias's name is used to render the mention.
 
-## What happens to the campaign's aliases when it is no longer boosted?
+## What happens to the campaign's aliases when the campaign looses its premium status
 
-Should the campaign no longer be boosted, aliases won't work for both search and mentions. Boosting a campaign again will re-activate all the campaign's aliases.
+Should the campaign no longer benefit from premium features, aliases won't work for both search and mentions. Re-enabling premium features on the campaign will re-activate all the campaign's aliases.

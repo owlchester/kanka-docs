@@ -14,14 +14,14 @@ This brings up a summary of changes recently done to the entity.
 
 ### Full save logs
 
-[Superpremium campaigns](https://kanka.io/en-US/premium#superboosted) get access to the full changes made to an entity in this interface. When saving an entity, the previous values are saved in the log, and is available for 30 days.
+[Premium campaigns](https://kanka.io/en-US/premium) get access to the full changes made to an entity in this interface. When saving an entity, the previous values are saved in the log, and is available for 30 days.
 
 Clicking on the **View changes** link reveals the previous values.
 
 ![Full entity log details](img/history-entity-full.png)
 
 ```{admonition} Warning
-Note that the campaign **already needs to be superboosted** when making changes for the old values to be saved. Superboosting a campaign after an entity was changed won't give you access to the old values.
+Note that the campaign **already needs to be **premium** when making changes for the old values to be saved. Unlocking premium features on a campaign after an entity was changed won't give you access to the old values.
 ```
 
 #### Limitations

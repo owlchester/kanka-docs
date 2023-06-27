@@ -8,4 +8,4 @@ Ads can be disabled by [subscribing to Kanka](https://kanka.io/en-US/pricing) on
 
 ## Premium campaigns
 
-[Boosting a campaign](https://kanka.io/en-US/premium) disables ads for any user viewing the campaign. This also applies for unlogged users viewing a premium campaign.
+A [Premium campaign](https://kanka.io/en-US/premium) disables ads for any user viewing the campaign. This also applies for unlogged users viewing a premium campaign.

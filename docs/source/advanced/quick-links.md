@@ -39,7 +39,7 @@ To replicate a wiki's random page link, use this option to open a random entity 
 
 ### Dashboard
 
-If the [campaign is boosted](https://kanka.io/en-US/premium), you can point the quick link to a specific [dashboard](/guides/campaigns) of the campaign.
+On [premium campaigns](https://kanka.io/en-US/premium), you can point the quick link to a specific [dashboard](/guides/campaigns) of the campaign.
 
 ### Placing a quick link
 

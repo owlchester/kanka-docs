@@ -7,7 +7,7 @@ World builders and campaign managers might want their world to be freely visible
 
 Below the featured campaigns are all public campaigns that have at least 5 entities visible to the public role. This condition is re-calculated every night at `01:00 UTC` for all public campaigns.
 
-Campaigns can be filtered by **locale**, **system** (only the 20 most popular systems are shown here), by their **boosted** status, and by their **[open]**(features/campaigns/applications) status. By default, campaigns are ordered by the number of entities visible to the **public** role, but this can be changed to the number of followers.
+Campaigns can be filtered by **locale**, **system** (only the 20 most popular systems are shown here), by their **premium** status, and by their **[open]**(features/campaigns/applications) status. By default, campaigns are ordered by the number of entities visible to the **public** role, but this can be changed to the number of followers.
 
 
 ![List of public campaigns](img/public-campaigns.png)

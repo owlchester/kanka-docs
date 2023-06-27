@@ -54,7 +54,7 @@ This tab allows to control in which [organisations](/entities/organisations) the
 
 If this is your first character, you might not yet have organisations. You can [create one on the fly](/features/quick-creator), or come back to this tab later. This allows you to make this character a member of one or several organisations of your world.
 
-### Boosts
+### Premium
 
 This tab is only available to [premium campaigns](https://kanka.io/en-US/premium).
 

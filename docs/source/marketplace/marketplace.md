@@ -74,7 +74,7 @@ Installing a plugin to a premium campaign can be confusing at times, so this sho
 
 Once you've found a plugin on the marketplace that looks great, you need to click on the **Install** button on the top right of the page. 
 
-If you only have a single premium campaign you are an admin of, the plugin will directly be installed on that campaign. If not, an interface listing all your boosted and superpremium campaigns will be displayed, asking you which campaign to install the plugin to. Clicking the **install** button will install that plugin to the selected campaign.
+If you only have a single premium campaign you are an admin of, the plugin will directly be installed on that campaign. If not, an interface listing all your premium campaigns will be displayed, asking you which campaign to install the plugin to. Clicking the **install** button will install that plugin to the selected campaign.
 
 A confirmation message will appear:
 
