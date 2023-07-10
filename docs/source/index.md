@@ -160,4 +160,5 @@ hidden:
 caption: Misc
 ---
 helping-out
+self-hosting
 ```

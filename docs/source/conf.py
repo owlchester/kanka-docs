@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Kanka'
-copyright = '2022, Owlchester SNC'
+copyright = '2023, Owlchester SNC'
 author = 'Owlchester SNC'
 
 release = '0.1'
