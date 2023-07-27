@@ -43,7 +43,21 @@ The calendar's year can be -2'000'000'000 to 2'000'000'000. The same is true for
 
 ## Year Zero
 
-By default all calendars start on year zero, if you want, you can disable this when creating a new calendar, making it start on year 1.
+By default, all calendars start on year zero, if you want, you can disable this when creating a new calendar, making it start on year 1.
+
+## Date format
+
+By default, calendar dates display as `d M y s`, but this can be changed around to your preferred formatting.
+
+Imagining our real date of _February 4th 2023_, the following values will render like this:
+
+* `d`: Displays the day number (`4`)
+* `M`: Displays the month name (`February`)
+* `m`: Displays the month number (`2`)
+* `y`: Displays the year (`2023`)
+* `s`: Displays the calendar's suffix (`CE`)
+
+All other letters are ignored. You can use ` ` (space), `-` and `,` in between values.
 
 ## Calendar widget
 
