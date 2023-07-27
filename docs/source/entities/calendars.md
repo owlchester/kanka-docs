@@ -47,7 +47,7 @@ By default, all calendars start on year zero, if you want, you can disable this 
 
 ## Date format
 
-By default, calendar dates display as `d M y s`, but this can be changed around to your preferred formatting.
+By default, calendar dates display as `d M, y s`, but this can be changed around to your preferred formatting.
 
 Imagining our real date of _February 4th 2023_, the following values will render like this:
 
