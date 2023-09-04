@@ -11,7 +11,7 @@ To check your campaign permissions, you’ll first need another member in your c
 
 ## Switching to another user
 
-To view your campaign as another member of your campaign, click on World in the sidebar and then on the Members subpage.
+To view your campaign as another member of your campaign, click on `Settings` in the sidebar and then on the `Members` subpage.
 
 In this interface, you'll see the members of your campaign. On the right, members who aren't part of the campaign's admin role will have a button. This reveals the View campaign as member option. Clicking on it will redirect you to the campaign’s dashboard as the user. From there on, you can explore the campaign, viewing it as the user would.
 

@@ -8,4 +8,4 @@ The last option is to create a new campaign.
 
 ## Changing the order
 
-By default, campaigns appear in the order of you joining/following them. This can be change in your [appearance settings](https://kanka.io/en-US/settings/appearance). The option is called **Campaign switcher default order**.
+By default, campaigns appear in the order of you joining/following them. This can be change in your [appearance settings](https://app.kanka.io/settings/appearance). The option is called **Campaign switcher default order**.

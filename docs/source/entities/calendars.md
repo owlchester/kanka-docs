@@ -15,7 +15,7 @@ Reminders are only displayed over the span of maximum 2 months. If your reminder
 
 ## Gregorian calendar
 
-If you want to mimic the gregorian calendar (the one used in most of the western world), you can copy [this calendar](https://kanka.io/en/campaign/1/calendars/2065) to your campaign. Note that it isn't an exact copy of the gregorian calendar, as popes and kings over the centuries have added/removed days or even months from it willy-nilly.
+If you want to mimic the gregorian calendar (the one used in most of the western world), you can copy [this calendar](https://app.kanka.io/w/1/calendars/2065) to your campaign. Note that it isn't an exact copy of the gregorian calendar, as popes and kings over the centuries have added/removed days or even months from it willy-nilly.
 
 ## Advancing calendars
 

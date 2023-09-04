@@ -4,7 +4,7 @@ You don't need to be a CSS wizard to customise the style of your campaign. If yo
 
 ## Accessing the theme builder
 
-To access the theme builder, from the campaign sidebar, click on **World** and then on **Theming**. From the [campaign theming](/features/campaigns/theming) interface, create a **New style**. If the theme builder hasn't been used yet in the campaign, a link to it will be displayed above the style form.
+To access the theme builder, from the campaign sidebar, click on `Settings` and then on `Theming`. From the [campaign theming](/features/campaigns/theming) interface, create a **New style**. If the theme builder hasn't been used yet in the campaign, a link to it will be displayed above the style form.
 
 ![Link to the theme builder](img/theme-builder-hint.png)
 

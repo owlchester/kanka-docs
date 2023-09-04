@@ -1,6 +1,6 @@
 # Export
 
-Campaigns can be exported once a day. To start exporting a campaign, go to **World** and **Export**.
+Campaigns can be exported once a day. To start exporting a campaign, go to `Settings > Export`.
 
 Once the process has been started, one of the Kanka severs will try to generate two files.
 
