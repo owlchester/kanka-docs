@@ -24,7 +24,6 @@ Next, paste the value in the campaign sidebar **icon** field. The HTML will auto
 
 To use an RPGAwesome icon, copy the desired icon's "name" and paste it in the **icon** field. You'll also need to append **ra** (with a space in front) to make it work.
 
-
 ![Copying an RPGAwesome icon](img/sidebar-rpg.png)
 
 For example, if you want to use **ra-anvil**, write **ra ra-anvil** in the icon field.
