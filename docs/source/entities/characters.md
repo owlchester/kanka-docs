@@ -56,7 +56,7 @@ If this is your first character, you might not yet have organisations. You can [
 
 ### Premium
 
-This tab is only available to [premium campaigns](https://kanka.io/en-US/premium).
+This tab is only available to [premium campaigns](https://kanka.io/premium).
 
 These fields include
 
@@ -88,4 +88,4 @@ This covers how to create a character. As you create other types of entities in 
 
 ## Deities?
 
-We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type, and combine them with a [quick link](/advanced/quick-link).
+We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type, and combine them with a [bookmark](/advanced/bookmarks).

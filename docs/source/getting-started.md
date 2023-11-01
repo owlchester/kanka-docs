@@ -6,7 +6,7 @@ Click on the image to open a Youtube video introducing Kanka.
 
 ## Account
 
-Your first steps to using Kanka is to [register a free account](https://kanka.io/en-US/register) and log in. You can register using an email and password, or using your Google, Twitter or Facebook accounts. 
+Your first steps to using Kanka is to [register a free account](https://app.kanka.io/register) and log in. You can register using an email and password, or using your Google, Twitter or Facebook accounts. 
 
 If you choose to use a third party provider, you can switch to a custom password later in your profile settings.
 

@@ -1,6 +1,6 @@
 # Achievements
 
-[Premium campaigns](https://kanka.io/en-US/premium) have a unique interface that tracks achievements of the campaign. This page is accessible in `World > Achivements`. 
+[Premium campaigns](https://kanka.io/premium) have a unique interface that tracks achievements of the campaign. This page is accessible in `Settings > Achivements`. 
 
 ## Levels
 

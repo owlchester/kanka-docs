@@ -6,7 +6,7 @@ Inviting your friends and players to your campaign is a similar process to Disco
 
 ## Inviting members
 
-To invite members, you need an **invite link**. From the sidebar, click on **world** or **campaign** to access the campaign management pages, and then go to the **members** subpage.
+To invite members, you need an **invite link**. From the sidebar, click on `Settings` to access the campaign management pages, and then go to the `Members` subpage.
 
 
 ![Where to find the member management page](img/member-subpage.png)
@@ -29,7 +29,7 @@ After hitting **generate link**, you'll see a confirmation message at the top of
 
 ![img.png](img/members-success.png)
 
-### Accessing the quick link
+### Accessing the link
 
 You can always re-copy the invite link to your clipboard by clicking on the "copy to clipboard" icon in the list of invite links.
 

@@ -4,7 +4,7 @@ The first half of the following Youtube videos describes this article.
 
 [![Customising your Kanka campaign](https://img.youtube.com/vi/ynX5jimy8Lo/0.jpg)](https://youtu.be/ynX5jimy8Lo)
 
-Administrators of [premium campaigns](https://kanka.io/en-US/premium) can write custom CSS for their campaigns. This interface is accessed in **World** and **Theming**.
+Administrators of [premium campaigns](https://kanka.io/premium) can write custom CSS for their campaigns. This interface is accessed in `Settings > Theming`.
 
 To keep what little sanity you have left, it is recommended to split up your CSS into multiple themes.
 

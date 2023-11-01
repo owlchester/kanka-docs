@@ -8,7 +8,7 @@ The first asset type are [Aliases](/features/aliases), which can be used for sea
 
 ![Editing an alias asset](img/asset-alias.png)
 
-The second asset type are uploaded **files** to the entity. By default, an entity can have 3 files attached to it, generally an image, pdf, or image. [Premium](https://kanka.io/en-US/premium) campaign can have **10** files attached to each entity.
+The second asset type are uploaded **files** to the entity. By default, an entity can have 3 files attached to it, generally an image, pdf, or image. [Premium](https://kanka.io/premium) campaign can have **10** files attached to each entity.
 
 ![File asset](img/asset-file.png)
 

@@ -9,7 +9,7 @@ Kanka's OAuth Clients are built with the [Laravel Passport](https://laravel.com/
 
 ## Generating an OAuth Client
 
-To generate an OAuth client, visit your [API settings](https://kanka.io/en-US/settings/api?clients=1). This allows you to create a new client with a name and a callback URL.
+To generate an OAuth client, visit your [API settings](https://app.kanka.io/settings/api?clients=1). This allows you to create a new client with a name and a callback URL.
 
 * **Name**: The name of your application. Users will be shown this application name in the permission grant screen.
 * **Callback URL**: This is the URL that users will be redirected to when approving or cancelling your app's access to their account.

@@ -1,8 +1,8 @@
 # Public campaigns
 
-World builders and campaign managers might want their world to be freely visible from people who aren't in their campaign. This is achieved by browsing the [public campaigns](https://kanka.io/en-US/public-campaigns) page.
+World builders and campaign managers might want their world to be freely visible from people who aren't in their campaign. This is achieved by browsing the [public campaigns](https://kanka.io/campaigns) page.
 
-**Featured campaigns** are those selected by the Kanka team to showcase amazing worlds, as well as those who have won previous [worldbuilding prompts](https://kanka.io/en-US/community-events).
+**Featured campaigns** are those selected by the Kanka team to showcase amazing worlds, as well as those who have won previous [worldbuilding prompts](https://kanka.io/worldbuilding-prompts).
 
 
 Below the featured campaigns are all public campaigns that have at least 5 entities visible to the public role. This condition is re-calculated every night at `01:00 UTC` for all public campaigns.
@@ -19,7 +19,7 @@ While the following Youtube video is outdated in its interface, the concepts cov
 
 [![Public campaigns youtube video](https://img.youtube.com/vi/VpY_D2PAguM/0.jpg)](https://youtu.be/VpY_D2PAguM)
 
-To make your campaign public, click on **World** in the campaign sidebar, and on **Edit campaign**. This will bring up the campaign's form. The **Sharing** tab has all the information related to public campaigns.
+To make your campaign public, click on `Settings` in the sidebar, and on `Edit`. This will bring up the campaign's form. The **Sharing** tab has all the information related to public campaigns.
 
 ![Making a campaign public](img/public-campaign.png)
 
@@ -27,7 +27,7 @@ Set the **Campaign visibility** field to **public** and save the campaign.
 
 The campaign is now public. Go to the dashboard, copy the URL, and open it in an incognito window. It should work! However, you'll quickly realise that it's empty. This is because while the campaign is public, the **public role** has no permissions set.
 
-If you go back to your logged in browser window and click on **World** again, you should be greeted by a warning on the page.
+If you go back to your logged in browser window and click on `Settings` again, you should be greeted by a warning on the page.
 
 ![Missing permissions for the campaign's public role](img/public-warning.png)
 

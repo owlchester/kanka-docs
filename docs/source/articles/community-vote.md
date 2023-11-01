@@ -3,7 +3,7 @@
 Kanka frequently holds community votes to help us prioritise new features and improvements based on the community's desire.
 
 ## Where
-A community vote takes place [directly in kanka](https://kanka.io/en-US/community-votes). A vote is usually open for seven days, and occures at the end of every few months. A notification is available in Kanka whenever a community vote is being held.
+A community vote takes place [directly in kanka](https://kanka.io/votes). A vote is usually open for seven days, and occures at the end of every few months. A notification is available in Kanka whenever a community vote is being held.
 
 ## What features are voted and worked on
 
@@ -13,7 +13,7 @@ Options that get little support go back to the list for a future vote, or are sh
 
 ## Who can vote
 
-[Owlbears, Wyverns and Elementals](https://kanka.io/en-US/pricing) can all vote in community votes while they are ongoing. If your subscription is ended or cancelled after you've voted but before the community vote ends, your vote is still counted.
+[Owlbears, Wyverns and Elementals](https://kanka.io/pricing) can all vote in community votes while they are ongoing. If your subscription is ended or cancelled after you've voted but before the community vote ends, your vote is still counted.
 
 ## Weighted vote
 

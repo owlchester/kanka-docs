@@ -10,7 +10,7 @@ To create a campaign, open the campaign switcher and click on **new campaign**.
 
 ## Campaign settings
 
-The following aims to detail each field available when creating or editing a campaign. To access this interface, click on **World** and **Edit campaign**.
+The following aims to detail each field available when creating or editing a campaign. To access this interface, click on `Settings` and `Edit`.
 
 ### Entry
 
@@ -22,7 +22,7 @@ A campaign needs a world, containing at least 4 characters. Campaign names aren'
 
 #### Description
 
-A short (or long, we don't judge!) description of your campaign. A preview of this displays on the campaign's dashboard, and the full text is available when clicking on **World** or **Campaign** in the sidebar. 
+A short (or long, we don't judge!) description of your campaign. A preview of this displays on the campaign's dashboard, and the full text is available when clicking on `Settings` in the sidebar.
 
 ``` {admonition} Friendly tip
 This field can contain mentions to entities of the campaign!
@@ -50,7 +50,7 @@ Rather than displaying the campaign in the user viewing it's preferred theme, yo
 
 #### Campaign's member list
 
-Control who can see the campaign's member list. This list is available in **World** and **Members**.
+Control who can see the campaign's member list. This list is available in `Settings > Members`.
 
 #### Entity history logs
 

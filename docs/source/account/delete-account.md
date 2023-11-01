@@ -1,6 +1,6 @@
 # Delete your account
 
-Your account can be delete from your [account page](https://kanka.io/en-US/settings/account).
+Your account can be delete from your [account page](https://app.kanka.io/settings/account).
 
 To delete your account, navigate first to your profile settings page
 
@@ -22,6 +22,6 @@ Deleting your account immediately removes all of your data and campaigns you are
 
 ## Active subscription
 
-If you have an active [subscription](https://kanka.io/en-US/pricing), you'll have to cancel that first before being able to delete your account. As soon as your subscription is cancelled, even if it's still ongoing, you can delete your account.
+If you have an active [subscription](https://kanka.io/pricing), you'll have to cancel that first before being able to delete your account. As soon as your subscription is cancelled, even if it's still ongoing, you can delete your account.
 
 ![Subscription limitation](img/delete-sub.png)

@@ -49,7 +49,7 @@ To filter on attributes which are of the **checkbox** type, use the following va
 
 ## Copy filters to clipboard
 
-After filling out the filters and clicking the **Filter** button, the list of entities will be updated. At this point, in the filters box, the **Copy filters to clipboard** button becomes active. Clicking it copies the filters to the clipboard, which can be pasted in the dashboard [widget filters](/guides/dashboard#widget-filters) and [quick link](/advanced/quick-links) **filters** fields.
+After filling out the filters and clicking the **Filter** button, the list of entities will be updated. At this point, in the filters box, the **Copy filters to clipboard** button becomes active. Clicking it copies the filters to the clipboard, which can be pasted in the dashboard [widget filters](/guides/dashboard#widget-filters) and [bookmark](/advanced/bookmark) **filters** fields.
 
 ![Copy filters to the clipboard](img/filters-copy.png)
 

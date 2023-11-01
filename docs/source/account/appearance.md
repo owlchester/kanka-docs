@@ -1,6 +1,6 @@
 # Appearance settings
 
-Your profile settings can impact the visuals and workflows of your Kanka experience. You can change these [here](https://kanka.io/en-US/settings/appearance), or when in Kanka, by clicking on your profile picture and on **settings**, then going to **appearance** in the sidebar.
+Your profile settings can impact the visuals and workflows of your Kanka experience. You can change these [here](https://app.kanka.io/settings/appearance), or when in Kanka, by clicking on your profile picture and on **settings**, then going to **appearance** in the sidebar.
 
 ![Accessing your user settings](img/menu.png)
 
@@ -12,7 +12,7 @@ Note that campaigns have the option to override your theme setting, forcing a ca
 
 ## Results per page
 
-If you want more than 15 characters shown in the characters list, you can change this value here. [Subscribers](https://kanka.io/en-US/pricing) get access to up to **100** entities per page.
+If you want more than 15 characters shown in the characters list, you can change this value here. [Subscribers](https://kanka.io/pricing) get access to up to **100** entities per page.
 
 ## Date formatting
 

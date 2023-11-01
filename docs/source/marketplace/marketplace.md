@@ -1,8 +1,8 @@
 # Marketplace
 
-The [Kanka Marketplace](https://marketplace.kanka.io) allow users to create themes, character sheets and content packs for others to use in their campaigns. Anyone can create plugins on the marketplace, but plugins can only be used in [premium campaigns](https://kanka.io/en-US/premium).
+The [Kanka Marketplace](https://marketplace.kanka.io) allow users to create themes, character sheets and content packs for others to use in their campaigns. Anyone can create plugins on the marketplace, but plugins can only be used in [premium campaigns](https://kanka.io/premium).
 
-To see the plugins installed in your campaign, go to **WORLD** and to **Plugins**. From there you can enable, disable, update or remove plugins that are installed in the campaign.
+To see the plugins installed in your campaign, go to `Settings > Plugins`. From there you can enable, disable, update or remove plugins that are installed in the campaign.
 
 ## Introduction
 
@@ -88,7 +88,7 @@ You'll notice that the campaign name is a link. Clicking on it brings you to tha
 
 ### Removing / Disabling a plugin
 
-In the campaign's plugins page (**World > Plugins**), you can disable or remove plugins from your campaign. In the case of content packs, removing the plugin won't automatically delete entities created by the plugin.
+In the campaign's plugins page (`Settings > Plugins`), you can disable or remove plugins from your campaign. In the case of content packs, removing the plugin won't automatically delete entities created by the plugin.
 
 ## Limitations
 

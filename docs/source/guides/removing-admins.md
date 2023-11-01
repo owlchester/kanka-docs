@@ -9,9 +9,8 @@ To avoid abuse, admins cannot remove other members from the admin role. Members 
 
 ## Removing yourself
 
-Log in to your account, and from the campaign, click on **world** or **campaign** in the sidebar to go to the campaign management interface. From there, go to the **Roles** subpage, and click on the admin role's name. The admin role is always at the top of the list.
+Log in to your account, and from the campaign, click on `Settings` in the sidebar to go to the campaign management interface. From there, go to the `Roles` subpage, and click on the admin role's name. The admin role is always at the top of the list.
 
-![Where to find the admin role management page](img/remove-admin-where.png)
 
 In this new interace, click the **remove user from role** icon next to your name. A confirmation will ask you if you are sure. Confirming will remove you from the admin role.
 
