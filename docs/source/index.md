@@ -69,6 +69,7 @@ features/campaign-switcher
 features/reminders
 features/aliases
 features/history
+features/suggestions
 ```
 
 ```{toctree}
