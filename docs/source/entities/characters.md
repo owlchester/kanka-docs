@@ -24,19 +24,19 @@ The entry tab contains the description of the character.
 
 Next up are [foreign fields](/entities/foreign-fields). Foreign fields are other entities in the campaign, and a way to interconnect the character with your world.
 
-* **Family**: the character's family. Note that only a single family can be selected.
+* **Families**: the character's families. A character can be in multiple families, but it's up to you to provide the drama.
 * **Location**: where the character is currently located. If filled in, this will show up in the location's characters subpage.
 * **Races**: the various races or kin of the character. A character can have multiple races.
 
 Let's continue with more fields available for characters.
 
 * **Entry**: this is where the character's description is written. Who are they, what are they doing, how do they fit inside the world you've created.
-* **Age**: this text field allows both numbers and text (like very old).
-* **Gender**: the character's gender. Note that this field will suggest the 10 most used genders of your campaign as your campaign becomes more populated and diverse.
-* **Pronouns**: similar to the gender field, the 10 most used pronouns will be suggested for this field.
+* **Age**: this text field allows both numbers and text (ie "super-duper old").
+* **Gender**: the character's gender. Note that this field will [suggest](/features/suggestions) the 20 most used genders of your campaign as your campaign becomes more populated and diverse.
+* **Pronouns**: similar to the gender field, the 20 most used pronouns will be suggested for this field.
 * **Dead**: Selecting this option will add a small skull icon to the character's name in various lists and interfaces.
 * **Tags**: this is to categorise your character to be able to quickly find similar characters in the future (for example player characters, warlocks, bbegs).
-* **Image**: you can either select an image from your device, or give the URL of a website, and Kanka will try and download the image and attach it to the character.
+* **Image**: you can either select an image from your device,  give the URL of a website, and Kanka will try and download the image and attach it to the character, or select an image from the [gallery](/features/campaigns/gallery).
 * **Privacy**: lastly, for members of the campaign's admin role, the Privacy field. Is selected, this character won't be visible to members outside of the campaign's admin role.
 
 
@@ -62,7 +62,7 @@ These fields include
 
 * **Tooltip**: Instead of having the character's entry field be trimmed down for the tooltip when hovering its name, use this field to define exactly what is shown in the tooltip.
 * **Header image**: A header image is an image displayed behind the character's image, name, and info like tags and title displayed at the top of the character's page.
-* **Gallery image**: Instead of uploading an image to the character, select an image from the gallery.
+
 
 ### Attributes
 
@@ -76,11 +76,6 @@ The last tab is about permissions. We go over this in more detail on our [permis
 
 With your first character ready, time to save it into Kanka. Clicking on the **save** button at the top-right will add it to the campaign. There are few other options to the save button, accessible with the carret icon next to it.
 
-
-```{admonition} Workflow
-By default, Kanka shows you the list of your campaign's characters when creating a new one. You can change this in your [settings](/account/appearance).
-
-```
 
 ## Known territory
 
