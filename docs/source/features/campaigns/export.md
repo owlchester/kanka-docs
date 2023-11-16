@@ -2,11 +2,11 @@
 
 Campaigns can be exported once a day. To start exporting a campaign, go to `Settings > Export`.
 
-Once the process has been started, one of the Kanka severs will try to generate two files.
+Once the process has been started, one of the Kanka severs will prepare the export file. The process happens in the background, and doesn't stop you from still accessing the campaign. We recommend you don't update the campaign during this process to not end up with an incomplete export.
 
-The first one is the **campaign export**. This is a zip with every single entity sorted by type and exported in `JSON` format. This export should never fail.
+Once the export is done, a downloadable `.zip` file will be available in the Export interface.
 
-The second one is the **campaign assets**. This is a zip with all the images of your entities. However, if the total size of the campaign's images is over 128MB, this export fails. The first export still includes the path to download each entity's image individually.
+The exported campaign contains all the campaign data in `json` format, along with images of entities and the gallery.
 
 ## Who can export the data?
 
@@ -18,4 +18,4 @@ The ZIP files are downloadable for 30 minutes after they've been generated, befo
 
 ## How to import the export data?
 
-It is not possible to import an export into Kanka. Exports are meant for your own peace of mind, or to backup your data before leaving Kanka. Kanka automatically performs two complete backups of all your data twice a day.
+Importing the export is detailed in the [campaign import](/features/campaigns/import) documentation.
