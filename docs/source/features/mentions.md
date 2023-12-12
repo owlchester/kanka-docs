@@ -66,6 +66,18 @@ Here is a quick rundown of allowed fields for most entities.
 * Fields available for **tags**
     * colour
 
+### Attributes / Character sheets in the tooltip
+
+```{admonition} New features
+New with Kanka 2.1, and only for [premium campaigns](https://kanka.io/premium)
+```
+
+If you wish for a tooltip to display the attributes of the target entity instead of a preview of its entry, or render its character sheet, add the `tooltip:attributes` property to the advanced mention.
+
+For example, `[entity:123|Mike Attributes|tooltip:attributes]`.
+
+![A tooltip rendering attributes](img/mention-tooltip.png)
+
 ### Transclusion - Injecting an entity's main entry as a mention
 
 You can also inject the target's entry with `[entity:123|field:entry]`. This only injects the entity's **entry** text, not the whole entity.
