@@ -130,6 +130,7 @@ maxdepth: 1
 hidden:
 caption: Account Settings
 ---
+account/profile
 account/appearance
 account/security/two-factor-authentication
 account/delete-account

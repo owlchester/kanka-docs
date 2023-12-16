@@ -8,13 +8,9 @@ Inviting your friends and players to your campaign is a similar process to Disco
 
 To invite members, you need an **invite link**. From the sidebar, click on `Settings` to access the campaign management pages, and then go to the `Members` subpage.
 
-
-![Where to find the member management page](img/member-subpage.png)
-
 This interface shows you your campaign members. Below the list of members you can find an **Invites** section. This is where you'll create invite links to send to your friends.
 
 Click on the **Invite people** button
-
 
 ![Button for creating a new link](img/members-invite-btn.png)
 
@@ -44,6 +40,11 @@ You can remove non-admin members from your campaign in this same interface. Clic
 
 Doing so will notify them in Kanka that they have been removed. None of the content they've created in the campaign is deleted.
 
+## Why is the Last Login field empty?
+
+Every account can decide to share their last login information with members of other campaigns they are a part of. By default, we assume that users value their privacy and so the option is off. 
+
+To change this setting, a user needs to go to their [profile settings](https://app.kanka.io/settings/profile) and enable the "last login sharing" option. More info [here](/account/profile)
 
 ## Related
 
