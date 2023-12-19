@@ -14,7 +14,7 @@ Only members of the campaign's **admin** role can initiate and download the camp
 
 ## How long is the download available?
 
-The ZIP files are downloadable for 30 minutes after they've been generated, before being deleted from our servers.
+The ZIP files are downloadable for 120 minutes after they've been generated, before being deleted from our servers.
 
 ## How to import the export data?
 
