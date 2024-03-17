@@ -45,6 +45,7 @@ Create character sheets for your favourite TTRPG!
 
 * **HTML content**: this is where you can write the HTML of your character sheet to fully customise the rendering of attributes, effectively allowing you to create character sheets. Some logical commands like _if_, else, for and more are available, and detailed here.
 * **CSS content**: this is where you can write the CSS that will be included in your character sheet. We recommend prefixing your CSS classes with a code related to your plugin's name. If, for example, you're creating a character sheet for the Thirsty Lesbian Swords TTRPG, try prefixing your class names with tls-*.
+* **JS content**: this is where you can write custom JavaScript code to be executed in the attributes page, attributes post and attributes dashboard widget of the entity that the character sheet is applied to, beware that there is a 60000 character limit for your custom code.
 * **Attributes**: this section will allow you to add attributes that get added to entities that apply this character sheet. Beware that there is a maximum of about 600 attributes per entity in the marketplace, and we won't be able to add more than supported.
 * **Translations**: this section will allow you to add translations string should the plugin be multilingual.
 
