@@ -62,3 +62,17 @@ To make your life easier, when viewing a filtered list of entities, the filters 
 [Premium campaigns](https://kanka.io/premium) can have more than a single dashboard.
 
 Non-default dashboards have their own simple permission engine linked to the campaign's roles. For example, a dashboard can be the default one for your players, with a focus on their current quest progress.
+
+## Change default dashboard
+
+You can change the default dashboard by clicking on the **Action** button and choosing **Default** in the **Player** menu.
+
+![Edit default dashboard](img/db_action_btn.png)
+
+![Change visibility](img/db_default_menu.png)
+
+** Revert to default dashboard**
+
+To revert to the normal default dashboard, simply choose the **Visible** choice in front of the relevant role (**Player** in this example).
+
+![Revert to normal default](img/db_visible_menu.png)
