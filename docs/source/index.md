@@ -91,8 +91,10 @@ features/campaigns/theme-builder
 features/campaigns/leaving
 features/campaigns/deleting
 features/campaigns/public-campaigns
+features/campaigns/vanity-url
 features/campaigns/achievements
 features/campaigns/default-thumbnails
+features/campaigns/webhooks
 ```
 
 ```{toctree}
