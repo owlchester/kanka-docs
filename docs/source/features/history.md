@@ -30,7 +30,7 @@ These logs don't track changes to sub-elements of an entity, for example attribu
 
 ## Unified interface
 
-Admins of a superpremium campaign get access to a **History** page, accessible towards the end of the sidebar. This displays the changes done on the whole campaign, with filters available for specific members or specific actions.
+Members of a [premium](https://kanka.io/premium) campaign's admin role get access to a **History** page, accessible towards the end of the sidebar [by default](/features/campaigns/sidebar). This displays the changes done on the whole campaign, with filters available for specific members or specific actions.
 
 The full entity changes are available on the **Changes** button.
 
@@ -39,4 +39,4 @@ The full entity changes are available on the **Changes** button.
 
 ## Notifications
 
-Currently, there is no way for Kanka to notify campaign members when changes are done to entities.
+Notifications can be sent through [webhooks](/features/campaigns/webooks).
