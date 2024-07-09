@@ -19,7 +19,7 @@ When an ability with a charge is attached to an entity, it will display a number
 
 Every other entity type has an **Abilities** subpage, which is used for example to keep track of a character's magic, an organisation's special abilities, a locations' _lair actions_, a family's curse, etc.
 
-Each ability added to an entity is grouped by their **parent ability**, and abilities with no parent ability are displayed automatically.
+Each ability added to an entity is grouped by their **parent ability**, and abilities with no parent ability are displayed in an **Uncategorized** section at the end.
 
 Consider the following nested ability structure:
 
@@ -60,8 +60,10 @@ Each entity ability can be edited, and this interface allows a user to write a n
 ![Displaying an entity ability note](img/entity-ability-note-2.png)
 
 
-### Quickly changing an entity's ability visibility
+### Mentioning attributes from the current entity
 
-Instead of editing an entity ability to change its visibility, the visibility icon to the left can be clicked, revealing a dropdown menu.
+You can have the ability's entry be something like
 
-![Entity ability visibility dropdown](img/entity-ability-visibility.png)
+> Does {dice}d6 damage
+
+When rendering on the abilities subpage, Kanka will replace {dice} with the value of an attribute on the entity named `{dice}`.
