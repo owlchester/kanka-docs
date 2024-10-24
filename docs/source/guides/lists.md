@@ -33,4 +33,4 @@ To disable stacking and have all entities of the current module displayed in the
 
 ## Filters
 
-Filters (accessed by clicking the **advanced filters** button) are remembered by module, but not by view mode. So if you filter on all dead characters, switching between grid and table view will not reset the filter. Filters are also remembered by account, module, and world.
+Filters (accessed by clicking the **advanced filters** button) are remembered by module, but not by view mode. So if you filter on all dead characters, switching between grid and table view will not reset the filter. Filters are also remembered by account and module. Note that this excludes the campaign, so if you're viewing dead characters in campaign A, switching to campaign B will also show the dead characters.
