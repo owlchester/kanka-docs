@@ -104,10 +104,13 @@ hidden:
 caption: Guides
 ---
 guides/dashboard
+guides/delete-entities
 guides/templates
 guides/testing-permissions
 guides/todo-tag
 guides/transform
+guides/lists
+guides/bulk
 ```
 
 ```{toctree}

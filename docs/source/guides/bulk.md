@@ -2,7 +2,7 @@
 
 **Bulking** in the context of Kanka isn't related to getting big and muscular, but has the same effect on your worldbuilding. Bulking is the concept of applying something to multiple entities at a same time.
 
-When viewing a list of entities, for example the campaign's events, and using the **table view**, a checkbox is visible to the left of each row. Selecting one activates the **bulk** menu at the bottom of the list.
+When viewing a list of entities, for example the campaign's events, and using the [grid view](/guides/lists), a checkbox is visible to the left of each row. Selecting one activates the **bulk** menu at the bottom of the list.
 
 ![Bulk menu in lists](img/bulk-menu.png)
 
