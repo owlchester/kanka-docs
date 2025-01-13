@@ -2,15 +2,11 @@
 
 Every campaign has access to a gallery, a place to upload and re-use images throughout the campaign.
 
-By default, free campaigns are limited to **100** (one hundred) MiB of images, while premium campaigns get up to **2** (two) GiB.
+By default, free campaigns are limited to **150** (one hundred and fifty) MiB of images, while premium campaigns get up to **3** (three) GiB.
 
 Only members of the campaign's **admin** role, or members in a role which has the **gallery** permission can access the whole gallery from the sidebar. Others can simply select images from the gallery, or upload to it from the text editor.
 
 ## Gallery Permissions
-
-```{admonition} New with Kanka 2.1
-Gallery permissions are new with Kanka 2.1
-```
 
 Roles have three permissions related to the gallery.
 

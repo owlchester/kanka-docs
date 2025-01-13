@@ -4,9 +4,9 @@ There are several ways to delete entities from your world, for when your players
 
 ## Deleting a single entity
 
-To delete a single entity, go to that entity, click on the cog wheel next to their name to open up the **action menu**. The last option will always be to delete the entity (if you have the right [permissions](/guides/testing-permissions)).
+To delete a single entity, go to that entity, click on the `...` button to the right to open the **action menu**. The last option will always be to delete the entity (if you have the right [permissions](/guides/testing-permissions)).
 
-![Accessing the action menu to delete an entity](img/deleting-entity.png)
+![Accessing the action menu to delete an entity](img/delete-entity.png)
 
 ## Deleting multiple entities
 

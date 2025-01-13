@@ -21,3 +21,11 @@ CSS fonts are only properly imported when they are at the beginning of the CSS f
 ### Marketplace
 
 Some older [Marketplace](marketplace/marketplace) plugins will require you to add font rules to your Kanka campaign. Having a `_fonts` theme at the top makes this super easy. Since October 2022, Marketplace themes no longer need this workaround.
+
+## Deep dive
+
+Our amazing Salvatos has written extensively on how to customise Kanka using CSS. You can find his [introduction to campaign CSS here](https://salvatos.gitbook.io/kanka-cookbook/css/introduction-to-campaign-css).
+
+## Tutorials
+
+We have a few [tutorials on our blog](https://blog.kanka.io/category/tutorials/), but the best place to get help is on our [Discord](https://kanka.io/go/discord).
