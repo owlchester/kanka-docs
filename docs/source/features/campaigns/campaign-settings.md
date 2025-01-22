@@ -92,6 +92,9 @@ When creating a new post, quest element, inventory item, or any other object wit
 
 When creating a new character as an admin, select the default privacy setting for its personality traits.
 
+#### Show private entity names when they're mentioned.
+
+When mentioning a private entity on another's entry or posts the mention will be rendered as the entitie's name for users who can't normally see it, if disabled, the entity's name will instead show as `Unknown`.
 
 ### Dashboards
 
