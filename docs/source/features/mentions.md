@@ -65,6 +65,16 @@ Here is a quick rundown of allowed fields for most entities.
   * charges
 * Fields available for **tags**
     * colour
+* Fields available for **maps**
+    * map
+
+## Preview Maps
+
+A mention to a map type entity with the field parameter set to map will render a 300px x 300px preview of the map's explore page, the dimentions may be customized filling the `height` and `width` parameters, for example `[map:131|field:map|params:width=500&height=400]`.
+
+## Mentioning attributes
+
+Referencing attributes of this entity is also possible. Simply type `{` and three letters or more to display matching attributes on the entity. This injects `{attribute:123}`, 123 being the attribute's unique number in Kanka. You can copy-paste this reference in other entities to reference attributes from other entities.
 
 ### Attributes / Character sheets in the tooltip
 
