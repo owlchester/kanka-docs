@@ -6,10 +6,8 @@ Check out the [getting started](getting-started) section for further information
 
 A note of warning, these docs assume Kanka is being used in English, so the name of menus, buttons, and fields, all reflect the English version of Kanka.
 
-
-```{admonition} Note
-This documentation is under active development.
-```
+!!! Note
+    This documentation is under active development.
 
 ```{toctree}
 ---
