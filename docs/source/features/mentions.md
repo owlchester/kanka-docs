@@ -79,7 +79,7 @@ Referencing attributes of this entity is also possible. Simply type `{` and thre
 ### Attributes / Character sheets in the tooltip
 
 ```{admonition} New features
-New with Kanka 2.1, and only for [premium campaigns](https://kanka.io/premium)
+Only available on [premium campaigns](https://kanka.io/premium)
 ```
 
 If you wish for a tooltip to display the attributes of the target entity instead of a preview of its entry, or render its character sheet, add the `tooltip:attributes` property to the advanced mention.
@@ -103,6 +103,10 @@ Parameters can also be passed along to the entity link. For example, specify whi
 
 These mentions can by styled with CSS and [campaign styling](/features/campaigns/theming).
 
+#### Attributes / Character sheets
+
+If you want to go even weirder, you can use `[entity:123|field:attributes]` to render an iframe that will display the attributes or character sheet of the target entity.
+
 ## Private mentions
 
 A mention to an entity the user can't see will be rendered as a simple "_unknown_" text, and not as a link to the target. If the mention specifies a custom name, like `[entity:123|The Tavern Of Dreams]`, it will show _The Tavern Of Dreams_ instead of _Unknown_.
@@ -115,6 +119,20 @@ Referencing attributes of this entity is also possible. Simply type `{` and thre
 
 Type `#` in the text editor to get a list of months from your [calendars](/entities/calendars). This combines the months of all the campaign's calendars.
 
+## Posts
+
+Posts can be mentioned and transcluded the same way entities can. Since posts tend to have the same name, you can use `::` in the text editor to search for entities. Doing so will list entities with that name and all of their posts.
+
+![Post mentions shorthand](img/post-mentions.png)
+
+### Post transclusion
+
+To transclude a post, first you need the post's advanced mention. You can get it by going to it on the entity, and clicking on `...` and `Copy advanced mention`. This will copy the post's advanced mention to your clipboard.
+
+![Copy post advanced mention](img/post-copy-advanced.png)
+
+Then, paste it in the text editor and append `|transclude`. For example, it would result in `[post:1822|transclude]`.
+
 ## Search and replace
 
-There is no way to do a general *search and replace* of terms in your campaign to replace text into a mention. This was attempted in the past, but ended up in too many false positives, and more worryingly entities losing large chunks of their entries.
+@mentions automatically use the entity's current name, so updating the entity name will update every mention (except if an advanced mention is used with a custom link name).
