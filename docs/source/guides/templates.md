@@ -10,7 +10,7 @@ First off, create the [new character](/entities/characters) and fill out the fie
 
 Once your character is created, view it and click on the `...` button to the right. This opens the character's **action menu**. From there, you should see the option labelled **set as template**.
 
-![Defining an entity as a template](img/templates-entity.png)
+![Defining an entity as a template](img/template-entity.png)
 
 This sets the new character as a template.
 
