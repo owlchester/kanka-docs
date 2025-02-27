@@ -14,9 +14,19 @@ If you can edit the map, a button at the bottom right will show up called **Edit
 ![Enter edit mode button](img/map-edit-mode.png)
 
 ## Measurement tool
-You can enable the measurement tool in the map settings by filling Distance Unit label and Distance measurement.
+
+You can enable the measurement tool in the map settings by filling Distance Unit label and Distance measurement. If these fields are filled out, when viewing a map, the following icon will be visible at the top right of the map.
 
 ![Measurement tool icon](img/map-measurement-tool.jpg)
+
+Clicking it enables the measurement plugin. Once enabled, clicking on the map will add a waypoint and display the distance between waypoints.
+
+![Example measurement](img/map-explore-measurement-example.png)
+
+### Usage
+
+* Escape button finishes measurement path and starts a new measurement. Second push to escape turns off the measurement plugin.
+* Double-click also finishes measurement path and starts a new measurement.
 
 ## Dashboard widget
 
