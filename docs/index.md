@@ -153,10 +153,10 @@ articles/community-vote
 ---
 maxdepth: 1
 hidden:
-caption: Marketplace
+caption: Plugins
 ---
-marketplace/marketplace
-marketplace/character-sheets
+plugins/plugins
+plugins/character-sheets
 ```
 
 ```{toctree}

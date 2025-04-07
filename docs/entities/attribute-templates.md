@@ -34,7 +34,7 @@ Next up, fill out the **Attributes** tab with our 3 example attributes from abov
 
 With the attribute template created, it's time to test it out. Go to your campaign's [locations](/features/entities/locations), and create a start creating a new one.
 
-In the new location's **Attributes** tab, click on the **Attribute Template** option to list your campaign's attribute templates. This list also includes [character sheets](/marketplace/character-sheets) from the [marketplace](/marketplace/marketplace). Select our example **City** attribute template.
+In the new location's **Attributes** tab, click on the **Attribute Template** option to list your campaign's attribute templates. This list also includes [character sheets](/plugins/character-sheets) from the [plugins library](/plugins/plugins). Select our example **City** attribute template.
 
 This does not add the new attributes _yet_, as attribute templates are only applied when the entity is being saved. Save your new location, and you should see it's attributes going to the new location's attributes subpage.
 

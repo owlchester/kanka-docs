@@ -1,6 +1,6 @@
 # Theme Builder
 
-You don't need to be a CSS wizard to customise the style of your campaign. If you don't find themes that fit the look you're going for in the [marketplace](https:/*marketplace.kanka.io), head over to your campaign theming to get access to the theme builder.
+You don't need to be a CSS wizard to customise the style of your campaign. If you don't find themes that fit the look you're going for in the [plugins library](https://plugins.kanka.io), head over to your campaign theming to get access to the theme builder.
 
 ## Accessing the theme builder
 

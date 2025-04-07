@@ -25,7 +25,7 @@ You can get creative with some [basic math](https://github.com/chriskonnertz/str
 
 Number attributes can be set up to only allow values between a range of numbers. For example, use `Level[range:1,10]` to limit the attribute between 1 and 10. The range values can also reference other attributes, for example with `HP[range:0,{MaxHP}]`. When saving an attribute, if the value is outside the range, it will automatically revert to the closest range value.
 
-The same syntax can also be used in a standard attribute to create a dropdown of preset options when live-editing an attribute in a [character sheet](/marketplace/character-sheets) or in the entity’s Attributes page, for example with `[range:London,Berlin,Zürich]`. However, the full Attributes form will still show them as text fields and accept any value.
+The same syntax can also be used in a standard attribute to create a dropdown of preset options when live-editing an attribute in a [character sheet](/plugins/character-sheets) or in the entity’s Attributes page, for example with `[range:London,Berlin,Zürich]`. However, the full Attributes form will still show them as text fields and accept any value.
 
 When creating or editing an [attribute template](/entities/attribute-templates), you can set random attributes. This can either be a random value between two numbers separated by `-`, or a random value from a list of values separated by `,`. The value for the attribute is determined when the template is applied to an entity, or when an entity is saved.
 

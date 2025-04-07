@@ -14,6 +14,6 @@ You can change the visuals of some elements of your world by going to World and 
 
 Know some CSS and want to fully customise the look of your world/campaign? You can with a premium campaign! Go to `Settings` then to the `Theming` subpage. From there, you can add new or edit existing CSS styles of your campaign. We recommend splitting off your css into several styles, as these can be enabled/default easily to better see the changes they do.
 
-## Marketplace
+## Plugins library
 
-[Premium campaigns](https://kanka.io/premium) can import themes from the [Marketplace](https://marketplace.kanka.io).
+[Premium campaigns](https://kanka.io/premium) can import themes from the [Plugins library](https://plugins.kanka.io).

@@ -27,7 +27,7 @@ At the time of writing, the following features aren't in the export, and thus no
 * permissions
 * family trees
 * dashboards
-* marketplace plugins
+* plugins
 * custom theming
 * bookmarks
 * dice rolls and conversations (deprecated modules)

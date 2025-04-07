@@ -4,7 +4,7 @@ Kanka's free version can be self-hosted. The code can be found on [Github](https
 
 ## Premium features
 
-[Premium features](https://kanka.io/premium) such as higher upload files, [marketplace](https://marketplace.kanka.io) plugins or [custom CSS](/features/campaigns/theming) aren't available on the self-hosted version of Kanka.
+[Premium features](https://kanka.io/premium) such as higher upload files, [plugins library](https://plugins.kanka.io) plugins or [custom CSS](/features/campaigns/theming) aren't available on the self-hosted version of Kanka.
 
 ## Support
 
