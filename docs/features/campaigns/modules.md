@@ -16,6 +16,10 @@ Custom modules have a singular name to describe an entity, a plural name to desc
 
 Once created, the new module is visible in the [Bookmarks](/advanced/bookmarks) section of the sidebar and as an option in the quick creator.
 
+### What happens when a campaign is no longer premium
+
+If a campaign loses its premium status, existing custom modules remain accessible. You can still view, edit, and delete entities within those modules, but you will no longer be able to create new entities using custom modules.
+
 
 ## Default modules
 
