@@ -1,19 +1,19 @@
 # Testing permissions
 
-Part of setting up your Kanka campaign is setting up the correct Permissions. It is easily to check what your players can see without having to create a second account or asking for your players’ passwords.
+Part of setting up your Kanka campaign is setting up the correct Permissions. It is easily to check what your players can see without having to create a second account or asking for your players' passwords.
 
 [![Testing permissions youtube video](https://img.youtube.com/vi/GgBmhL0vwig/0.jpg)](https://youtu.be/GgBmhL0vwig)
 
 
 ## Campaign Setup
 
-To check your campaign permissions, you’ll first need another member in your campaign that isn’t part of the campaign's admin role. As a campaign admin, you can view your campaign as one of your non-admin members.
+To check your campaign permissions, you'll first need another member in your campaign that isn't part of the campaign's admin role. As a campaign admin, you can view your campaign as one of your non-admin members.
 
 ## Switching to another user
 
 To view your campaign as another member of your campaign, click on `Settings` in the sidebar and then on the `Members` subpage.
 
-In this interface, you'll see the members of your campaign. On the right, members who aren't part of the campaign's admin role will have a button. This reveals the View campaign as member option. Clicking on it will redirect you to the campaign’s dashboard as the user. From there on, you can explore the campaign, viewing it as the user would.
+In this interface, you'll see the members of your campaign. On the right, members who aren't part of the campaign's admin role will have a button. This reveals the View campaign as member option. Clicking on it will redirect you to the campaign's dashboard as the user. From there on, you can explore the campaign, viewing it as the user would.
 
 ![Switching to a user from the campaign members list](img/permtest-members.png)
 
