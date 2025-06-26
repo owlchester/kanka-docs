@@ -16,11 +16,4 @@ You can still view all your locations in a flat mode by clicking on the **Locati
 ![Switching to a flat view](img/nested-flat.png)
 
 
-### Changing defaults
-
-If you prefer to view entities in a flat mode (all entities listed by default), you can do so by editing the campaign and changing the **Default lists layout** field under the **Interface tab**
-
-
-![Disabling the default nested view](img/nested-edit.png)
-
 
