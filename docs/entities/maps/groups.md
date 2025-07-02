@@ -15,6 +15,6 @@ Groups have the standard [visibility](/advanced/visibility) permission system, m
 
 ## Limitations
 
-Standard campaigns can have a maximum of **one** (1) group per map, while premium campaigns can have up to **ten** (10).
+Standard campaigns can have a maximum of **one** (1) group per map, while premium campaigns can have up to **twenty** (20).
 
-There is currently no way to have more than ten groups per map.
+There is currently no way to have more than twenty groups per map.
