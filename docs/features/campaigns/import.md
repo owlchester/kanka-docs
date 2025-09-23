@@ -6,6 +6,8 @@ To access the interface, navigate to `Settings > Import`. There, you can select 
 
 Importing campaigns can be a long and slow process, so don't be in a rush. All entities and their associated data from the export will be added to the campaign. 
 
+Keep in mind that import logs older than 90 days are automatically deleted.
+
 ## My old exports aren't working
 
 Campaign exports generated before **Kanka 2.1** aren't compatible with the import process.
