@@ -4,7 +4,7 @@ Every entity has a subpage called "Assets" which contains miscellaneous content 
 
 ![Example assets](img/assets.png)
 
-The first asset type are [Aliases](/features/aliases), which can be used for search and mentions.
+The first asset type are [Aliases](/features/aliases), which can be used for search and mentions, these are limited to 2 for free campaigns and unlimited for premium campaigns.
 
 ![Editing an alias asset](img/asset-alias.png)
 
