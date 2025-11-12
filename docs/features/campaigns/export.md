@@ -6,7 +6,7 @@ Once the process has been started, one of the Kanka severs will prepare the expo
 
 Once the export is done, a downloadable `.zip` file will be available in the Export interface.
 
-The exported campaign contains all the campaign data in `json` format, along with images of entities and the gallery.
+The exported campaign can be one of two types, a `json` export, which contains all the campaign data in `json` format, along with images of entities and the gallery, this kind of export can then be imported into a Kanka campaign, while a `markdown` export, that contains all the entity data in a more human readable `markdown` format, which cannot be imported into a campaign.
 
 ## Who can export the data?
 
