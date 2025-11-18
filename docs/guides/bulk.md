@@ -18,9 +18,11 @@ This option allows you to remove, replace, or add [permissions](/features/permis
 
 Apply an [attribute template](/entities/attribute-templates) to multiple entities at a time.
 
-## Transform
+## Convert
 
-Just finished creating 20 events and only now realise they are supposed to be items? This option will save your life, and sanity. [Learn more about transforming entities](/guides/transform).
+(This feature was previously known as "Transform")
+
+Just finished creating 20 events and only now realise they are supposed to be items? This option will save your life, and sanity. [Learn more about converting entities](/guides/convert).
 
 ## Copy to campaign
 

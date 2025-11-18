@@ -1,15 +1,3 @@
 # Transforming entities
 
-Since entities all share a similar base, this means you can change an entity's type after you've created it. Say you create an [event](/entities/events), fill it out, and later realise you want an [item](/entities/items) instead. No worries, you can change the entity's type in its **action menu**, accessed by clicking on the button to the right.
-
-![Transforming an entity](img/transform-entity.png)
-
-## Data gained, data lost
-
-This transform will keep all the shared data the two entity types. For example, if you transform an event to an item, the item has no _date_ field, so that is lost. Transforming the item back to an event will not recover the _date_ value.
-
-However, the name, type, entry, tags, permissions, attributes, posts, reminders, relations etc are all kept. You also don't need to update any **mentions** targeting the original event, Kanka automatically keeps track and updates all of them!
-
-## Transforming multiple entities
-
-It is possible to transform multiple entities at a time, rather than transforming each one individually. This is explained in our [bulk documentation](/guides/bulk).
+We're changing the name of this feature to [Convert](/guides/convert) with Kanka 3.6.

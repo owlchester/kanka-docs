@@ -18,3 +18,11 @@ When adding an item to the inventory, either a name can be provided, or a link t
 Items in the same "Position" get grouped together.
 
 ![View of an inventory](img/inventory-view.png)
+
+Whole positions can be collapsed by clicking on their name. Items can quickly be added to a position by clicking on the "+" button. A whole position can be deleted by clicking on the trash icon.
+
+### Item details
+
+Clicking on an item opens up more details about it. If the item is linked to an object entity, the object's location, weight, size and other details will be displayed.
+
+![Item details](img/inventory-details.png)

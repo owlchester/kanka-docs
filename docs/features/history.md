@@ -4,9 +4,9 @@ Whenever an entity is created, modified, deleted or [restored](/features/campaig
 
 ## Entity history
 
-An entity's history can be view directly on it. When on the overview page of an entity, scroll down and click on the **View entity log** link.
+An entity's history can be view directly on it. When on the overview page of an entity, scroll down and click on the **View changes** link.
 
-![The entity log link](img/history-entity.png)
+![The entity changes link](img/history-entity.png)
 
 This brings up a summary of changes recently done to the entity.
 
@@ -16,7 +16,7 @@ This brings up a summary of changes recently done to the entity.
 
 [Premium campaigns](https://kanka.io/premium) get access to the full changes made to an entity in this interface. When saving an entity, the previous values are saved in the log, and is available for 30 days.
 
-Clicking on the **View changes** link reveals the previous values.
+Clicking on the **Show details** link reveals the previous values.
 
 ![Full entity log details](img/history-entity-full.png)
 

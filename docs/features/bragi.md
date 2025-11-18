@@ -28,7 +28,9 @@ You can find a history of what Bragi generated in your current monthly cycle und
 
 ## Under the hood
 
-Bragi uses [OpenAI's GTP-3](https://beta.openai.com/docs/introduction) to generate a short backstory for a character.
+Bragi uses [OpenAI's GTP-3.5-mini](https://openai.com) to generate a short backstory for a character.
+
+The LLM is fed your campaign's genres and systems to better constraint the kinds of backstories it will generate. You can check your campaigns under 
 
 ## Limitations
 
