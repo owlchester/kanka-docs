@@ -1,8 +1,8 @@
 # Appearance settings
 
-Your profile settings can impact the visuals and workflows of your Kanka experience. You can change these [here](https://app.kanka.io/settings/appearance), or when in Kanka, by clicking on your profile picture and on **settings**, then going to **appearance** in the sidebar.
+Your profile settings can impact the visuals and workflows of your Kanka experience. You can change these [here](https://app.kanka.io/settings/appearance), or when in Kanka, by clicking on your profile picture and on **account settings**, then going to **appearance** in the sidebar.
 
-![Accessing your user settings](img/menu.png)
+![Accessing your user settings](img/appearance-settings-link.png)
 
 ## Theme
 
@@ -41,3 +41,10 @@ Some modules like locations, notes, families and others have a **parent** field,
 ## Mentions
 
 When writing text, typing `@` will inject a mention to a selected entity by simply displaying the target entity's name. If instead you always wish to use the advanced mention `[entity:123]` syntax, activate this option. Read more info about [mentions](/features/mentions).
+
+
+# Interface language
+
+If you want to change your interface language, you can do so by clicking on the **(Change)** button at the bottom of every single page.
+
+![Language switcher.png](img/language-switcher.png)

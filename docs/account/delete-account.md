@@ -2,7 +2,7 @@
 
 Your account can be delete from your [account page](https://app.kanka.io/settings/account).
 
-To delete your account, navigate first to your profile settings page
+To delete your account, navigate first to your profile settings page by clicking on your profile picture in the top right, then on *Account settings*.
 
 ![Settings link](img/delete-settings.png)
 
