@@ -2,6 +2,8 @@
 
 Webhooks are a feature for [premium campaigns](https://kanka.io/premium) introduced with Kanka version 2.4.
 
+[![Youtube tutorial](https://img.youtube.com/vi/WQkuGTMBvGc/0.jpg)](https://youtu.be/WQkuGTMBvGc)
+
 ## Access
 
 To access the campaign's webhooks interface, go to **Settings > Webhooks**. This interface, only available to members of the campaign's admin role, allow them to define, toggle, and test webhooks.
