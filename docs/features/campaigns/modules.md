@@ -8,11 +8,11 @@ Accessing your world's module is done by clicking `Settings` in the sidebar, and
 
 The first section is reserved for your custom modules. 
 
-![Custom modules](img/modules-custom.png)
+![Custom modules](img/modules-customs.png)
 
 Custom modules have a singular name to describe an entity, a plural name to describe multiple entities, and an icon used for the sidebar and quick creator interface. Additionally, when creating a new module, you can directly set roles that have access to entities creating in the new module.
 
-![New module form](img/modules-new.png)
+![New module form](img/modules-create.png)
 
 Once created, the new module is visible in the [Bookmarks](/advanced/bookmarks) section of the sidebar and as an option in the quick creator.
 
@@ -33,11 +33,11 @@ Disabling an entity type doesn't delete the related data from the campaign. Inst
 
 If you'd rather the [Race](/entities/races) module be named `Folk` throughout your Kanka campaign, you can do so. Click on the edit button in the module's box you want to change.
 
-![Edit button](img/modules-cog.png)
+![Edit button](img/modules-edit.png)
 
 This brings up an interface to update the module's status, singular and plural name, icon, and lastly it's placeholder image. Renaming a module works well for English and non-gendered languages, but will lead to weird sentences in the UI for some others, where assumptions are made about the gender of the module's default name. 
 
-![Customise a module](img/modules-config.png)
+![Customise a module](img/modules-form.png)
 
 ### Module icon
 
