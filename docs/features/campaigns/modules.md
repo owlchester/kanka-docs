@@ -23,7 +23,7 @@ If a campaign loses its premium status, existing custom modules remain accessibl
 
 ## Default modules
 
-Each world comes with the afromentioned pre-determined default modules, and they are automatically all enabled, except for the deprecated [conversations](/entities/conversations) and [dice rolls](/entities/dice-rolls) modules.
+Each world comes with the aforementioned pre-determined default modules, and they are automatically all enabled, except for the deprecated [conversations](/entities/conversations) and [dice rolls](/entities/dice-rolls) modules.
 
 ```{admonition} Info
 Disabling an entity type doesn't delete the related data from the campaign. Instead, it is simply **hidden**. Only members of the campaign's admin role can enable or disable modules.
@@ -31,11 +31,11 @@ Disabling an entity type doesn't delete the related data from the campaign. Inst
 
 ### Customising module names and icons
 
-If you'd rather the [Race](/entities/races) module be named `Folk` throughout your Kanka campaign, you can do so. Click on the cog wheel in the module's box you want to change.
+If you'd rather the [Race](/entities/races) module be named `Folk` throughout your Kanka campaign, you can do so. Click on the edit button in the module's box you want to change.
 
-![Cog wheel icon](img/modules-cog.png)
+![Edit button](img/modules-cog.png)
 
-This brings up an interface to update the module's singular and plural name, as well as its icon. This works well for English and non-gendered languages, but will lead to weird sentences in every other one. 
+This brings up an interface to update the module's status, singular and plural name, icon, and lastly it's placeholder image. Renaming a module works well for English and non-gendered languages, but will lead to weird sentences in the UI for some others, where assumptions are made about the gender of the module's default name. 
 
 ![Customise a module](img/modules-config.png)
 
