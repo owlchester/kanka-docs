@@ -9,7 +9,7 @@ To add an alias to an entity, navigate to that entity's **Assets** subpage.
 ![Assets submenu on an entity](img/assets-menu.png)
 
 
-From there, click on the **+ Alias** button on the top right.
+From there, click on the **+ Add** button on the top right, this will then show a dropdown menu where you should click ***Alias or Secret identity*** to create one.
 
 Each alias has a [visibility](/advanced/visibility) option to control who in the campaign find the entity using the alias.
 
