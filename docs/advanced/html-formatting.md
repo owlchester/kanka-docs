@@ -2,7 +2,7 @@
 
 The text editor in Kanka has a **source** mode, which gives you full control of how the layout will render. Kanka works on a whitelist system for HTML tags and properties, to avoid breaking the design and XSS attacks.
 
-The list of allowed HTML tags and attributes can be seen on our [Github](https://github.com/owlchester/kanka/blob/develop/config/purify.php).
+The list of allowed HTML tags and properties can be seen on our [Github](https://github.com/owlchester/kanka/blob/develop/config/purify.php).
 
 ## CSS Class and Styling
 

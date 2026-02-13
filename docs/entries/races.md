@@ -1,6 +1,6 @@
 # Races
 
-The races module is a way to represent sci-fi and fantasy races of the characters of your world. If your world just has cyborg-gnomes, you can [disable the module](/features/campaigns/modules).
+The races category is a way to represent sci-fi and fantasy races of the characters of your world. If your world just has cyborg-gnomes, you can [disable the category](/features/campaigns/categories).
 
 ## Example
 
@@ -10,6 +10,6 @@ In a typical fantasy setting, you might have Elves, Hobbits, Dragons and Humans 
 
 Kanka is aware of the issue with the module's name. The community has been asked a few times about changing the module's name to a less charged term, but no consensus has ever been reached. Kanka's policy is now to follow along with whatever new term Hasbro chooses for D&D.
 
-## Changing the entity type
+## Changing the category
 
-If you've created many creatures but meant to create races instead, you can easily [bulk change their entity type](/guides/transform).
+If you've created many creatures but meant to create races instead, you can easily [bulk convert their category](/guides/transform).

@@ -25,7 +25,7 @@ A campaign needs a world, containing at least 4 characters. Campaign names aren'
 A short (or long, we don't judge!) description of your campaign. A preview of this displays on the campaign's dashboard, and the full text is available when clicking on `Settings` in the sidebar.
 
 ``` {admonition} Friendly tip
-This field can contain mentions to entities of the campaign!
+This field can contain mentions to entries of the campaign!
 ```
 
 #### Sidebar image
@@ -52,49 +52,49 @@ Rather than displaying the campaign in the user viewing it's preferred theme, yo
 
 Control who can see the campaign's member list. This list is available in `Settings > Members`.
 
-#### Entity history logs
+#### Entry history logs
 
-Control who can see individual entity's change logs.
+Control who can see individual entry's change logs.
 
-#### Tooltip - Entity's image
+#### Tooltip - Entry's image
 
-By default, tooltips that appear when hovering an entity link don't display that entity's image. This can be changed with this option.
+By default, tooltips that appear when hovering an entry link don't display that entry's image. This can be changed with this option.
 
-#### Default entity's connections interface 
+#### Default entry's connections interface 
 
-When clicking on an entity's **connections** subpage, select what displays. On premium campaigns, the default is to show the **relation explorer**.
+When clicking on an entry's **connections** subpage, select what displays. On premium campaigns, the default is to show the **relation explorer**.
 
 #### Default relations explorer mode 
 
-When opening an entity's **relation explorer**, control which mode is opened by default.
+When opening an entry's **relation explorer**, control which mode is opened by default.
 
 #### Default lists layout
 
-Select if nested entities display in a user's preferred layout, or if you want to force nested lists.
+Select if nested entries display in a user's preferred layout, or if you want to force nested lists.
 
-#### New post default collapsed value 
+#### New article default collapsed value 
 
-Control if newly created [posts](/features/posts) are collapsed by default.
+Control if newly created [articles](/features/articles) are collapsed by default.
 
 ### Permissions
 
 This tab allows you to set the default privacy and visibility settings of new elements created in the campaign.
 
-#### Default new entity privacy 
+#### Default new entry privacy 
 
-When creating a new entity as an admin, select the default privacy setting of the new entity.
+When creating a new entry as an admin, select the default privacy setting of the new entry.
 
 #### Related Elements Visibility 
 
-When creating a new post, quest element, inventory item, or any other object with a **visibility** field, define which value is selected by default.
+When creating a new article, quest element, inventory item, or any other object with a **visibility** field, define which value is selected by default.
 
 #### Default character personality visibility
 
 When creating a new character as an admin, select the default privacy setting for its personality traits.
 
-#### Show private entity names when they're mentioned.
+#### Show private entry names when they're mentioned.
 
-When mentioning a private entity on another's entry or posts the mention will be rendered as the entitie's name for users who can't normally see it, if disabled, the entity's name will instead show as `Unknown`.
+When mentioning a private entry on another's description or articles the mention will be rendered as the entitie's name for users who can't normally see it, if disabled, the entry's name will instead show as `Unknown`.
 
 ### Dashboards
 

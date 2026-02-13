@@ -1,36 +1,36 @@
 # Bulk
 
-**Bulking** in the context of Kanka isn't related to getting big and muscular, but has the same effect on your worldbuilding. Bulking is the concept of applying something to multiple entities at a same time. This is sometimes also known as mass applying.
+**Bulking** in the context of Kanka isn't related to getting big and muscular, but has the same effect on your worldbuilding. Bulking is the concept of applying something to multiple entries at a same time. This is sometimes also known as mass applying.
 
-When viewing a list of entities, for example the campaign's events, and using the [grid view](/guides/lists), a checkbox is visible to the left of each row. Selecting one activates the **bulk** menu at the bottom of the list. Note that all exept the bulk print option requires you to be an admin of the campaign.
+When viewing a list of entries, for example the campaign's events, and using the [grid view](/guides/lists), a checkbox is visible to the left of each row. Selecting one activates the **bulk** menu at the bottom of the list. Note that all exept the bulk print option requires you to be an admin of the campaign.
 
 ![Bulk menu in lists](img/bulk-menu.png)
 
 ## Editing & tagging
 
-The first option is to edit the properties of multiple entities at a time. Say you want to apply a tag to multiple entities, change their type, change their location, etc.
+The first option is to edit the properties of multiple entries at a time. Say you want to apply a tag to multiple entries, change their type, change their location, etc.
 
 ## Change permissions
 
-This option allows you to remove, replace, or add [permissions](/features/permissions) to multiple entities at a time. Useful when you finally decided to invite your players to the campaign, but realise they can now read all the terrible plot-hooks you've prepared.
+This option allows you to remove, replace, or add [permissions](/features/permissions) to multiple entries at a time. Useful when you finally decided to invite your players to the campaign, but realise they can now read all the terrible plot-hooks you've prepared.
 
-## Apply attribute template
+## Apply property set
 
-Apply an [attribute template](/entities/attribute-templates) to multiple entities at a time.
+Apply an [property set](/entries/property-semplates) to multiple entries at a time.
 
 ## Convert
 
 (This feature was previously known as "Transform")
 
-Just finished creating 20 events and only now realise they are supposed to be items? This option will save your life, and sanity. [Learn more about converting entities](/guides/convert).
+Just finished creating 20 events and only now realise they are supposed to be items? This option will save your life, and sanity. [Learn more about converting entries](/guides/convert).
 
 ## Copy to campaign
 
-You've done all the hard work once. Why do it again? Copy multiple entities from one campaign into another. Great for when your party ultimately gets TPK'd and you want to start fresh, but reuse elements from the old campaign.
+You've done all the hard work once. Why do it again? Copy multiple entries from one campaign into another. Great for when your party ultimately gets TPK'd and you want to start fresh, but reuse elements from the old campaign.
 
 ## Print
 
-Going hiking with your players and want to play at night at a camp fire with no internet? Quickly print the relevant entities for your session. Don't forget your dice!
+Going hiking with your players and want to play at night at a camp fire with no internet? Quickly print the relevant entries for your session. Don't forget your dice!
 
 ## Remove
 

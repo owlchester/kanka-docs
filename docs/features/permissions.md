@@ -1,6 +1,6 @@
 # Permissions
 
-Permissions in Kanka are a complex subject, with several permissions systems all working in tandem. The first element of permissions is on the campaign itself, followed by entities, and lastly by elements attached to an entity.
+Permissions in Kanka are a complex subject, with several permissions systems all working in tandem. The first element of permissions is on the campaign itself, followed by entries, and lastly by elements attached to an entry.
 
 ## Campaign Permissions
 
@@ -10,9 +10,9 @@ By default, each campaign is created with an Admin role, a Players role, and a P
 
 ### The Admin Role
 
-The Admin role is for everyone with full control on the campaign, able to see and interact with just about everything. This includes changing the campaign, adding or removing members, creating, updating or deleting any entity, and most dangerously deleting the campaign.
+The Admin role is for everyone with full control on the campaign, able to see and interact with just about everything. This includes changing the campaign, adding or removing members, creating, updating or deleting any entry, and most dangerously deleting the campaign.
 
-When creating or editing an entity, the last field is the privacy field. Is that field is checked, the entity will only be visible to members of the campaign's admin role.
+When creating or editing an entry, the last field is the privacy field. Is that field is checked, the entry will only be visible to members of the campaign's admin role.
 
 You cannot directly add members to your campaign's admin role. You first have to invite them to your campaign into another role, and once they have joined, you can add them to the admin role.
 
@@ -34,13 +34,13 @@ The public role comes into play when your campaign is public, meaning non-member
 
 You can only control the "viewing" permission on this role. And as with the admin role, this role cannot be deleted.
 
-## Entity Permissions
+## Entry Permissions
 
-Having role permissions is usually enough for most scenarios, but sometimes you'll want to allow a specific user to update a location, or allow another to add posts on a specific quest. This can be done on the entity.
+Having role permissions is usually enough for most scenarios, but sometimes you'll want to allow a specific user to update a location, or allow another to add articles on a specific quest. This can be done on the entry.
 
-### Setting entity permissions
+### Setting entry permissions
 
-When creating or editing an entity, a Permissions tab is displayed towards the end. This allows you to allow or deny specific actions for the roles and members of your campaign.
+When creating or editing an entry, a Permissions tab is displayed towards the end. This allows you to allow or deny specific actions for the roles and members of your campaign.
 
 ###  Role permissions
 
@@ -56,11 +56,11 @@ Members of the campaign's admin role don't appear in this list, since they have 
 
 ### Permissions tab not available
 
-If a campaign has too many members (10 or more), the permission tab on the create or edit entity interface isn't available, due to the processing power required of calculating each user's permissions on the fly. You can still access the permission interface on its own after having created the entity. To do so, view the entity, and in the entity's left side menu, click on Permissions.
+If a campaign has too many members (10 or more), the permission tab on the create or edit entry interface isn't available, due to the processing power required of calculating each user's permissions on the fly. You can still access the permission interface on its own after having created the entry. To do so, view the entry, and in the entry's left side menu, click on Permissions.
 
 ## Element permissions
 
-Elements attached to entities have another permission concept. Instead of a complex setup, they have a [Visibility dropdown](/advanced/visibility).
+Elements attached to entries have another permission concept. Instead of a complex setup, they have a [Visibility dropdown](/advanced/visibility).
 
 ## Related
 

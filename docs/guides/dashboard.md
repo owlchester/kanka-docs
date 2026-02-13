@@ -13,13 +13,13 @@ There is no limit for the number of widgets on a dashboard, but the more info, t
 
 There are several type of widgets that can be added.
 
-### Entity List
+### Entry List
 
-This shows a list of entities on the dashboard. This can be set up to show only entities of a specific type, and in which order they are displayed. Filters allow more control on exactly what is shown.
+This shows a list of entries on the dashboard. This can be set up to show only entries of a specific type, and in which order they are displayed. Filters allow more control on exactly what is shown.
 
-### Entity Preview
+### Entry Preview
 
-This *pins* an entity to the dashboard, showing its image and a preview of the entity's entry.
+This *pins* an entry to the dashboard, showing its image and a preview of the entry's entry.
 
 ### Calendar
 
@@ -35,11 +35,11 @@ Reminders reoccurring on moon phases are also completely ignored from the calend
 
 ### Text Header
 
-This add a full row of just text on the dashboard, useful for splitting sections up. For example having a "The heroes" text above 4 entity previews of the campaign's players.
+This add a full row of just text on the dashboard, useful for splitting sections up. For example having a "The heroes" text above 4 entry previews of the campaign's players.
 
-### Random Entity
+### Random Entry
 
-Similar to the entity preview, this however selects a random entity from the campaign to display on the dashboard.
+Similar to the entry preview, this however selects a random entry from the campaign to display on the dashboard.
 
 ### Campaign Header
 
@@ -49,9 +49,9 @@ Always visible on the default dashboard of a campaign, this widget can be added 
 
 ### Widget Filters
 
-You can filter entities displayed on the recently modified and random widget by providing a list of fields of the entity and values. For example, you can use `is_dead=1&type=NPC` to filter on dead characters of the NPC type.
+You can filter entries displayed on the recently modified and random widget by providing a list of fields of the entry and values. For example, you can use `is_dead=1&type=NPC` to filter on dead characters of the NPC type.
 
-To make your life easier, when viewing a filtered list of entities, the filters will have a **copy to clipboard** button. For example, when viewing the characters of the campaign, filter on the kind of characters you want to display, click the button, and past the result in the widget's **filter** field.
+To make your life easier, when viewing a filtered list of entries, the filters will have a **copy to clipboard** button. For example, when viewing the characters of the campaign, filter on the kind of characters you want to display, click the button, and past the result in the widget's **filter** field.
 
 ![Copy filters to the clipboard](img/dashboard-filters.png)
 

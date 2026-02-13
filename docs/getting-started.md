@@ -14,6 +14,6 @@ Creating your account automatically logs you in and creates your first campaign 
 
 ## Campaign Dashboard
 
-The default page that loads up when calling Kanka is your campaign dashboard. By default, this is empty, but you can set it up to show useful things like recently modified entities, or pin specific entities on it.
+The default page that loads up when calling Kanka is your campaign dashboard. By default, this is empty, but you can set it up to show useful things like recently modified entries, or pin specific entries on it.
 
 You can learn more on our [how to set up a dashboard](/guides/dashboard) document.

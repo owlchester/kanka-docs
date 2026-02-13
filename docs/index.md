@@ -23,29 +23,29 @@ getting-started
 ---
 maxdepth: 2
 hidden:
-caption: Entities
+caption: Entries
 ---
 
-entities/overview
-entities/characters
-entities/locations
-entities/maps
-entities/families
-entities/organisations
-entities/calendars
-entities/timelines
-entities/creatures
-entities/races
-entities/quests
-entities/journals
-entities/items
-entities/events
-entities/abilities
-entities/tags
-entities/notes
-entities/attribute-templates
-entities/conversations
-entities/dice-rolls
+entries/overview
+entries/characters
+entries/locations
+entries/maps
+entries/families
+entries/organisations
+entries/calendars
+entries/timelines
+entries/creatures
+entries/races
+entries/quests
+entries/journals
+entries/items
+entries/events
+entries/abilities
+entries/tags
+entries/notes
+entries/property-semplates
+entries/conversations
+entries/dice-rolls
 ```
 
 ```{toctree}
@@ -55,14 +55,14 @@ hidden:
 caption: Features
 ---
 
-features/posts
+features/articles
 features/nested
 features/permissions
 features/search
 features/mentions
 features/quick-creator
 features/profile-sidebar
-features/attributes
+features/properties
 features/campaign-switcher
 features/reminders
 features/aliases
@@ -81,7 +81,7 @@ features/campaigns/campaign-settings
 features/campaigns/members
 features/campaigns/export
 features/campaigns/import
-features/campaigns/modules
+features/campaigns/categories
 features/campaigns/recovery
 features/campaigns/sidebar
 features/campaigns/theming
@@ -102,9 +102,9 @@ hidden:
 caption: Guides
 ---
 guides/dashboard
-guides/delete-entities
-guides/templates
+guides/archetypes
 guides/testing-permissions
+guides/delete-entities
 guides/todo-tag
 guides/transform
 guides/lists

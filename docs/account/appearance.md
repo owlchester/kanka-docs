@@ -12,7 +12,7 @@ Note that campaigns have the option to override your theme setting, forcing a ca
 
 ## Results per page
 
-If you want more than 15 characters shown in the characters list, you can change this value here. [Subscribers](https://kanka.io/pricing) get access to up to **100** entities per page.
+If you want more than 15 characters shown in the characters list, you can change this value here. [Subscribers](https://kanka.io/pricing) get access to up to **100** entries per page.
 
 ## Date formatting
 
@@ -22,9 +22,9 @@ Date formatting is a cultural preference, so we try and support the most frequen
 
 If you are a member of multiple campaigns, this setting allows you to control in which order those campaigns are displayed. This controls both your campaigns and your followed campaigns, but keeps them into two separate lists.
 
-## New entity workflow
+## New entry workflow
 
-When creating a new entity, by default, Kanka redirects you to the list of entities of that type. You can change this to show the newly created entity instead to avoid some extra clicks.
+When creating a new entry, by default, Kanka redirects you to the list of entries of that type. You can change this to show the newly created entry instead to avoid some extra clicks.
 
 ## Text editor
 
@@ -36,11 +36,11 @@ Switching to the old text editor is only available for users whoes account was c
 
 ## Nested lists layout
 
-Some modules like locations, notes, families and others have a **parent** field, meaning they can be nested into trees. For example, when browsing the campaign's locations, you can set if you see all locations (**flat**) or if locations are **nested** into their parents first. 
+Some categories like locations, notes, families and others have a **parent** field, meaning they can be nested into trees. For example, when browsing the campaign's locations, you can set if you see all locations (**flat**) or if locations are **nested** into their parents first. 
 
 ## Mentions
 
-When writing text, typing `@` will inject a mention to a selected entity by simply displaying the target entity's name. If instead you always wish to use the advanced mention `[entity:123]` syntax, activate this option. Read more info about [mentions](/features/mentions).
+When writing text, typing `@` will inject a mention to a selected entry by simply displaying the target entry's name. If instead you always wish to use the advanced mention `[entity:123]` syntax, activate this option. Read more info about [mentions](/features/mentions).
 
 
 # Interface language

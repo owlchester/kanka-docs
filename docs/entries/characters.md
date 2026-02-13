@@ -1,6 +1,6 @@
 # Characters
 
-Characters are the most used entity type in Kanka, and for good reason. A world needs things in it to feel alive! Characters represent the people living in your world, basically anything with a consciousness than can have agency.
+Characters are the most used category in Kanka, and for good reason. A world needs things in it to feel alive! Characters represent the people living in your world, basically anything with a consciousness than can have agency.
 
 ## Building a character
 
@@ -12,17 +12,17 @@ From your campaign's sidebar, click on **Characters**, this brings you to the li
 
 Characters come with a bunch of pre-defined fields. Only the name is mandatory, but we'll quickly go other the various fields.
 
-### Entry tab
+### Description tab
 
-The entry tab contains the description of the character.
+The description tab contains the description of the character.
 
-* **Name**: the name of your character. This will be used for search and mentioning entities. If a character with a similar name already exists, a warning will appear below the name field. While there are no naming rules in Kanka, it is recommended to give entities names of at least 3 characters to work with [mentions](/features/mentions), and to avoid names that start with `@` and `!`, which are used for [filters](/advanced/filters).
+* **Name**: the name of your character. This will be used for search and mentioning entries. If a character with a similar name already exists, a warning will appear below the name field. While there are no naming rules in Kanka, it is recommended to give entries names of at least 3 characters to work with [mentions](/features/mentions), and to avoid names that start with `@` and `!`, which are used for [filters](/advanced/filters).
 
 * **Type**: this text field can contain anything you want to help you distinguish between various characters. A common example is writing a character's occupation.
 
 * **Title**: a character's title is displayed on the character's page. This text field can be an honorific title.
 
-Next up are [foreign fields](/entities/foreign-fields). Foreign fields are other entities in the campaign, and a way to interconnect the character with your world.
+Next up are [foreign fields](/entries/foreign-fields). Foreign fields are other entries in the campaign, and a way to interconnect the character with your world.
 
 * **Families**: the character's families. A character can be in multiple families, but it's up to you to provide the drama.
 * **Location**: where the character is currently located. If filled in, this will show up in the location's characters subpage.
@@ -50,7 +50,7 @@ Organisations
 
 ### Organisations
 
-This tab allows to control in which [organisations](/entities/organisations) the character is a member of.
+This tab allows to control in which [organisations](/entries/organisations) the character is a member of.
 
 If this is your first character, you might not yet have organisations. You can [create one on the fly](/features/quick-creator), or come back to this tab later. This allows you to make this character a member of one or several organisations of your world.
 
@@ -60,13 +60,13 @@ This tab is only available to [premium campaigns](https://kanka.io/premium).
 
 These fields include
 
-* **Tooltip**: Instead of having the character's entry field be trimmed down for the tooltip when hovering its name, use this field to define exactly what is shown in the tooltip.
+* **Tooltip**: Instead of having the character's description field be trimmed down for the tooltip when hovering its name, use this field to define exactly what is shown in the tooltip.
 * **Header image**: A header image is an image displayed behind the character's image, name, and info like tags and title displayed at the top of the character's page.
 
 
-### Attributes
+### Properties
 
-Attributes are values attached to your character, such as `HP`, `level`, and more. Learn more about [attributes](/features/attributes).
+Properties are values attached to your character, such as `HP`, `level`, and more. Learn more about [properties](/features/properties).
 
 ### Permissions
 
@@ -79,8 +79,8 @@ With your first character ready, time to save it into Kanka. Clicking on the **s
 
 ## Known territory
 
-This covers how to create a character. As you create other types of entities in the campaign, you'll notice that the interface reuses the same concepts and fields throughout most of Kanka. This is by design to quickly get you familiar with Kanka's "logic". Kanka's goal is to get out of the way quickly and let you free to worldbuild and plan your players' doom.
+This covers how to create a character. As you create other types of entries in the campaign, you'll notice that the interface reuses the same concepts and fields throughout most of Kanka. This is by design to quickly get you familiar with Kanka's "logic". Kanka's goal is to get out of the way quickly and let you free to worldbuild and plan your players' doom.
 
 ## Deities?
 
-We typically recommend having deities as characters in your world, to benefit from the available features of the character entity type, and combine them with a [bookmark](/advanced/bookmarks).
+While some argue that deities are characters (and they would be wrong), you can create a [custom category](/features/campaigns/categories) for them instead.

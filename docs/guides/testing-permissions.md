@@ -17,15 +17,15 @@ In this interface, you'll see the members of your campaign. On the right, member
 
 ![Switching to a user from the campaign members list](img/permtest-members.png)
 
-You can also switch to a member directly from an entity's **permissions** subpage and clicking on the **View as** button.
+You can also switch to a member directly from an entry's **permissions** subpage and clicking on the **View as** button.
 
-![Switching to a user from the entity's permissions page](img/permtest-entity.png)
+![Switching to a user from the entry's permissions page](img/permtest-entity.png)
 
 ## Logs
 
-Making changes on entities while viewing the campaign as the member will log the changes on the entity with the information that you are doing it.
+Making changes on entries while viewing the campaign as the member will log the changes on the entry with the information that you are doing it.
 
-![Entity logs when impersonating](img/permtest-log.png)
+![Entry logs when impersonating](img/permtest-log.png)
 
 Also to note is that you won't see elements set up with the "self" visibility while viewing the campaign as the user, to avoid admins accessing content not designed for their eyes.
 

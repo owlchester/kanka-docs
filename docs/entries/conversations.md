@@ -1,17 +1,17 @@
 # Conversations
 
 ```{admonition} Deprecated
-This module is deprecated, meaning it isn't getting any new updates and will eventually be removed from Kanka. This entity type can be [enabled](/features/campaigns/modules) in your campaign settings.
+This module is deprecated, meaning it isn't getting any new updates and will eventually be removed from Kanka. This category can be [enabled](/features/campaigns/categories) in your campaign settings.
 ```
 
-The conversation entity type allows for fictional conversation between characters of the world, or between members of the campaign.
+The conversation category allows for fictional conversation between characters of the world, or between members of the campaign.
 
 ## Types of conversations
 
 Conversations are split between two types of participants.
 
 * **Members**: Choose this option if you want members of the campaign to be able to write in the conversation.
-* **Entities**: Choose this option if you want the conversation to be between entities of the campaign, like characters.
+* **Entries**: Choose this option if you want the conversation to be between entries of the campaign, like characters.
 
 ## Adding members
 
