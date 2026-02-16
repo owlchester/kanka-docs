@@ -27,7 +27,7 @@ Number properties can be set up to only allow values between a range of numbers.
 
 The same syntax can also be used in a standard property to create a dropdown of preset options when live-editing a property in a [character sheet](/plugins/character-sheets) or in the entry's properties page, for example with `[range:London,Berlin,Zürich]`. However, the full properties form will still show them as text fields and accept any value.
 
-When creating or editing an [property set](/entries/property-semplates), you can set random properties. This can either be a random value between two numbers separated by `-`, or a random value from a list of values separated by `,`. The value for the property is determined when the template is applied to an entry, or when an entry is saved.
+When creating or editing an [property set](/entries/property-semplates), you can set random properties. This can either be a random value between two numbers separated by `-`, or a random value from a list of values separated by `,`. The value for the property is determined when the set is applied to an entry, or when an entry is saved.
 
 For example, if you want a number between 1 and 100, use `1-100`. If you want a value from a list of options, use `London, Berlin, Rome, Zürich`.
 
@@ -48,6 +48,6 @@ Properties can also be pinned to the [entity's profile sidebar](/features/profil
 
 ## Property sets
 
-When creating or editing an entry, the top of the **properties** tab contains an option to select an [property set](/entries/property-semplates). Doing so will add properties from that template when the entry is being saved. If a property exists on the entry and the template, only the property from the entry is saved.
+When creating or editing an entry, the top of the **properties** tab contains an option to select an [property set](/entries/property-semplates). Doing so will add properties from that set when the entry is being saved. If a property exists on the entry and the set, only the property from the entry is saved.
 
-If you want to apply a template to multiple entries at a time, look at the [bulk options](/guides/bulk).
+If you want to apply a set to multiple entries at a time, look at the [bulk options](/guides/bulk).

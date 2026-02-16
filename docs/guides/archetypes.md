@@ -32,6 +32,6 @@ To remove an entry as being an archetype, click again on the entry's **action me
 
 ## Miscellaneous details
 
-Archetypes are bound to a category. Meaning that a character set as a template can only be used to create a new character.
+Archetypes are bound to a [category](/features/campaigns/categories). Meaning that a character set as an archetype can only be used to create a new character.
 
-If members of your campaign can create a character and have access to the template (meaning they can view it), they also get the option to create a new character based on the template. The same applies for other categories of your campaign.
+If members of your campaign can create a character and have access to the archetype (meaning they can view it), they also get the option to create a new character based on the archetype. The same applies for other categories of your campaign.
