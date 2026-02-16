@@ -4,9 +4,9 @@
 
 ## Defining an alias
 
-To add an alias to an entry, navigate to that entry's **Assets** subpage.
+To add an alias to an entry, navigate to that entry's **Media** subpage.
 
-![Assets submenu on an entry](img/assets-menu.png)
+![Media submenu on an entry](img/assets-menu.png)
 
 
 From there, click on the **+ Add** button on the top right, this will then show a dropdown menu where you should click ***Alias or Secret identity*** to create one.

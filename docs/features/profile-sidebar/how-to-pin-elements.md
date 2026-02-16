@@ -16,7 +16,7 @@ When editing all the properties of an entry (either in the entry's `properties` 
 
 ## Pinning Files
 
-When creating or editing a file (under the entry's `assets` subpage), the `pinned` option can be activated.
+When creating or editing a file (under the entry's `media` subpage), the `pinned` option can be activated.
 
 ![Pinning files](files.png)
 

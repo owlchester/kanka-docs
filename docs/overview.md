@@ -8,7 +8,7 @@ All entries can have [relations](/features/relations) that help define how they 
 
 In addition, all entries can also have what [articles](/features/articles), which contain extra information related to the entry, as well as [secrets](/guide/secrets).
 
-Multiple [files](/features/assets#files) can also be attached to each entry. As you might have guessed, these can also be set to only be visible to certain members of a campaign. This is useful for attaching more images, PDFs or other files to entries that you want to keep easily accessible.
+Multiple [files](/features/media#files) can also be attached to each entry. As you might have guessed, these can also be set to only be visible to certain members of a campaign. This is useful for attaching more images, PDFs or other files to entries that you want to keep easily accessible.
 
 For worldbuilders, Kanka offers a powerful [calendar](/entries/calendars) feature that holds your years, months, weekdays, weather effects, recurring events, moons, seasons, and much more. If you are familiar with intercalary months, Kanka supports those too. Best of all, your campaign can have several calendars, with events appearing in all of them.
 
