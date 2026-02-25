@@ -78,6 +78,7 @@ caption: Campaign Features
 ---
 
 features/campaigns/campaign-settings
+features/campaigns/open
 features/campaigns/members
 features/campaigns/export
 features/campaigns/import
@@ -86,6 +87,7 @@ features/campaigns/recovery
 features/campaigns/sidebar
 features/campaigns/theming
 features/campaigns/theme-builder
+features/campaigns/join
 features/campaigns/leaving
 features/campaigns/deleting
 features/campaigns/public-campaigns
