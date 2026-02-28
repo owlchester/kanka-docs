@@ -29,7 +29,7 @@ The payload is a json object with the following structure:
         "id": "21321445435345346",
         "type": "Payload",
         "webhook_id": 42,
-        "timestamp": "2023-08-22 20:25:07",
+        "timestamp": "2023-08-22 20:25:07"
     },
     "entity": {
         "data": [
@@ -42,7 +42,6 @@ The payload is a json object with the following structure:
                         "image_thumb": "{url}",
                         "has_custom_image": false,
                         "is_private": true,
-                        "location_id": null,
                         "entity_id": 5,
                         "tags": [],
                         "created_at":  "2019-01-30T00:01:44.000000Z",
