@@ -4,7 +4,7 @@ Subscribers at the Wyvern and Elemental level can import a `json` export zip fil
 
 To access the interface, navigate to `Settings > Import`. There, you can select the `.zip` file and upload it to the kanka servers.
 
-Importing campaigns can be a long and slow process, so don't be in a rush. All entities and their associated data from the export will be added to the campaign. 
+Importing campaigns can be a long and slow process, so don't be in a rush. All entries and their associated data from the export will be added to the campaign. 
 
 Keep in mind that import logs older than 90 days are automatically deleted.
 
@@ -16,7 +16,7 @@ You can check the Kanka version used for the export by opening the zip file and 
 
 ## Can I re-import an export multiple times
 
-Each time an export is imported, it will create new entities, leading to duplicates if run multiple times in the same campaign.
+Each time an export is imported, it will create new entries, leading to duplicates if run multiple times in the same campaign.
 
 ## What happens to premium features
 
@@ -32,6 +32,6 @@ At the time of writing, the following features aren't in the export, and thus no
 * plugins
 * custom theming
 * bookmarks
-* dice rolls and conversations (deprecated modules)
+* dice rolls and conversations (deprecated categories)
 
 This list isn't exhaustive, but includes the biggest missing features from the process.

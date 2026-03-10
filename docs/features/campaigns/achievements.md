@@ -4,7 +4,7 @@
 
 ## Levels
 
-Achievements are split into several categories, each focused on a unique entity type. Each achievement is then later split up into levels, which get unlocked when the campaign has reached a level's number.
+Achievements are split into several categories, each focused on a unique category. Each achievement is then later split up into levels, which get unlocked when the campaign has reached a level's number.
 
 For example, to fully unlock the Character achievement, the campaign needs 500 characters.
 

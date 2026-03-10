@@ -8,7 +8,7 @@ For example, let's say you have an image of a dungeon with and without traps, or
 
 ### Entry
 
-The entry field is for your own book-keeping, for example if you have numbers visible on a layer, the entry could contain the information on what each number represents.
+The description field is for your own book-keeping, for example if you have numbers visible on a layer, the description could contain the information on what each number represents.
 
 ### Layer types
 
@@ -41,4 +41,4 @@ There is currently no way to have more than twenty layers per map.
 
 ### Can I attach markers to layers to show/hide them when a layer is visible?
 
-No, that's what [map groups](/entities/maps/groups) are for.
+No, that's what [map groups](/entries/maps/groups) are for.

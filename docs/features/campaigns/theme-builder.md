@@ -51,7 +51,7 @@ If you wish to fully customise the campaign theme manually, you can define the f
     /* Foreground content colour to use on secondary colour */
     --sc: 216 13% 13%;
 
-    /* Accent colour, used for some important buttons like "new post" */
+    /* Accent colour, used for some important buttons like "new article" */
     --a: 41 74% 53%;
     /* Accent colour when focused */
     --af: 41 74% 46%;

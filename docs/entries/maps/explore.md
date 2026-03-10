@@ -2,7 +2,7 @@
 
 A map's **explore** page is the best way to consume its content. This shows the map, the layers, groups, and markers.
 
-Clicking on a marker will load its data in the sidebar. This is used from the marker's custom entry field, and from the marker's linked entity.
+Clicking on a marker will load its data in the sidebar. This is used from the marker's custom description field, and from the marker's linked entry.
 
 ![Map explore page](img/map-explore.png)
 
@@ -30,4 +30,4 @@ Clicking it enables the measurement plugin. Once enabled, clicking on the map wi
 
 ## Dashboard widget
 
-A map can be pinned to a dashboard. To do so, add an **entity preview** widget linked to the map to the dashboard. Markers can be clicked on the dashboard, which will open the target entity.
+A map can be pinned to a dashboard. To do so, add an **entry preview** widget linked to the map to the dashboard. Markers can be clicked on the dashboard, which will open the target entry.

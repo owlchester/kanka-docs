@@ -8,16 +8,16 @@ Watch our tutorial video on our YouTube channel.
 
 Character sheets let you create custom layouts for your characters in Kanka, giving you full control over how information is presented. Whether you want a crisp minimalist sheet for a modern detective, a parchment-styled layout for a wandering bard, or a sprawling profile fit for a cosmic horror campaign, you can build it through the [Plugins Library using](https://plugins.kanka.io) simple, flexible template syntax.
 
-Character sheets live inside plugins that you install on your campaign. Each sheet defines a custom HTML layout for the entity. Once installed, your sheet appears as an option when creating or editing an entity's attributes.
+Character sheets live inside plugins that you install on your campaign. Each sheet defines a custom HTML layout for the entry. Once installed, your sheet appears as an option when creating or editing an entry's properties.
 
 ![Load a sheet](img/character-sheet-load.png)
 ![Select a sheet](img/character-sheet-select.png)
 
 ## How character sheets work
 
-A character sheet is made of HTML-like markup, combined with helper tags that pull data directly from the entity. These helpers are safe, predictable, and designed to give you powerful access to entity fields without needing to touch any actual code. You can display attributes, properties, and more, all while keeping the syntax readable for non-technical users.
+A character sheet is made of HTML-like markup, combined with helper tags that pull data directly from the entry. These helpers are safe, predictable, and designed to give you powerful access to entry fields without needing to touch any actual code. You can display properties, properties, and more, all while keeping the syntax readable for non-technical users.
 
-The rendering engine processes your template, replaces all helper tags with real entity data, then outputs a clean page that players can view and edit.
+The rendering engine processes your template, replaces all helper tags with real entry data, then outputs a clean page that players can view and edit.
 
 ## Using template helpers
 
@@ -33,15 +33,15 @@ Here are a few common examples you will use early on:
 
 > {{ $_entity_name }}
 
-Inserts the entity's name.
+Inserts the entry's name.
 
 > {{ $height }}
 
-Fetches and displays the attribute named "Height".
+Fetches and displays the property named "Height".
 
 > @isset($height) ... @endif
 
-Shows a block only when the entity has a height attribute.
+Shows a block only when the entry has a height property.
 
 These helpers keep the template legible, which means you can return to your sheet months later without feeling lost.
 
@@ -54,7 +54,7 @@ Consider adding:
 * A small banner with the character's title, rank, or role.
 * A biography section that supports longer prose.
 * A simple table of core facts, such as age, pronouns, species, or affiliations.
-* Panels that highlight attributes or recurring traits.
+* Panels that highlight properties or recurring traits.
 * A block for story hooks or campaign-specific notes that players might find handy.
 
 The aim is to help readers absorb the most important details without needing to dig through the default tabs.
@@ -67,7 +67,7 @@ If your campaign uses multiple sheets from different plugins, small stylistic di
 
 ## Testing your sheet
 
-After saving a sheet in your plugin in a draft state, install the plugin on a campaign where you can experiment safely. Create a disposable test character and load your sheet from the template selector. Then hop back and forth between the editor and your template to see how changes behave in practice. It often helps to try a few characters with different attribute sets, just to make sure your conditional blocks work as intended.
+After saving a sheet in your plugin in a draft state, install the plugin on a campaign where you can experiment safely. Create a disposable test character and load your sheet from the template selector. Then hop back and forth between the editor and your template to see how changes behave in practice. It often helps to try a few characters with different property sets, just to make sure your conditional blocks work as intended.
 
 The goal is not perfection on the first pass but a comfortable loop where you make changes, observe the output, and gradually shape the sheet into something you enjoy.
 

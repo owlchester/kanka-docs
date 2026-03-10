@@ -5,7 +5,7 @@ Quests are a place to regroup all elements for a part of scenario or a scene.
 ## Features
 Quests specific features are:
 * can be nested with "parent quest" field
-* a "date" field for reporting which will be displayed in [profile sidebar](/features/profile-sidebar) below pinned attributes
+* a "date" field for reporting which will be displayed in [profile sidebar](/features/profile-sidebar) below pinned properties
 * a "completed" field to keep track of ... completed quest in list view
 * calendar date entry: when filled up, it will automatically populate the calendar with a [reminder](/features/reminders)
 * an elements subpage

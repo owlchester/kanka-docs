@@ -14,9 +14,9 @@ Here is a list of what each visibility does.
 
 ## Permission chaining
 
-In addition to the element's visibility value, if it is linked to an entity, the entity's permission will also come into play. We call this **permission chaining**. For example, if a relation is visible to all, but the relation's target is only visible to admins, then only admins will see the relation.
+In addition to the element's visibility value, if it is linked to an entry, the entry's permission will also come into play. We call this **permission chaining**. For example, if a relation is visible to all, but the relation's target is only visible to admins, then only admins will see the relation.
 
-This permission chaining between an element and an entity works for the following elements:
+This permission chaining between an element and an entry works for the following elements:
 
 * Character organisation
 * Inventory

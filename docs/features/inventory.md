@@ -1,14 +1,14 @@
 # Inventory
 
-Every entity has a subpage called "Inventory" which is intended to track an entity's inventory. This makes sense when using Kanka for running a TTRPG.
+Every entry has a subpage called "Inventory" which is intended to track an entry's inventory. This makes sense when using Kanka for running a TTRPG.
 
-## Why all entities?
+## Why all entries?
 
 A quest's inventory might be the planned loot. A location's might be a shop's sales. An org's might be the group's shared loot.
 
 ## Adding an item
 
-When adding an item to the inventory, either a name can be provided, or a link to an existing entity.
+When adding an item to the inventory, either a name can be provided, or a link to an existing entry.
 
 ![Adding an item to the inventory](img/inventory-add.png)
 
@@ -23,6 +23,6 @@ Whole positions can be collapsed by clicking on their name. Items can quickly be
 
 ### Item details
 
-Clicking on an item opens up more details about it. If the item is linked to an object entity, the object's location, weight, size and other details will be displayed.
+Clicking on an item opens up more details about it. If the item is linked to an object entry, the object's location, weight, size and other details will be displayed.
 
 ![Item details](img/inventory-details.png)

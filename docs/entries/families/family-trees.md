@@ -4,7 +4,7 @@
 This article is for a recently added feature to Kanka!
 ```
 
-[Families](/entities/families) can have their family trees created in Kanka. This feature is only available to [premium campaigns](https://kanka.io/premium). To start creating a family tree, go to a family and go to their *family tree* subpage.
+[Families](/entries/families) can have their family trees created in Kanka. This feature is only available to [premium campaigns](https://kanka.io/premium). To start creating a family tree, go to a family and go to their *family tree* subpage.
 
 ![Kanka family tree](family-tree.png)
 
@@ -17,7 +17,7 @@ A family tree starts by a founder, which will be the first element of the tree. 
 
 ## Relation
 
-Each entity can have one or multiple relations, which are added by clicking on the **add relation** button. This brings up the form asking which entity to add, and what their relation is.
+Each entry can have one or multiple relations, which are added by clicking on the **add relation** button. This brings up the form asking which entry to add, and what their relation is.
 
 ![Adding a relation](relation.png)
 

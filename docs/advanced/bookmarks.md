@@ -10,32 +10,32 @@ To create a bookmarks, start by going to **bookmarks** and click on the **+ book
 
 ![Creating a new bookmark](img/bookmarks.png)
 
-There are currently four different types of bookmarks. Ones that point to a specific entity, ones that point to a list of entities, ones that point to a random entity, and ones that point to a dashboard.
+There are currently four different types of bookmarks. Ones that point to a specific entry, ones that point to a list of entries, ones that point to a random entry, and ones that point to a dashboard.
 
-### Entity
+### Entry
 
-This bookmark points to a specific entity. Select an existing entity from the list, and an optional subpage the link should point to (for example an entity's attributes).
+This bookmark points to a specific entry. Select an existing entry from the list, and an optional subpage the link should point to (for example an entry's properties).
 
-Note that if the entity can't be seen by a user, the link won't appear in the bookmarks.
+Note that if the entry can't be seen by a user, the link won't appear in the bookmarks.
 
-### Entity list
+### Entry list
 
-This bookmark points to a list of entities, for example a list of characters. You can combine this with [filters](/advanced/filters), to for example only show characters who are dead, or who have a specific tag.
+This bookmark points to a list of entries, for example a list of characters. You can combine this with [filters](/advanced/filters), to for example only show characters who are dead, or who have a specific tag.
 
-The nested field controls if the link forces the page's nested more. This is only useful for entities which have a parent (ie locations).
+The nested field controls if the link forces the page's nested more. This is only useful for entries which have a parent (ie locations).
 
 #### Example: A link to your world's deities
 
-For example, if you want to have a bookmark going to your [characters](/entities/characters) that are part of the campaign's **deity** race, follow these steps.
+For example, if you want to have a bookmark going to your [characters](/entries/characters) that are part of the campaign's **deity** race, follow these steps.
 
 1. Go to your characters, and filter them to your deity race.
 2. On the characters list showing just your deities, expand the filters section and click the **copy to clipboard** button.
-3. Create a bookmark of the **entity list** type, set the **entity list** to **characters**, and _paste_ in the **filters**.
+3. Create a bookmark of the **entry list** type, set the **entry list** to **characters**, and _paste_ in the **filters**.
 4. Save the bookmark and enjoy a link to your deities!
 
 ### Random
 
-To replicate a wiki's random page link, use this option to open a random entity of the campaign each time the link is clicked. You can limit the kind of entity selected, and also include filters. For example, if you have a To-Do tag in your campaign, you can open a random entity that you've marked as needing more work.
+To replicate a wiki's random page link, use this option to open a random entry of the campaign each time the link is clicked. You can limit the kind of entry selected, and also include filters. For example, if you have a To-Do tag in your campaign, you can open a random entry that you've marked as needing more work.
 
 ### Dashboard
 

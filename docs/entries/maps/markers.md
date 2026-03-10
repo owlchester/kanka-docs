@@ -56,4 +56,4 @@ All markers have some overlapping fields. Here is a brief rundown of some of tho
 
 * **Name** vs **Entity**: At least one of these has to be filled out. If both are filled out, the **name** will be used when hovering/viewing the marker.
 
-A marker can have a custom **Entry**, which is its description. When clicking on a marker on the map's explore page, it will display this custom entry, as well as a preview of the marker's linked entity, if one is provided.
+A marker can have a custom **Entry**, which is its description. When clicking on a marker on the map's explore page, it will display this custom entry, as well as a preview of the marker's linked entry, if one is provided.

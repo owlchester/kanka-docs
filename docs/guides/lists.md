@@ -1,9 +1,9 @@
-# Entity Lists
+# Entry Lists
 
-When looking at all the characters, locations, or other module of the campaign, we call this an "entity list". For example, a "character list".
+When looking at all the characters, locations, or other module of the campaign, we call this an "entry list". For example, a "character list".
 
 ## List modes
-By default, entities are shown in a **grid** view with a focus on visuals.
+By default, entries are shown in a **grid** view with a focus on visuals.
 
 This is in contrast with the **table** view, which isn't visually pleasing but has more information and enables [bulk actions](/guides/bulk).
 
@@ -17,17 +17,17 @@ When viewing a list, of a different view mode is possible, a button will appear 
 
 ###  How to set the default
 
-When switching from one mode to another, Kanka will automatically remember the last mode you selected [per module](/features/campaigns/modules), so you can keep your characters in grid view, but have your quests in table view. This feature only works if you are logged in to your Kanka account.
+When switching from one mode to another, Kanka will automatically remember the last mode you selected [per category](/features/campaigns/categories), so you can keep your characters in grid view, but have your quests in table view. This feature only works if you are logged in to your Kanka account.
 
 ## Stacking
 
-When in **grid** view, by default, entities with children will have a "stack" below them. Clicking on the image will display the children of the entity, whilc clicking on its name will go to that entity.
+When in **grid** view, by default, entries with children will have a "stack" below them. Clicking on the image will display the children of the entry, whilc clicking on its name will go to that entry.
 
-![Entities with children](img/lists-stack.png)
+![Entries with children](img/lists-stack.png)
 
 ### Disabling stacking
 
-To disable stacking and have all entities of the current module displayed in the grid, click on the **flatten** button at the top right.
+To disable stacking and have all entries of the current module displayed in the grid, click on the **flatten** button at the top right.
 
 ![Flatten lists](img/lists-flatten.png)
 

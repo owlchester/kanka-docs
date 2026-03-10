@@ -1,6 +1,6 @@
 # Bragi
 
-**Bragi** is Kanka's experimental AI-powered character backstory helper. Available for our Wyvern and Elemental [subscribers](https://kanka.io/pricing), Bragi is accessible in the text editor of [characters](/entities/characters) as a "hat" icon.
+**Bragi** is Kanka's experimental AI-powered character backstory helper. Available for our Wyvern and Elemental [subscribers](https://kanka.io/pricing), Bragi is accessible in the text editor of [characters](/entries/characters) as a "hat" icon.
 
 ![Accessing Bragi](img/bragi/icon.png)
 
