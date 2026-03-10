@@ -82,7 +82,6 @@ features/campaigns/open
 features/campaigns/members
 features/campaigns/export
 features/campaigns/import
-features/campaigns/csv-import
 features/campaigns/categories
 features/campaigns/recovery
 features/campaigns/sidebar
