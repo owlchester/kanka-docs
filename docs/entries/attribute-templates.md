@@ -1,3 +1,3 @@
 # Attribute Templates
 
-Renamed to [Property Kits](/entities/property-kits) in early 2026.
+Renamed to [Property Kits](/entries/property-kits) in early 2026.

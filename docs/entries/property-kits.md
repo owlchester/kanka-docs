@@ -1,6 +1,6 @@
 # Property Kits
 
-**Property kits** are a complicated beast. When using [properties](/features/properties) on your [locations](/entries/locations), you might be re-creating the same properties over an over. You could create a [location archetypes](/guides/archetypes), or use [property kits](/entities/property-kits).
+**Property kits** are a complicated beast. When using [properties](/features/properties) on your [locations](/entries/locations), you might be re-creating the same properties over an over. You could create a [location archetypes](/guides/archetypes), or use [property kits](/entries/property-kits).
 
 While this video uses a very old interface, the concepts still hold true to this day.
 
