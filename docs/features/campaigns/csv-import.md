@@ -39,10 +39,10 @@ Some fields are true/false toggles (like Private, Extinct, Destroyed, etc.). For
 ### Example CSV
 
 ```csv
-Name,Title,Age,Sex,Description,Is Private
-Alara Wing,Captain of the Guard,34,Female,"Leader of the city watch, known for her iron will.",false
-Brendan Thatch,Innkeeper,52,Male,Runs the Rusty Flagon tavern.,false
-Celia Dorn,Court Mage,28,Female,Advisor to the king on matters of the arcane.,true
+"Name","Title","Age","Sex","Description","Is Private"
+"Alara Wing","Captain of the Guard","34","Female","Leader of the city watch, known for her iron will.",false
+"Brendan Thatch","Innkeeper","52","Male","Runs the Rusty Flagon tavern.",false
+"Celia Dorn","Court Mage","28","Female","Advisor to the king on matters of the arcane.",true
 ```
 
 ## Import Workflow
