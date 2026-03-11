@@ -16,7 +16,7 @@ This option allows you to remove, replace, or add [permissions](/features/permis
 
 ## Apply property set
 
-Apply an [property set](/entries/property-semplates) to multiple entries at a time.
+Apply an [property set](/entries/property-kits) to multiple entries at a time.
 
 ## Convert
 

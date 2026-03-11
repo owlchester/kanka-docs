@@ -43,7 +43,7 @@ entries/events
 entries/abilities
 entries/tags
 entries/notes
-entries/property-semplates
+entries/property-kits
 entries/conversations
 entries/dice-rolls
 ```
