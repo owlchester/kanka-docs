@@ -10,7 +10,7 @@ The types and their usage are as follow:
 
 * **Text**: 191 character, anything goes property.
 * **Checkbox**: A checkbox. If selected, appears as a _checkmark_ in the entry's properties, and nothing when empty.
-* **Multiline**: For if you want to write about the entry's favourite recipe in properties, you can.
+* **Paragraph**: For if you want to write about the entry's favourite recipe in properties, you can.
 * **Numbers**: Limit the content of the property to a numerical value.
 * **Section**: After a while, an entry with lots of properties can get visually messy. Use sections to split off properties into their own "boxes".
 * **Random**: Only available in [property kit](/entries/property-kits).
