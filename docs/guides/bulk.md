@@ -14,11 +14,11 @@ The first option is to edit the properties of multiple entries at a time. Say yo
 
 This option allows you to remove, replace, or add [permissions](/features/permissions) to multiple entries at a time. Useful when you finally decided to invite your players to the campaign, but realise they can now read all the terrible plot-hooks you've prepared.
 
-## Apply property set
+## Apply a property kit
 
-Apply an [property set](/entries/property-kits) to multiple entries at a time.
+Apply an [property kit](/entries/property-kits) to multiple entries at a time.
 
-## Convert
+## Convert / Transform
 
 (This feature was previously known as "Transform")
 

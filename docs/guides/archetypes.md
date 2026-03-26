@@ -14,13 +14,13 @@ Once your character is created, view it and click on the `...` button to the rig
 
 This sets the new character as a template.
 
-### Creating a character based on the template
+### Creating a character based on the archetype
 
-To create a new character based on the template, navigate to the characters page of your campaign. In the top right, next to the new character button, you'll now see an option with the template's name.
+To create a new character based on the archetype, navigate to the characters page of your campaign. In the top right, next to the new character button, you'll now see an option with the archetype's name.
 
 ![Creating an entry from an archetype](img/templates-use.png)
 
-This brings up the new character page, with fields filled out from the template. The name is always empty, to help avoid having multiple entries with the same name.
+This brings up the new character page, with fields filled out from the archetype. The name is always empty, to help avoid having multiple entries with the same name.
 
 In the form's copy options tab, you can control which related elements are to be copied over. All of these options are enabled by default.
 

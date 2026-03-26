@@ -67,7 +67,7 @@ If your campaign uses multiple sheets from different plugins, small stylistic di
 
 ## Testing your sheet
 
-After saving a sheet in your plugin in a draft state, install the plugin on a campaign where you can experiment safely. Create a disposable test character and load your sheet from the template selector. Then hop back and forth between the editor and your template to see how changes behave in practice. It often helps to try a few characters with different property sets, just to make sure your conditional blocks work as intended.
+After saving a sheet in your plugin in a draft state, install the plugin on a campaign where you can experiment safely. Create a disposable test character and load your sheet from the template selector. Then hop back and forth between the editor and your template to see how changes behave in practice. It often helps to try a few characters with different property kits, just to make sure your conditional blocks work as intended.
 
 The goal is not perfection on the first pass but a comfortable loop where you make changes, observe the output, and gradually shape the sheet into something you enjoy.
 

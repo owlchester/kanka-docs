@@ -16,7 +16,7 @@ Say you're constantly adding the following properties to your cities.
 
 Doing so each time you're adding a city is tedious, so let's make this process a lot easier, especially as you end up tracking more properties.
 
-In your campaign sidebar, click on **Property kits** at the bottom of it, and on the **+ Property Set** button at the top right to create a new property kit.
+In your campaign sidebar, click on **Property kits** at the bottom of it, and on the **+ Property Kit** button at the top right to create a new property kit.
 
 ![New property kit button](img/property-kits.png)
 
@@ -34,13 +34,13 @@ Next up, fill out the **Properties** tab with our 3 example properties from abov
 
 With the property kit created, it's time to test it out. Go to your campaign's [locations](/features/entries/locations), and create a start creating a new one.
 
-In the new location's **Properties** tab, click on the **Property Set** option to list your campaign's property kits. This list also includes [character sheets](/plugins/character-sheets) from the [plugins library](/plugins/plugins). Select our example **City** property kit.
+In the new location's **Properties** tab, click on the **Property Kit** option to list your campaign's property kits. This list also includes [character sheets](/plugins/character-sheets) from the [plugins library](/plugins/plugins). Select our example **City** property kit.
 
 This does not add the new properties _yet_, as property kits are only applied when the entry is being saved. Save your new location, and you should see it's properties going to the new location's properties subpage.
 
 ## Resyncing properties from a property kit
 
-When you add a new or change and existing property to a template, it does not automatically change on all entries that have the property kit applied. You need to manually re-apply the template. Luckily, you can do this with the [bulk](/advanced/bulk) features.
+When you add a new or change and existing property to a template, it does not automatically change on all entries that have the property kit applied. You need to manually re-apply the kit. Luckily, you can do this with the [bulk](/advanced/bulk) features.
 
 ## Nested kits
 
