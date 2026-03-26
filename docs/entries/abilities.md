@@ -66,4 +66,4 @@ You can have the ability's description be something like
 
 > Does {dice}d6 damage
 
-When rendering on the properties subpage, Kanka will replace {dice} with the value of an property on the entry named `{dice}`.
+When rendering on the properties subpage, Kanka will replace {dice} with the value of a property on the entry named `{dice}`.

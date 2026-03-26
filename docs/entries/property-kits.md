@@ -6,7 +6,7 @@ While this video uses a very old interface, the concepts still hold true to this
 
 [![Property kits](https://img.youtube.com/vi/qKnTpuePqUA/0.jpg)](https://youtu.be/qKnTpuePqUA)
 
-## Setting up an property kit
+## Setting up a property kit
 
 Say you're constantly adding the following properties to your cities.
 
@@ -30,7 +30,7 @@ Property kits have the following fields.
 
 Next up, fill out the **Properties** tab with our 3 example properties from above. Save the property kit and head on to the next step.
 
-## Applying an property kit
+## Applying a property kit
 
 With the property kit created, it's time to test it out. Go to your campaign's [locations](/features/entries/locations), and create a start creating a new one.
 
@@ -38,7 +38,7 @@ In the new location's **Properties** tab, click on the **Property Set** option t
 
 This does not add the new properties _yet_, as property kits are only applied when the entry is being saved. Save your new location, and you should see it's properties going to the new location's properties subpage.
 
-## Resyncing properties from an property kit
+## Resyncing properties from a property kit
 
 When you add a new or change and existing property to a template, it does not automatically change on all entries that have the property kit applied. You need to manually re-apply the template. Luckily, you can do this with the [bulk](/advanced/bulk) features.
 

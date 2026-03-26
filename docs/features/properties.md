@@ -21,7 +21,7 @@ You can reference entries in properties using the advanced mention syntax `[enti
 
 ![Mentions in property values](img/attribute-mention.png)
 
-You can get creative with some [basic math](https://github.com/chriskonnertz/string-calc) options. For example, an property with the value of `{Level}*{Con}` will multiple the `Level` and `Con` properties of this entry. If you want to round up or down, you can use `floor({Level}/3)` or `ceil(({Con}*{Level})/2)` as well.
+You can get creative with some [basic math](https://github.com/chriskonnertz/string-calc) options. For example, a property with the value of `{Level}*{Con}` will multiple the `Level` and `Con` properties of this entry. If you want to round up or down, you can use `floor({Level}/3)` or `ceil(({Con}*{Level})/2)` as well.
 
 Number properties can be set up to only allow values between a range of numbers. For example, use `Level[range:1,10]` to limit the property between 1 and 10. The range values can also reference other properties, for example with `HP[range:0,{MaxHP}]`. When saving a property, if the value is outside the range, it will automatically revert to the closest range value.
 
