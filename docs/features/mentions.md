@@ -33,7 +33,7 @@ Instead of having the link fo to the entry's overview page, the advanced mention
 Some entries like quests have a `quest-elements` subpage as a valid option.
 
 The advanced mention can also specify the HTML anchor the link should point to using `[entity:123|anchor:post-69]`.
-k
+
 ### Displaying a field instead of the entry's name
 
 You can also display a field from the entry instead of its name in the link with `[entity:123|field:location]`. Some available options are `type`, `location`, `pronouns`, and `title`, as well as the parent field of [nested](features/nested) entries. For example to mention a family's parent family, use `[entity:123|field:family]`. It isn't possible to reference a character's families or races, as characters can have several of those.
@@ -88,14 +88,14 @@ For example, `[entity:123|Mike Properties|tooltip:attributes]`.
 
 ![A tooltip rendering properties](img/mention-tooltip.png)
 
-### Transclusion - Injecting an entry's main description as a mention
+### Transclusion - Injecting an entry's description as a mention
 
-You can also inject the target's description with `[entity:123|field:entry]`. This only injects the entry's **entry** text, not the whole entry.
+You can also inject the target's description with `[entity:123|field:entry]`. This only injects the entry's **description**, not the whole entry.
 
 ![Mention transclusion](img/transclude.png)
 
 ```{admonition} Limitation
-While you can render a target's description with `[entity:123|field:entry]`, the target's description won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. This also only works for the entry's entry, not for any of its articles.
+While you can render a target's description with `[entity:123|field:entry]`, the target's description won't include parsed mentions. This is to avoid performance issues and crashing the servers with loops. This also only works for the entry's description, not for any of its articles.
 ```
 
 Parameters can also be passed along to the entry link. For example, specify which year and month get shown on a calendar with `[calendar:100|params:year=2022&month=07]`. The same can be done with ordering sublists. For example, order family subfamilies by location name with `[family:100|page:families|params:k=location.name&o=asc]`.
