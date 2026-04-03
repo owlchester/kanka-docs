@@ -104,14 +104,18 @@ maxdepth: 1
 hidden:
 caption: Guides
 ---
+guides/secrets
 guides/dashboard
 guides/archetypes
-guides/testing-permissions
-guides/delete-entities
-guides/todo-tag
-guides/transform
-guides/lists
+guides/archives
 guides/bulk
+guides/convert
+guides/delete-entities
+guides/lists
+guides/removing-admins
+guides/roadmap
+guides/testing-permissions
+guides/todo-tag
 ```
 
 ```{toctree}

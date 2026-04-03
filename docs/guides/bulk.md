@@ -2,7 +2,7 @@
 
 **Bulking** in the context of Kanka isn't related to getting big and muscular, but has the same effect on your worldbuilding. Bulking is the concept of applying something to multiple entries at a same time. This is sometimes also known as mass applying.
 
-When viewing a list of entries, for example the campaign's events, and using the [grid view](/guides/lists), a checkbox is visible to the left of each row. Selecting one activates the **bulk** menu at the bottom of the list. Note that all exept the bulk print option requires you to be an admin of the campaign.
+When viewing a list of entries, for example the campaign's events, a "select" button is visible to the . Clicking in toggles "select mode", which allows you to select multiple entries at a time, and enables the various "bulk" actions. Note that all exept the bulk print option requires you to be an admin of the campaign.
 
 ![Bulk menu in lists](img/bulk-menu.png)
 
@@ -34,4 +34,4 @@ Going hiking with your players and want to play at night at a camp fire with no 
 
 ## Remove
 
-My favourite option. You've created this great story with a whole kingdom of humans, dwarves, hobbits and elves. You're rightfully proud of your work, well done champ! However, during session 1, your players killed the prince, eat all the king's food, and drew multiple phallus on the castle walls before setting it on fire. Such a shame, you had high hopes for this group. _Sigh_. Oh well, let's delete all of their characters from the campaign in a single swoop. No hard feelings, really. They had it coming. Don't forget to [kick them out of the campaign](/features/campaigns/members) while you're at it. Purge the filth from these fertile lands.
+My favourite option. You've created this great story with a whole kingdom of humans, dwarves, hobbits and elves. You're rightfully proud of your work, well done champ! However, during session 1, your players killed the prince, ate all the king's food, and drew multiple phallus on the castle walls before setting it on fire. Such a shame, you had high hopes for this group. _Sigh_. Oh well, let's delete all of their characters from the campaign in a single swoop. No hard feelings, really. They had it coming. Don't forget to [kick them out of the campaign](/features/campaigns/members) while you're at it. Purge the filth from these fertile lands.

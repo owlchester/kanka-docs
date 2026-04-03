@@ -1,36 +1,28 @@
 # Entry Lists
 
-When looking at all the characters, locations, or other module of the campaign, we call this an "entry list". For example, a "character list".
+When looking at all the characters, locations, or other module of the campaign, we call this an "category list". For example, a "character list".
 
 ## List modes
 By default, entries are shown in a **grid** view with a focus on visuals.
 
-This is in contrast with the **table** view, which isn't visually pleasing but has more information and enables [bulk actions](/guides/bulk).
+This is in contrast with the **table** view, which isn't visually pleasing but has more information (which can be toggled on/off).
 
 ### Switching modes
 
 When viewing a list, of a different view mode is possible, a button will appear on the top right.
 
-![Switch to grid view](img/lists-grid.png)
-
-![Switch to table view](img/lists-table.png)
+![Toggle between grid and table view](img/lists-toggle.png)
 
 ###  How to set the default
 
 When switching from one mode to another, Kanka will automatically remember the last mode you selected [per category](/features/campaigns/categories), so you can keep your characters in grid view, but have your quests in table view. This feature only works if you are logged in to your Kanka account.
 
-## Stacking
+## Stacking / Nested
 
-When in **grid** view, by default, entries with children will have a "stack" below them. Clicking on the image will display the children of the entry, whilc clicking on its name will go to that entry.
+Both modes have a "Nested" and a "Flat" layout. When in "Nested" mode, clicking on the image or > icon will load the children of the entry, while clicking on its name will go to that entry.
 
 ![Entries with children](img/lists-stack.png)
 
-### Disabling stacking
-
-To disable stacking and have all entries of the current module displayed in the grid, click on the **flatten** button at the top right.
-
-![Flatten lists](img/lists-flatten.png)
-
 ## Filters
 
-Filters (accessed by clicking the **advanced filters** button) are remembered by module, but not by view mode. So if you filter on all dead characters, switching between grid and table view will not reset the filter. Filters are also remembered by account and module. Note that this excludes the campaign, so if you're viewing dead characters in campaign A, switching to campaign B will also show the dead characters.
+Filters (accessed by clicking the **filters** button) are remembered by category for your account on the current campaign.
