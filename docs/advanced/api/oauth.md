@@ -29,7 +29,7 @@ To request access from a user, the user needs to call the `oauth/authorize` page
         'response_type' => 'code',
     ]);
  
-    return redirect('https://kanka.io/oauth/authorize?'.$query);
+    return redirect('https://app.kanka.io/oauth/authorize?'.$query);
 ```
 
 If the request is properly formated, the user should be greeted by a page asking them to authorize or deny your app's access to their account.
@@ -43,7 +43,7 @@ When the user clicks on `Authorize`, they will be redirected to your app's URL w
 If the user approves the authorization request, they will be redirected back to the consuming application. The consumer should issue a `POST` request to Kanka's `/oauth/token` to request an access token. The request should include the authorization code that was issued by Kanka application when the user approved the authorization request.
 
 ```php
-$response = Http::asForm()->post('https://kanka.io/oauth/token', [
+$response = Http::asForm()->post('https://app.kanka.io/oauth/token', [
     'grant_type' => 'authorization_code',
     'client_id' => 'client-id',
     'client_secret' => 'client-secret',
@@ -68,7 +68,7 @@ By default, tokens are valid for 1 year. These can be renewed by making a `POST`
 ```php
 use Illuminate\Support\Facades\Http;
 
-$response = Http::asForm()->post('https://kanka.io/oauth/token', [
+$response = Http::asForm()->post('https://app.kanka.io/oauth/token', [
     'grant_type' => 'refresh_token',
     'refresh_token' => 'the-refresh-token',
     'client_id' => 'client-id',
