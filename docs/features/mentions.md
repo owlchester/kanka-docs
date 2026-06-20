@@ -30,7 +30,9 @@ Instead of having the link fo to the entry's overview page, the advanced mention
 * `relations`
 * `reminders`
 
-Some entries like quests have a `quest-elements` subpage as a valid option.
+* Maps have the `explore` subpage as a valid option.
+* Whiteboards have the `draw` subpage as a valid option.
+* Quests have the `quest-elements` subpage as a valid option.
 
 The advanced mention can also specify the HTML anchor the link should point to using `[entity:123|anchor:post-69]`.
 
