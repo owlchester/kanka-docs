@@ -23,7 +23,7 @@ You can reference entries in properties using the advanced mention syntax `[enti
 
 You can get creative with some [basic math](https://github.com/chriskonnertz/string-calc) options. For example, a property with the value of `{Level}*{Con}` will multiple the `Level` and `Con` properties of this entry. If you want to round up or down, you can use `floor({Level}/3)` or `ceil(({Con}*{Level})/2)` as well.
 
-Number properties can be set up to only allow values between a range of numbers. For example, use `Level[range:1,10]` to limit the property between 1 and 10. The range values can also reference other properties, for example with `HP[range:0,{MaxHP}]`. When saving a property, if the value is outside the range, it will automatically revert to the closest range value.
+Number properties can be set up to only allow values between a range of numbers. For example, use `Level[range:1,10]` as the property name to limit the property value between 1 and 10. The range values can also reference other properties, for example with `HP[range:0,{MaxHP}]`. When saving a property, if the value is outside the range, it will automatically revert to the closest range value.
 
 The same syntax can also be used in a standard property to create a dropdown of preset options when live-editing a property in a [character sheet](/plugins/character-sheets) or in the entry's properties page, for example with `[range:London,Berlin,Zürich]`. However, the full properties form will still show them as text fields and accept any value.
 
