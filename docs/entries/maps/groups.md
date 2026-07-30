@@ -1,13 +1,36 @@
 # Map Groups
 
-Map groups are a way to group markers together, where showing or hiding a group on a map will also show or hide all markers in that group.
+Map groups organise related markers in Map Explorer's legend. For example, you can create groups for **Settlements**, **Forests**, and **Ruins**, then assign each marker to the appropriate group.
 
-For example, you can have a group called **Settlements**, one called **Forests** and one called **Ruins**, and place all of your map markers in those groups. When viewing a map, you can toggle the markers in those groups with a simple click.
+Open the legend with the list button at the top left of Map Explorer. You can expand or collapse groups, search the marker list, and select any marker from it.
 
+## Create a group
 
-![Map group togglers](img/map-group-toggle.png)
+Editors can create groups without leaving the map:
+
+1. Open the legend.
+2. Select **Add group**.
+3. Give the group a name and choose its colour.
+4. Optionally choose a parent group and where the group should appear among its siblings.
+5. Choose the legacy default-visibility option, set its visibility, and create it.
+
+The group colour is shown beside the group and is used as the group indicator on marker details and when assigning a marker to a group.
+
+Use the map's regular edit page to edit, reorder, or remove existing groups. You can assign a group while creating or editing a marker in Map Explorer.
 
 ## Fields
+
+### Colour
+
+Every group has a colour. Choose one that makes the group easy to recognise in the legend and in marker details.
+
+### Parent group and placement
+
+Groups can be nested. Select a **Parent group** to make the new group a child of another group, then choose whether it should appear first or after one of its siblings.
+
+### Show group markers
+
+**Show group markers** is retained for the legacy map view, where it controls whether the group's markers are visible by default. Map Explorer lists all markers in the legend.
 
 ### Permissions
 

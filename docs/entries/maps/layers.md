@@ -1,8 +1,8 @@
 # Map Layers
 
-Map layers are a way to upload multiple images to a map, that can be toggle to replace the map's image being displayed.
+Map layers are additional images for a map. Create and manage them from the map's regular edit page; Map Explorer is the primary place for viewing and creating markers.
 
-For example, let's say you have an image of a dungeon with and without traps, or a battlemap with and without a grid. The map's image will be the main image as seen by your players, and a layer can be added that represents the alternative image of the map.
+For example, you can make a dungeon map with and without traps, or add a transparent layer containing a grid or political borders.
 
 ## Fields
 
@@ -14,11 +14,13 @@ The description field is for your own book-keeping, for example if you have numb
 
 Layers have three types that control how they are displayed on a map.
 
-* **Standard layer**: The default option, the layer will only display when clicked on.
-* **Overlay (displayed above)**: When toggled to display, this layer won't hide the original map image, but be visible on top. This is great for adding an image with transparency and some details to your map.
-* **Overlay shown by default**: Same as above, but this layer is visible by default when the map is opened.
+* **Standard layer**: an alternative map image, intended for the legacy map interface.
+* **Overlay (displayed above)**: an optional transparent image displayed over the base map in the legacy map interface.
+* **Overlay shown by default**: a transparent image that Map Explorer displays automatically above the base map. Use this for information that should always be visible, such as borders or a grid.
 
-_Note that overlay images will stretch to the size of the map's image_
+Map Explorer currently displays layers that are set to **Overlay shown by default**. It does not include the old layer-switching controls for standard and optional overlay layers.
+
+_Overlay images stretch to the size of the map image._
 
 
 ![Map layer overlay](img/map-layer-overlay.png)
@@ -37,8 +39,8 @@ There is currently no way to have more than twenty layers per map.
 
 ### Can multiple layers be shown at the same time?
 
-**Overlay** layers can be toggled each individually to be shown on top of either the map's base image or one of the standard layers.
+In the legacy map interface, **Overlay** layers can be shown individually on top of the base image or a standard layer. In Map Explorer, every **Overlay shown by default** layer is displayed.
 
 ### Can I attach markers to layers to show/hide them when a layer is visible?
 
-No, that's what [map groups](/entries/maps/groups) are for.
+No. Use [map groups](/entries/maps/groups) to organise markers instead.

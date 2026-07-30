@@ -1,59 +1,60 @@
 # Map Markers
 
-Markers are the bread and butter of what makes a great map. A nice visual won't tell you much if there is no info on the map!
+Markers turn a map into a browsable part of your world. A marker can identify a place, add a label or shape, and link readers to an entry.
 
-Markers can be added when editing a map on the **markers** tab, but you'll enjoy your sanity more when adding a marker directly from the **explore** page of a map.
+Create and edit markers directly in [Map Explorer](explore.md). The old **Markers** tab remains available for managing existing records, but it is no longer the place to add markers.
 
 ## Types of markers
 
-There are currently four types of markers. Standard campaigns only have access to markers, while premium campaigns have access to the later three.
+Map Explorer has five marker types. Choose a type from the toolbar at the bottom of the map, then draw or place it on the canvas.
 
-![Map marker types](img/map-marker-types.png)
+### Pin
 
-### Markers
-
-The basic marker on maps, think of it like a "pin" on a map.
+The standard point marker: click the map to place it. Choose one of the built-in icons, or use a custom icon in a premium campaign.
 
 #### Custom Icon
 
-Premium campaigns have access to **custom icons**, which can be icons from FontAwesome or RPGAwesome. 
+Premium campaigns have access to **custom icons**, which can be icons from Font Awesome or RPG Awesome.
 
-For FontAwesome, simply find a font that you like on it, and click on the code snippet (which should look something like `<i class="fa-solid fa-user"></i>`), and paste it into the custom icon field. The snippet will be automatically transformed into a format accepted by Kanka, in this case `fa-solid fa-user`.
+For Font Awesome, copy the icon's code snippet (for example, `<i class="fa-solid fa-user"></i>`) into the custom icon field. Kanka converts it to its class value, such as `fa-solid fa-user`.
 
-In the case of RPGAwesome, copy-paste the icon's name prefixed by `ra ` in the field. For example, for the aura icon, type `ra ra-aura`.
+For RPG Awesome, enter the icon name prefixed by `ra `; for example, `ra ra-aura`.
 
-This field also supports fully custom SVG icons. You can draw your icons in any vector drawing app and copy-paste the resulting SVG in this field. 
+You can also paste a custom SVG from a vector drawing app.
 
-_Note that the SVGs get re-sized by the app to be a default of 32x32 pixels to fit in a marker, so make sure that the SVG's viewport is using a full 100% of the width and height._ 
+_SVGs are resized to fit the pin, so use a viewbox that uses the available width and height._
 
 #### Draggable
 
-These markers have a **draggable** option, meaning users who can edit a map can drag markers on the map's explore page, and their new position will be saved.
+Enable **Draggable** in the marker's advanced options to let editors move the pin directly on Map Explorer. Its new position is saved automatically.
 
-### Label
+### Text
 
-A block of text on the map. This can't be moved around easily, but offers a clear visual different from markers. For example a kingdom's name smack down in the middle of it.
-
-![Map marker label](img/map-marker-label.png)
+A text label displays a marker's name on the map. Use it for a kingdom name, region, or other annotation. Like a pin, it can be repositioned by editors.
 
 ### Circle
 
-Draw a tiny or huge circle on the map. Go crazy! If the available sizes aren't good enough for you, you can give it a custom size in pixels.
+Click and drag to draw a circle. You can later resize or move it directly on the map.
 
-![Map marker circle](img/map-marker-circle.png)
+### Area
 
-### Polygon
+An **area** is a closed, custom shape. Click to add points and double-click to close it. When editing an area, drag its points or edges to reshape it.
 
-The most complicated marker, this option is to draw custom shapes on the map. For best results, create a polygon with `0,0 100,0 0,100` and save it. Once saved, edit the marker to enable clicking on the map to add coordinates. It's a messy process (that we plan on improving soon), but allows fully custom shapes.
+Use the marker colour for its fill, then set its border colour, border width, and opacity in the details panel. Areas replace the former **polygon** marker type.
 
-The stroke fields are to control the polygon's visuals (border, background color, opacity).
+### Path
 
-![Map marker polygon](img/map-marker-poly.png)
+A **path** is an open line made of points. Use it for roads, rivers, routes, walls, or borders. Click to add points and double-click to finish the path; drag its points or edges later to update its course. Set its colour, line width, and opacity in the details panel.
 
 ## Overall fields
 
-All markers have some overlapping fields. Here is a brief rundown of some of those fields.
+All marker types share these fields.
 
-* **Name** vs **Entity**: At least one of these has to be filled out. If both are filled out, the **name** will be used when hovering/viewing the marker.
+* **Name** or **linked entry**: provide at least one. If both are set, the name is used on the map and in the details panel.
+* **Group**: assign the marker to a [map group](groups.md), or leave it ungrouped.
+* **Colour** and **Opacity**: control the marker's appearance. Areas also have a border colour and width; paths have a line width.
+* **Visibility**: controls who can view the marker.
+* **Description**: write a custom entry shown when someone selects the marker. It can include links, mentions, and gallery images.
+* **Advanced**: set a CSS class or enable dragging where that marker type supports it.
 
-A marker can have a custom **Entry**, which is its description. When clicking on a marker on the map's explore page, it will display this custom entry, as well as a preview of the marker's linked entry, if one is provided.
+When a marker is selected, Map Explorer shows its custom description and, if linked, a preview of the entry.
