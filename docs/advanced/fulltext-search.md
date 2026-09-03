@@ -1,20 +1,20 @@
 # Full-text search
 
-In the case that you want to do a full-text search on all the contents of all entries, (i.e. properties, articles, descriptions) you can click on the "search everywhere" button displayed below the [quick search](/features/search).
-
-![How to access the ful- text search](img/fulltext-access.png)
+In the case that you want to do a full-text search on all the contents of all entries, (i.e. properties, articles, descriptions) you can click on the "everywhere" button displayed at the top right of the [search](/features/search) panel.
 
 
-This will perform the search for the same query, but now on all the contents of the campaign, the results of the search will always be entries, for example, if the match occurs on an timeline element's name, the displayed result will be the entry that has that timeline element.
+![How to access the full-text search](img/fulltext-toggle.png)
+![](img/fulltext-access.png)
 
-![Example results](img/fulltext-results.png)
 
-# Number of results
+This will perform the search for the search term on all the contents of the campaign, the results of the search will always be entries, for example, if the match occurs on an timeline element's name, the displayed result will be the entry that has that timeline element. The term will always be highlighted, along with a filter at the top for only showing results of a specific category.
 
-Search results are limited to 100 entries, this means that only the first 100 closest matches to the query will be processed. However, these results can sometimes make reference to the same entry, for example, if an entry's name and the title of one of its articles are a perfect match for the query, these would count as 2 results, but the entry would only be display once.
+![Full-text results](img/fulltext-highlight.png)
 
-Search results are displayed in alphabetical order and not relevancy due to limitations of the search engine. However, the results displayed are the top 100 most relevant results for the query.
+## Number of results
+
+Full-text search only shows up to 10 results to keep it fast. The more content the search term contains, the tighter the results. Search results are ordered by relevancy based on multiple factors (for example, an entry with the term in the name will show up higher than if the term is in article).
 
 # Related
 
-* [Quick search](/features/search)
+* [Search](/features/search)
