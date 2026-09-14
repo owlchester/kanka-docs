@@ -129,6 +129,7 @@ advanced/quick-links
 advanced/keyboard-shortcuts
 advanced/visibility
 advanced/html-formatting
+advanced/tiptap
 advanced/age
 advanced/toc
 advanced/api
