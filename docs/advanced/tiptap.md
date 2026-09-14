@@ -1,4 +1,4 @@
-# Rich Text Editor
+# Experimental Text Editor
 
 ```{admonition} Warning
 This document talks about the Experimental text editor in Kanka. You can switch to it in your [appearance settings](https://app.kanka.io/settings/appearance). This editor is built on top of the TipTap editor.
