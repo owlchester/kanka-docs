@@ -30,7 +30,7 @@ Instead of having the link fo to the entry's overview page, the advanced mention
 * `relations`
 * `reminders`
 
-* Maps have the `explore` subpage as a valid option.
+* Maps have the `explore` subpage as a valid option, with options `zoom`, `focus` (a pin's id), `lat` and `lng` to define how the map gets rendered.
 * Whiteboards have the `draw` subpage as a valid option.
 * Quests have the `quest-elements` subpage as a valid option.
 
