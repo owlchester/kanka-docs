@@ -33,3 +33,11 @@ Please note that there is a limit of 10 ideas submitted by account per day.
 ## Up-voting ideas
 
 Subscribers can upvote any amount of ideas from the **in progress** and **ideas** section. When a user's subscription ends, their up-votes stay as is. When their account gets deleted, so does their up-votes.
+
+## Champion
+
+**Elemental** subscribers can Champion one approved idea at a time on the roadmap's Ideas section. Championed ideas rise to the top of the list, ranked by the number of Elementals championing them, then by regular upvotes. This giving them extra visibility when we plan upcoming releases. Multiple Elementals can champion the same idea to give it even more momentum, and only the total champion count is shown publicly (never your username).
+
+![Champion roadmap ui](img/roadmap-champion.png)
+
+You can remove your champion or switch it to a different approved idea at any time, even if your current pick has already moved to Later, Next, or Now. Once an idea you're championing is marked as Done, your champion slot is automatically freed up so you can put your weight behind the next feature you'd like to see. If your Elemental subscription ends or is downgraded, any active champion slot is automatically released.
