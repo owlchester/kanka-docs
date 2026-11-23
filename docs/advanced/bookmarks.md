@@ -54,4 +54,4 @@ From our earlier example of your deities, setting the `Parent Element` to **Char
 Bookmarks that are displayed in their bookmarks section of the sidebar can be reordered. When viewing the list of bookmarks of the campaign, the top-right contains a `Reorder` button.
 
 
-![Reordering bookmark](img/quick-links-reorder.png)
+![Reordering bookmark](img/bookmarks-reorder.png)

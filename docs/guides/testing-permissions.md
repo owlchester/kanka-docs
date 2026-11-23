@@ -31,10 +31,6 @@ Also to note is that you won't see elements set up with the "self" visibility wh
 
 ## Switching back
 
-Once you're done confirming the permissions, you can click on the Back to my user button at the top of every page.
-
-![Switching back to the admin from the top of the page](img/permtest-back.png)
-
-You can also access this feature from the profile menu at the top right.
+Once you're done confirming the permissions, you can click on the Back to my user button at the top of every page from the profile dropdown.
 
 ![Switching back to the admin from the profile menu](img/permtest-back2.png)

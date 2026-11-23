@@ -41,11 +41,11 @@ This add a full row of just text on the dashboard, useful for splitting sections
 
 Similar to the entry preview, this however selects a random entry from the campaign to display on the dashboard.
 
-### Campaign Header
+### Billboard
 
-Always visible on the default dashboard of a campaign, this widget can be added to other dashboards and shows the campaign's name, short description, and dashboard image as a background.
+Always visible on the default dashboard of a campaign, this widget can be added to other dashboards and shows the campaign's name, short description, and billboard image as a background.
 
-![Campaign dashboard widget](img/dashboard-campaign.png)
+![Campaign billboard widget](img/dashboard-billboard.png)
 
 ### Widget Filters
 
@@ -53,9 +53,7 @@ You can filter entries displayed on the recently modified and random widget by p
 
 To make your life easier, when viewing a filtered list of entries, the filters will have a **copy to clipboard** button. For example, when viewing the characters of the campaign, filter on the kind of characters you want to display, click the button, and past the result in the widget's **filter** field.
 
-![Copy filters to the clipboard](img/dashboard-filters.png)
-
-
+![Copy filters to the clipboard](img/dashboard-filters-2026.png)
 
 ## Custom Dashboards
 
