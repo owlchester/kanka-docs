@@ -1,7 +1,7 @@
 # Experimental Text Editor
 
 ```{admonition} Warning
-This document talks about the Experimental text editor in Kanka. You can switch to it in your [appearance settings](https://app.kanka.io/settings/appearance). This editor is built on top of the TipTap editor.
+This document talks about the new default text editor in Kanka. You can switch to it in your [appearance settings](https://app.kanka.io/settings/appearance). This editor is built on top of the TipTap text editor.
 ```
 
 The rich text editor helps you format text, add links and images, reference entries, create tables, and edit HTML.
@@ -52,6 +52,7 @@ Available commands include:
 | Quote | Create a quote block |
 | Code Block | Create a code block |
 | Horizontal Rule | Insert a divider |
+| Table of contents | Inserts the {table-of-contents} block |
 
 Some commands, such as gallery and media upload, may only be available when the page supports them.
 
@@ -241,6 +242,9 @@ The editor recognises several Markdown-style patterns:
 | `# Heading` | Heading level 1 |
 | `## Heading` | Heading level 2 |
 | `### Heading` | Heading level 3 |
+| `#### Heading` | Heading level 4 |
+| `##### Heading` | Heading level 5 |
+| `###### Heading` | Heading level 6 |
 | `> Quote` | Quote |
 | `- Item` | Bullet list |
 | `1. Item` | Numbered list |

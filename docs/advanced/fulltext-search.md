@@ -4,7 +4,6 @@ In the case that you want to do a full-text search on all the contents of all en
 
 
 ![How to access the full-text search](img/fulltext-toggle.png)
-![](img/fulltext-access.png)
 
 
 This will perform the search for the search term on all the contents of the campaign, the results of the search will always be entries, for example, if the match occurs on an timeline element's name, the displayed result will be the entry that has that timeline element. The term will always be highlighted, along with a filter at the top for only showing results of a specific category.
