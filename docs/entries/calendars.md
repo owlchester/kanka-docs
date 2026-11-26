@@ -55,7 +55,8 @@ Imagining our real date of _February 4th 2023_, the following values will render
 * `M`: Displays the month name (`February`)
 * `m`: Displays the month number (`2`)
 * `y`: Displays the year (`2023`)
-* `s`: Displays the calendar's suffix (`CE`)
+* `E`: Displays the era (`CE`)
+* `s`: Displays the calendar's suffix (`YEE`)
 
 All other letters are ignored. You can use ` ` (space), `-` and `,` in between values.
 
